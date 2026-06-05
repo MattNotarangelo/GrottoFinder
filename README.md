@@ -203,8 +203,10 @@ changes — and catch parser breakage — before they go live. It never pushes t
 
 ## Frontend & Cloudflare Pages
 
-The frontend is a static Vite app using **Leaflet + OpenStreetMap tiles** (no
-key). Every grotto is shown as its own marker at all zoom levels. It loads
+The frontend is a static Vite app using **Leaflet** with **CARTO "Positron"
+basemap tiles** (light, free, no key, OSM data, and `@2x` retina tiles so the
+map stays sharp on HiDPI displays). Every grotto is shown as its own marker at
+all zoom levels. It loads
 `grottos.geojson`, offers "nearest to me" via browser geolocation (with a
 graceful **ZIP / Town, ST** fallback when geolocation is denied), a region
 filter, and marker popups linking to each club's site.

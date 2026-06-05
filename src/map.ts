@@ -42,9 +42,15 @@ function popupHtml(g: GrottoPoint): string {
 export function createMap(elementId: string): GrottoMap {
   const map = L.map(elementId).setView(US_CENTER, US_ZOOM);
 
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 19,
-    attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  // CARTO "Positron" basemap: light/clean, free, no API key, OSM data. The
+  // {r} token + detectRetina request @2x tiles on HiDPI displays so the map
+  // stays sharp instead of upscaling 1x tiles.
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    maxZoom: 20,
+    detectRetina: true,
+    subdomains: "abcd",
+    attribution:
+      '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions">CARTO</a>',
   }).addTo(map);
 
   const grottoLayer = L.featureGroup().addTo(map);
