@@ -26,7 +26,7 @@ const leg = (name: string, town: string, state: string, url: string | null = nul
   state,
   contactUrl: url,
 });
-const ros = (name: string, states: string[]): RosterGrotto => ({ name, states });
+const ros = (name: string, states: string[], link = `https://caves.org/grotto/${name.toLowerCase().replace(/\s+/g, "-")}/`): RosterGrotto => ({ name, states, link });
 
 describe("joinRosterWithLegacy", () => {
   const legacy = [
@@ -46,6 +46,17 @@ describe("joinRosterWithLegacy", () => {
   it("pulls town + website from the matched legacy entry", () => {
     const h = result.grottos.find((g) => g.name === "Huntsville Grotto");
     expect(h).toMatchObject({ town: "Huntsville", state: "AL", contactUrl: "https://h.org" });
+  });
+
+  it("falls back to the caves.org page when the legacy entry has no website", () => {
+    // Battlefield matched legacy (Manassas) but its legacy contactUrl is null.
+    const b = result.grottos.find((g) => g.name === "Battlefield Area Troglodyte Society");
+    expect(b?.contactUrl).toBe("https://caves.org/grotto/battlefield-area-troglodyte-society/");
+  });
+
+  it("uses the caves.org page for roster-only grottos too", () => {
+    const gila = result.grottos.find((g) => g.name === "Gila Area Grotto");
+    expect(gila?.contactUrl).toBe("https://caves.org/grotto/gila-area-grotto/");
   });
 
   it("matches across name/abbreviation variants and keeps the roster's name", () => {

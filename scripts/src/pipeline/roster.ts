@@ -19,11 +19,14 @@ export interface RosterGrotto {
   name: string;
   /** USPS code(s) from the API's state taxonomy; [] for non-grotto entities. */
   states: string[];
+  /** The grotto's own page on caves.org (permalink); used as a link fallback. */
+  link: string;
 }
 
 interface ApiGrotto {
   title?: { rendered?: string };
   state?: number[];
+  link?: string;
 }
 
 interface ApiStateTerm {
@@ -61,7 +64,7 @@ export async function fetchRoster(): Promise<RosterGrotto[]> {
   const stateMap = await fetchStateTermMap();
   const out: RosterGrotto[] = [];
   for (let page = 1; ; page++) {
-    const url = `${API_BASE}/grottos?per_page=${PER_PAGE}&page=${page}&_fields=title,state`;
+    const url = `${API_BASE}/grottos?per_page=${PER_PAGE}&page=${page}&_fields=title,state,link`;
     const batch = await getJson<ApiGrotto[]>(url);
     if (batch.length === 0) break;
     for (const g of batch) {
@@ -70,7 +73,7 @@ export async function fetchRoster(): Promise<RosterGrotto[]> {
       const states = (g.state ?? [])
         .map((id) => stateMap.get(id))
         .filter((c): c is string => Boolean(c));
-      out.push({ name, states });
+      out.push({ name, states, link: g.link ?? "" });
     }
     if (batch.length < PER_PAGE) break;
   }

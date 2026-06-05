@@ -54,6 +54,10 @@ export function joinRosterWithLegacy(
     const legacyKey = aliasByKey.get(key) ?? key;
     const hit = legacyByKey.get(legacyKey);
 
+    // Link preference: the club's own website (from legacy) if present,
+    // otherwise the grotto's page on caves.org.
+    const cavesPage = r.link || null;
+
     if (hit) {
       matched += 1;
       matchedLegacyKeys.add(legacyKey);
@@ -61,7 +65,7 @@ export function joinRosterWithLegacy(
         name: r.name, // API name is authoritative for display
         town: hit.town,
         state: hit.town ? hit.state : (r.states[0] ?? hit.state),
-        contactUrl: hit.contactUrl,
+        contactUrl: hit.contactUrl ?? cavesPage,
       });
     } else {
       apiOnly.push(r.name);
@@ -69,7 +73,7 @@ export function joinRosterWithLegacy(
         name: r.name,
         town: "",
         state: r.states[0] ?? "",
-        contactUrl: null,
+        contactUrl: cavesPage,
       });
     }
   }
