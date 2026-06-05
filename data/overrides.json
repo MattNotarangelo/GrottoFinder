@@ -1,0 +1,27 @@
+{
+  "_comment": "Hand-maintained corrections. Overrides ALWAYS win and survive every re-scrape. Keys are grotto names (case-insensitive, whitespace-collapsed). Keys starting with '_' are ignored. Fields: exclude (bool, drop it), town, state, lat, lng (pin a town centroid), name, contact_url, note. See README 'How overrides work'.",
+  "_example_coordinate_fix": {
+    "note": "EXAMPLE ONLY (key starts with _ so it is ignored). To fix a mislocated grotto, copy this under its exact name: \"Some Grotto\": { \"lat\": 35.123, \"lng\": -86.456, \"note\": \"why\" }"
+  },
+  "Pittsburgh Grotto": {
+    "town": "McKeesport",
+    "state": "PA",
+    "note": "Source misspells the town as 'McKeespot', which fails to geocode. Corrected to McKeesport, PA."
+  },
+  "Israeli Caving Club": {
+    "exclude": true,
+    "note": "Foreign (Israel); outside the scope of a US nearest-to-me map."
+  },
+  "Anthros Costa Rica Grotto": {
+    "exclude": true,
+    "note": "Foreign (Costa Rica); listed in the source but not a US location."
+  },
+  "Balincaguin Conservancy Grotto": {
+    "exclude": true,
+    "note": "Foreign (Philippines); outside US map scope."
+  },
+  "PAAMUL - Gruta de": {
+    "exclude": true,
+    "note": "Foreign (Mexico); source entry has no usable US town."
+  }
+}

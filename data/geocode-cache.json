@@ -1,0 +1,992 @@
+{
+  "Ada, OK": {
+    "lat": 34.7743383,
+    "lng": -96.6783651,
+    "source": "nominatim"
+  },
+  "Albuquerque, NM": {
+    "lat": 35.0841034,
+    "lng": -106.650985,
+    "source": "nominatim"
+  },
+  "Aldie, VA": {
+    "lat": 38.975841,
+    "lng": -77.6460477,
+    "source": "nominatim"
+  },
+  "Altavista, VA": {
+    "lat": 37.1118094,
+    "lng": -79.285579,
+    "source": "nominatim"
+  },
+  "Ann Arbor, MI": {
+    "lat": 42.2813722,
+    "lng": -83.7484616,
+    "source": "nominatim"
+  },
+  "Artesia, NM": {
+    "lat": 32.8423345,
+    "lng": -104.4032963,
+    "source": "nominatim"
+  },
+  "Asheville, NC": {
+    "lat": 35.595363,
+    "lng": -82.5508407,
+    "source": "nominatim"
+  },
+  "Atlanta, GA": {
+    "lat": 33.7544657,
+    "lng": -84.3898151,
+    "source": "nominatim"
+  },
+  "Augusta, GA": {
+    "lat": 33.4709714,
+    "lng": -81.9748429,
+    "source": "nominatim"
+  },
+  "Barbourville, KY": {
+    "lat": 36.8664765,
+    "lng": -83.8888138,
+    "source": "nominatim"
+  },
+  "Batesville, AR": {
+    "lat": 35.7708144,
+    "lng": -91.6531128,
+    "source": "nominatim"
+  },
+  "Belleville, PA": {
+    "lat": 40.6018585,
+    "lng": -77.7280899,
+    "source": "nominatim"
+  },
+  "Bend, OR": {
+    "lat": 44.0581728,
+    "lng": -121.3153096,
+    "source": "nominatim"
+  },
+  "Beverly, WV": {
+    "lat": 38.8407799,
+    "lng": -79.8751955,
+    "source": "nominatim"
+  },
+  "Big Spring, TX": {
+    "lat": 32.250398,
+    "lng": -101.4787356,
+    "source": "nominatim"
+  },
+  "Birmingham, AL": {
+    "lat": 33.5206824,
+    "lng": -86.8024326,
+    "source": "nominatim"
+  },
+  "Bisbee, AZ": {
+    "lat": 31.4417165,
+    "lng": -109.9159946,
+    "source": "nominatim"
+  },
+  "Blacksburg, VA": {
+    "lat": 37.2296566,
+    "lng": -80.4136767,
+    "source": "nominatim"
+  },
+  "Bloomington, IN": {
+    "lat": 39.1670396,
+    "lng": -86.5342881,
+    "source": "nominatim"
+  },
+  "Blue Springs, MO": {
+    "lat": 39.017316,
+    "lng": -94.282265,
+    "source": "nominatim"
+  },
+  "Boise, ID": {
+    "lat": 43.6166163,
+    "lng": -116.200886,
+    "source": "nominatim"
+  },
+  "Bonaire, GA": {
+    "lat": 32.5438429,
+    "lng": -83.5960264,
+    "source": "nominatim"
+  },
+  "Boulder, CO": {
+    "lat": 40.0149856,
+    "lng": -105.270545,
+    "source": "nominatim"
+  },
+  "Bowling Green, KY": {
+    "lat": 36.9929203,
+    "lng": -86.4428677,
+    "source": "nominatim"
+  },
+  "Bozeman, MT": {
+    "lat": 45.6794293,
+    "lng": -111.044047,
+    "source": "nominatim"
+  },
+  "Brandon, MS": {
+    "lat": 32.2731475,
+    "lng": -89.9868058,
+    "source": "nominatim"
+  },
+  "Brecksville, OH": {
+    "lat": 41.3197763,
+    "lng": -81.6267904,
+    "source": "nominatim"
+  },
+  "Bristol, CT": {
+    "lat": 41.6711752,
+    "lng": -72.9430128,
+    "source": "nominatim"
+  },
+  "Bristol, TN": {
+    "lat": 36.5945034,
+    "lng": -82.1885212,
+    "source": "nominatim"
+  },
+  "Brookfield, IL": {
+    "lat": 41.8228378,
+    "lng": -87.848085,
+    "source": "nominatim"
+  },
+  "Burlington, WI": {
+    "lat": 42.6801053,
+    "lng": -88.276413,
+    "source": "nominatim"
+  },
+  "Burnsville, MN": {
+    "lat": 44.7670567,
+    "lng": -93.2773887,
+    "source": "nominatim"
+  },
+  "Cambridge, MA": {
+    "lat": 42.3656347,
+    "lng": -71.1040018,
+    "source": "nominatim"
+  },
+  "Canoga Park, CA": {
+    "lat": 34.2011078,
+    "lng": -118.5978087,
+    "source": "nominatim"
+  },
+  "Cape Girardeau, MO": {
+    "lat": 37.304731,
+    "lng": -89.5176418,
+    "source": "nominatim"
+  },
+  "Carbondale, IL": {
+    "lat": 37.7274692,
+    "lng": -89.216655,
+    "source": "nominatim"
+  },
+  "Carlisle, PA": {
+    "lat": 40.201499,
+    "lng": -77.1890783,
+    "source": "nominatim"
+  },
+  "Carlsbad, NM": {
+    "lat": 32.4257456,
+    "lng": -104.237612,
+    "source": "nominatim"
+  },
+  "Casper, WY": {
+    "lat": 42.8501191,
+    "lng": -106.325138,
+    "source": "nominatim"
+  },
+  "Chapel Hill, TN": {
+    "lat": 35.6264581,
+    "lng": -86.6933305,
+    "source": "nominatim"
+  },
+  "Charleston, WV": {
+    "lat": 38.3505995,
+    "lng": -81.6332812,
+    "source": "nominatim"
+  },
+  "Chattanooga, TN": {
+    "lat": 35.0457219,
+    "lng": -85.3094883,
+    "source": "nominatim"
+  },
+  "Chelsea, MI": {
+    "lat": 42.3180163,
+    "lng": -84.020224,
+    "source": "nominatim"
+  },
+  "Chesapeake, VA": {
+    "lat": 36.7168315,
+    "lng": -76.2494453,
+    "source": "nominatim"
+  },
+  "Cincinnati, OH": {
+    "lat": 39.1012809,
+    "lng": -84.5127405,
+    "source": "nominatim"
+  },
+  "Cloverdale, CA": {
+    "lat": 38.8064632,
+    "lng": -123.0178759,
+    "source": "nominatim"
+  },
+  "Cogan Station, PA": {
+    "lat": 41.3173751,
+    "lng": -77.0766192,
+    "source": "nominatim"
+  },
+  "Colbert, GA": {
+    "lat": 34.0378903,
+    "lng": -83.2126517,
+    "source": "nominatim"
+  },
+  "College Station, TX": {
+    "lat": 30.6183939,
+    "lng": -96.3455991,
+    "source": "nominatim"
+  },
+  "Columbia, MO": {
+    "lat": 38.951883,
+    "lng": -92.3337366,
+    "source": "nominatim"
+  },
+  "Columbus, OH": {
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "source": "nominatim"
+  },
+  "Conifer, CO": {
+    "lat": 39.5233424,
+    "lng": -105.305499,
+    "source": "nominatim"
+  },
+  "Cookeville, TN": {
+    "lat": 36.1623886,
+    "lng": -85.4997057,
+    "source": "nominatim"
+  },
+  "Corbett, OR": {
+    "lat": 45.5314503,
+    "lng": -122.292256,
+    "source": "nominatim"
+  },
+  "Crozet, VA": {
+    "lat": 38.065017,
+    "lng": -78.690893,
+    "source": "nominatim"
+  },
+  "Cullman, AL": {
+    "lat": 34.1335332,
+    "lng": -86.8779268,
+    "source": "nominatim"
+  },
+  "Custer, SD": {
+    "lat": 43.6726477,
+    "lng": -103.5101597,
+    "source": "nominatim"
+  },
+  "Dayton, NV": {
+    "lat": 39.2501076,
+    "lng": -119.5858042,
+    "source": "nominatim"
+  },
+  "Decatur, GA": {
+    "lat": 30.8736613,
+    "lng": -84.5740953,
+    "source": "nominatim"
+  },
+  "Durango, CO": {
+    "lat": 37.2769484,
+    "lng": -107.8766,
+    "source": "nominatim"
+  },
+  "El Paso, TX": {
+    "lat": 31.7601001,
+    "lng": -106.4870476,
+    "source": "nominatim"
+  },
+  "Elkhart, IN": {
+    "lat": 41.6012796,
+    "lng": -85.8590603,
+    "source": "nominatim"
+  },
+  "Elwood, IN": {
+    "lat": 40.2769834,
+    "lng": -85.8419246,
+    "source": "nominatim"
+  },
+  "Fairview, OR": {
+    "lat": 45.5385457,
+    "lng": -122.4330512,
+    "source": "nominatim"
+  },
+  "Fort Mill, SC": {
+    "lat": 35.0073697,
+    "lng": -80.9450759,
+    "source": "nominatim"
+  },
+  "Fort Valley, VA": {
+    "lat": 38.8716103,
+    "lng": -78.3890233,
+    "source": "nominatim"
+  },
+  "Frankford, WV": {
+    "lat": 37.9251205,
+    "lng": -80.3845197,
+    "source": "nominatim"
+  },
+  "Fredericksburg, VA": {
+    "lat": 38.3031837,
+    "lng": -77.4605399,
+    "source": "nominatim"
+  },
+  "Fresno, CA": {
+    "lat": 36.7394421,
+    "lng": -119.78483,
+    "source": "nominatim"
+  },
+  "Fulton, MD": {
+    "lat": 39.1509408,
+    "lng": -76.9230307,
+    "source": "nominatim"
+  },
+  "Gadsden, AL": {
+    "lat": 34.0128323,
+    "lng": -86.0030251,
+    "source": "nominatim"
+  },
+  "Gallant, AL": {
+    "lat": 34.0012604,
+    "lng": -86.232863,
+    "source": "nominatim"
+  },
+  "Gerrardstown, WV": {
+    "lat": 39.3703778,
+    "lng": -78.0955563,
+    "source": "nominatim"
+  },
+  "Glendale, AZ": {
+    "lat": 33.5386858,
+    "lng": -112.185994,
+    "source": "nominatim"
+  },
+  "Glenwood Springs, CO": {
+    "lat": 39.5466381,
+    "lng": -107.3246941,
+    "source": "nominatim"
+  },
+  "Grafton, WV": {
+    "lat": 39.3409249,
+    "lng": -80.0189659,
+    "source": "nominatim"
+  },
+  "Granger, IN": {
+    "lat": 41.735251,
+    "lng": -86.1062763,
+    "source": "nominatim"
+  },
+  "Grayson, KY": {
+    "lat": 37.4537437,
+    "lng": -86.3389464,
+    "source": "nominatim"
+  },
+  "Greeneville, TN": {
+    "lat": 36.1631981,
+    "lng": -82.8310464,
+    "source": "nominatim"
+  },
+  "Greer, SC": {
+    "lat": 34.9381361,
+    "lng": -82.2272119,
+    "source": "nominatim"
+  },
+  "Hamilton Square, NJ": {
+    "lat": 40.226459,
+    "lng": -74.65399,
+    "source": "nominatim"
+  },
+  "Harpers Ferry, WV": {
+    "lat": 39.323418,
+    "lng": -77.7319766,
+    "source": "nominatim"
+  },
+  "Harrison, AR": {
+    "lat": 36.2297936,
+    "lng": -93.1076765,
+    "source": "nominatim"
+  },
+  "Harrisonburg, VA": {
+    "lat": 38.4493315,
+    "lng": -78.8688833,
+    "source": "nominatim"
+  },
+  "Huntingdon, PA": {
+    "lat": 40.3446332,
+    "lng": -78.0281185,
+    "source": "nominatim"
+  },
+  "Huntsville, AL": {
+    "lat": 34.729847,
+    "lng": -86.5859011,
+    "source": "nominatim"
+  },
+  "Indiana, PA": {
+    "lat": 40.6424116,
+    "lng": -79.1262839,
+    "source": "nominatim"
+  },
+  "Indianapolis, IN": {
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "source": "nominatim"
+  },
+  "Iowa City, IA": {
+    "lat": 41.6612561,
+    "lng": -91.5299106,
+    "source": "nominatim"
+  },
+  "Irving, TX": {
+    "lat": 32.8295183,
+    "lng": -96.9442177,
+    "source": "nominatim"
+  },
+  "Jacksonville, FL": {
+    "lat": 30.3262247,
+    "lng": -81.6579179,
+    "source": "nominatim"
+  },
+  "Jasper, IN": {
+    "lat": 41.0321808,
+    "lng": -87.1066598,
+    "source": "nominatim"
+  },
+  "Jersey Village, TX": {
+    "lat": 29.888578,
+    "lng": -95.5699185,
+    "source": "nominatim"
+  },
+  "Juneau, AK": {
+    "lat": 58.3019613,
+    "lng": -134.4196751,
+    "source": "nominatim"
+  },
+  "Kennesaw, GA": {
+    "lat": 34.0234337,
+    "lng": -84.6154897,
+    "source": "nominatim"
+  },
+  "Keyser, WV": {
+    "lat": 39.4409277,
+    "lng": -78.9739156,
+    "source": "nominatim"
+  },
+  "Kingston, NY": {
+    "lat": 41.9287812,
+    "lng": -74.0023825,
+    "source": "nominatim"
+  },
+  "Kinnelon, NJ": {
+    "lat": 41.0017644,
+    "lng": -74.367096,
+    "source": "nominatim"
+  },
+  "Knoxville, TN": {
+    "lat": 35.9603948,
+    "lng": -83.9210261,
+    "source": "nominatim"
+  },
+  "Lagrange, KY": {
+    "lat": 38.4124695,
+    "lng": -85.3842213,
+    "source": "nominatim"
+  },
+  "Laramie, WY": {
+    "lat": 41.3116442,
+    "lng": -105.5917876,
+    "source": "nominatim"
+  },
+  "Las Cruces, NM": {
+    "lat": 32.3140354,
+    "lng": -106.779807,
+    "source": "nominatim"
+  },
+  "Las Vegas, NV": {
+    "lat": 36.1674263,
+    "lng": -115.1484131,
+    "source": "nominatim"
+  },
+  "Lemon Grove, CA": {
+    "lat": 32.7425516,
+    "lng": -117.0314172,
+    "source": "nominatim"
+  },
+  "Lexington, KY": {
+    "lat": 38.0464066,
+    "lng": -84.4970393,
+    "source": "nominatim"
+  },
+  "Littleton, CO": {
+    "lat": 39.613321,
+    "lng": -105.016649,
+    "source": "nominatim"
+  },
+  "Long Beach, CA": {
+    "lat": 33.7690164,
+    "lng": -118.191604,
+    "source": "nominatim"
+  },
+  "Los Alamos, NM": {
+    "lat": 35.88137,
+    "lng": -106.298959,
+    "source": "nominatim"
+  },
+  "Loveland, CO": {
+    "lat": 40.3977612,
+    "lng": -105.07498,
+    "source": "nominatim"
+  },
+  "Lubbock, TX": {
+    "lat": 33.5855677,
+    "lng": -101.8470215,
+    "source": "nominatim"
+  },
+  "Manteca, CA": {
+    "lat": 37.7986184,
+    "lng": -121.2117148,
+    "source": "nominatim"
+  },
+  "Marlboro, VT": {
+    "lat": 42.8596573,
+    "lng": -72.7258755,
+    "source": "nominatim"
+  },
+  "Maumelle, AR": {
+    "lat": 34.856613,
+    "lng": -92.4056858,
+    "source": "nominatim"
+  },
+  "McKeesport, PA": {
+    "lat": 40.3478472,
+    "lng": -79.864215,
+    "source": "nominatim"
+  },
+  "Mechanicsburg, PA": {
+    "lat": 40.2101972,
+    "lng": -77.0047276,
+    "source": "nominatim"
+  },
+  "Mechanicsville, VA": {
+    "lat": 37.627722,
+    "lng": -77.3538176,
+    "source": "nominatim"
+  },
+  "Media, PA": {
+    "lat": 39.9167783,
+    "lng": -75.387693,
+    "source": "nominatim"
+  },
+  "Menlo Park, CA": {
+    "lat": 37.4519671,
+    "lng": -122.177992,
+    "source": "nominatim"
+  },
+  "Metairie, LA": {
+    "lat": 29.9899926,
+    "lng": -90.1505426,
+    "source": "nominatim"
+  },
+  "Millers, MD": {
+    "lat": 39.6712137,
+    "lng": -76.8510883,
+    "source": "nominatim"
+  },
+  "Monroeville, PA": {
+    "lat": 40.4335167,
+    "lng": -79.7606192,
+    "source": "nominatim"
+  },
+  "Monterey, VA": {
+    "lat": 38.411985,
+    "lng": -79.5794666,
+    "source": "nominatim"
+  },
+  "Montgomery Creek, CA": {
+    "lat": 40.8395875,
+    "lng": -121.9232151,
+    "source": "nominatim"
+  },
+  "Montgomery, AL": {
+    "lat": 32.3777111,
+    "lng": -86.3090775,
+    "source": "nominatim"
+  },
+  "Monument, CO": {
+    "lat": 39.0916586,
+    "lng": -104.872758,
+    "source": "nominatim"
+  },
+  "Morgantown, WV": {
+    "lat": 39.6296809,
+    "lng": -79.9559437,
+    "source": "nominatim"
+  },
+  "Morris, AL": {
+    "lat": 33.747724,
+    "lng": -86.8091343,
+    "source": "nominatim"
+  },
+  "Mount Berry, GA": {
+    "lat": 34.275093,
+    "lng": -85.1832843,
+    "source": "nominatim"
+  },
+  "Mount Orab, OH": {
+    "lat": 39.0275659,
+    "lng": -83.919652,
+    "source": "nominatim"
+  },
+  "Muncy, PA": {
+    "lat": 41.20484,
+    "lng": -76.7870991,
+    "source": "nominatim"
+  },
+  "Nashville, TN": {
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "source": "nominatim"
+  },
+  "Neffs, PA": {
+    "lat": 40.6945399,
+    "lng": -75.609631,
+    "source": "nominatim"
+  },
+  "New York, NY": {
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "source": "nominatim"
+  },
+  "Normal, IL": {
+    "lat": 40.5092961,
+    "lng": -88.9843937,
+    "source": "nominatim"
+  },
+  "North Little Rock, AR": {
+    "lat": 34.769536,
+    "lng": -92.2670941,
+    "source": "nominatim"
+  },
+  "Oak Ridge, TN": {
+    "lat": 36.0103562,
+    "lng": -84.2696449,
+    "source": "nominatim"
+  },
+  "Ocean View, HI": {
+    "lat": 21.3092966,
+    "lng": -157.848491,
+    "source": "nominatim"
+  },
+  "Olmsted Township, OH": {
+    "lat": 41.3767848,
+    "lng": -81.9456499,
+    "source": "nominatim"
+  },
+  "Ontario, NY": {
+    "lat": 42.8580624,
+    "lng": -77.295025,
+    "source": "nominatim"
+  },
+  "Orlando, KY": {
+    "lat": 37.3728625,
+    "lng": -84.2679902,
+    "source": "nominatim"
+  },
+  "Ozark, MO": {
+    "lat": 36.6467816,
+    "lng": -92.4575198,
+    "source": "nominatim"
+  },
+  "Pacific, MO": {
+    "lat": 38.481809,
+    "lng": -90.7415865,
+    "source": "nominatim"
+  },
+  "Palm Bay, FL": {
+    "lat": 27.9946969,
+    "lng": -80.6366144,
+    "source": "nominatim"
+  },
+  "Paul, MN": {
+    "lat": 44.9773471,
+    "lng": -93.0552855,
+    "source": "nominatim"
+  },
+  "Poland, IN": {
+    "lat": 39.4442104,
+    "lng": -86.950845,
+    "source": "nominatim"
+  },
+  "Porter, OK": {
+    "lat": 35.8683799,
+    "lng": -95.5228986,
+    "source": "nominatim"
+  },
+  "Portland, OR": {
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "source": "nominatim"
+  },
+  "Prairie du Sac, WI": {
+    "lat": 43.2773819,
+    "lng": -89.7882794,
+    "source": "nominatim"
+  },
+  "Prescott Valley, AZ": {
+    "lat": 34.5950776,
+    "lng": -112.3338634,
+    "source": "nominatim"
+  },
+  "Radford, VA": {
+    "lat": 37.1343148,
+    "lng": -80.5749169,
+    "source": "nominatim"
+  },
+  "Raleigh, NC": {
+    "lat": 35.7803977,
+    "lng": -78.6390989,
+    "source": "nominatim"
+  },
+  "Rifle, CO": {
+    "lat": 39.5347023,
+    "lng": -107.7831199,
+    "source": "nominatim"
+  },
+  "Roanoke, VA": {
+    "lat": 37.270973,
+    "lng": -79.9414313,
+    "source": "nominatim"
+  },
+  "Rock Spring, GA": {
+    "lat": 34.8155945,
+    "lng": -85.2374641,
+    "source": "nominatim"
+  },
+  "Rolla, MO": {
+    "lat": 37.9509324,
+    "lng": -91.7708076,
+    "source": "nominatim"
+  },
+  "Ruidoso Downs, NM": {
+    "lat": 33.3312133,
+    "lng": -105.5908356,
+    "source": "nominatim"
+  },
+  "Sacramento, CA": {
+    "lat": 38.5810606,
+    "lng": -121.493895,
+    "source": "nominatim"
+  },
+  "San Antonio, TX": {
+    "lat": 29.4246002,
+    "lng": -98.4951405,
+    "source": "nominatim"
+  },
+  "San Diego, CA": {
+    "lat": 32.7174202,
+    "lng": -117.162772,
+    "source": "nominatim"
+  },
+  "Sandy, UT": {
+    "lat": 40.5710454,
+    "lng": -111.8953815,
+    "source": "nominatim"
+  },
+  "Schoharie, NY": {
+    "lat": 42.5757217,
+    "lng": -74.4390277,
+    "source": "nominatim"
+  },
+  "Scottsboro, AL": {
+    "lat": 34.6731323,
+    "lng": -86.0338765,
+    "source": "nominatim"
+  },
+  "Scranton, KS": {
+    "lat": 38.7816717,
+    "lng": -95.7385956,
+    "source": "nominatim"
+  },
+  "Seattle, WA": {
+    "lat": 47.6038321,
+    "lng": -122.330062,
+    "source": "nominatim"
+  },
+  "Sewanee, TN": {
+    "lat": 35.2031373,
+    "lng": -85.9210899,
+    "source": "nominatim"
+  },
+  "Sherwood, AR": {
+    "lat": 34.8150907,
+    "lng": -92.2243153,
+    "source": "nominatim"
+  },
+  "Sinks Grove, WV": {
+    "lat": 37.6642889,
+    "lng": -80.5409061,
+    "source": "nominatim"
+  },
+  "Socorro, NM": {
+    "lat": 34.0572858,
+    "lng": -106.8930799,
+    "source": "nominatim"
+  },
+  "Spencer, TN": {
+    "lat": 35.7472893,
+    "lng": -85.4666413,
+    "source": "nominatim"
+  },
+  "Springfield, MO": {
+    "lat": 37.2081729,
+    "lng": -93.2922715,
+    "source": "nominatim"
+  },
+  "Springfield, OH": {
+    "lat": 39.9234046,
+    "lng": -83.810138,
+    "source": "nominatim"
+  },
+  "Springville, UT": {
+    "lat": 40.1652447,
+    "lng": -111.6114726,
+    "source": "nominatim"
+  },
+  "St Louis, MO": {
+    "lat": 38.6254063,
+    "lng": -90.190009,
+    "source": "nominatim"
+  },
+  "St. Louis, MO": {
+    "lat": 38.6254063,
+    "lng": -90.190009,
+    "source": "nominatim"
+  },
+  "St. Peters, MO": {
+    "lat": 38.791612,
+    "lng": -90.5958468,
+    "source": "nominatim"
+  },
+  "St. Robert, MO": {
+    "lat": 37.8140737,
+    "lng": -92.1375079,
+    "source": "nominatim"
+  },
+  "State College, PA": {
+    "lat": 40.7944504,
+    "lng": -77.8616386,
+    "source": "nominatim"
+  },
+  "Sugar Grove, OH": {
+    "lat": 39.6264539,
+    "lng": -82.5484932,
+    "source": "nominatim"
+  },
+  "Syracuse, NY": {
+    "lat": 43.0481221,
+    "lng": -76.1474244,
+    "source": "nominatim"
+  },
+  "Tallahassee, FL": {
+    "lat": 30.4380832,
+    "lng": -84.2809332,
+    "source": "nominatim"
+  },
+  "Tampa, FL": {
+    "lat": 27.9449854,
+    "lng": -82.4583107,
+    "source": "nominatim"
+  },
+  "Troy, NY": {
+    "lat": 42.7284117,
+    "lng": -73.6917878,
+    "source": "nominatim"
+  },
+  "Troy, OH": {
+    "lat": 40.0394982,
+    "lng": -84.2032767,
+    "source": "nominatim"
+  },
+  "Tucson, AZ": {
+    "lat": 32.2228765,
+    "lng": -110.974847,
+    "source": "nominatim"
+  },
+  "Twin Falls, ID": {
+    "lat": 42.5558542,
+    "lng": -114.4700684,
+    "source": "nominatim"
+  },
+  "Union City, CA": {
+    "lat": 37.5872576,
+    "lng": -122.0215737,
+    "source": "nominatim"
+  },
+  "Upper Tract, WV": {
+    "lat": 38.7873352,
+    "lng": -79.2825409,
+    "source": "nominatim"
+  },
+  "Walnut Shade, MO": {
+    "lat": 36.7325602,
+    "lng": -93.1935142,
+    "source": "nominatim"
+  },
+  "Wanaque, NJ": {
+    "lat": 41.0381526,
+    "lng": -74.2940378,
+    "source": "nominatim"
+  },
+  "Warrenville, IL": {
+    "lat": 41.8179303,
+    "lng": -88.174097,
+    "source": "nominatim"
+  },
+  "Warrington, PA": {
+    "lat": 40.2492741,
+    "lng": -75.1340604,
+    "source": "nominatim"
+  },
+  "West Jordan, UT": {
+    "lat": 40.6061337,
+    "lng": -111.9395211,
+    "source": "nominatim"
+  },
+  "Westminster, MD": {
+    "lat": 39.5751717,
+    "lng": -76.9959168,
+    "source": "nominatim"
+  },
+  "Williamstown, WV": {
+    "lat": 39.4000046,
+    "lng": -81.4488545,
+    "source": "nominatim"
+  },
+  "Williston, FL": {
+    "lat": 29.3880028,
+    "lng": -82.4481694,
+    "source": "nominatim"
+  },
+  "Wilmington, DE": {
+    "lat": 39.7459468,
+    "lng": -75.546589,
+    "source": "nominatim"
+  },
+  "Woodstock, IL": {
+    "lat": 42.3147529,
+    "lng": -88.4474302,
+    "source": "nominatim"
+  },
+  "Wytheville, VA": {
+    "lat": 36.9479966,
+    "lng": -81.0869747,
+    "source": "nominatim"
+  }
+}

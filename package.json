@@ -1,0 +1,34 @@
+{
+  "name": "grottofinder",
+  "version": "1.0.0",
+  "description": "Static web map of NSS grottos (local caving clubs), town-level only.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "pipeline": "tsx scripts/src/pipeline/build.ts",
+    "pipeline:offline": "tsx scripts/src/pipeline/build.ts --no-network",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.12",
+    "@types/leaflet.markercluster": "^1.5.4",
+    "@types/node": "^20.19.41",
+    "node-html-parser": "^6.1.13",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

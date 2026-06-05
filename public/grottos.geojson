@@ -1,0 +1,3623 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4196751,
+          58.3019613
+        ]
+      },
+      "properties": {
+        "name": "Glacier Grotto",
+        "region": "Pacific",
+        "town": "Juneau",
+        "state": "AK",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8024326,
+          33.5206824
+        ]
+      },
+      "properties": {
+        "name": "Birmingham Grotto",
+        "region": "Southeast / TAG",
+        "town": "Birmingham",
+        "state": "AL",
+        "contact_url": "http://www.bhamgrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8091343,
+          33.747724
+        ]
+      },
+      "properties": {
+        "name": "Central Alabama Grotto",
+        "region": "Southeast / TAG",
+        "town": "Morris",
+        "state": "AL",
+        "contact_url": "http://centralalabamagrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8779268,
+          34.1335332
+        ]
+      },
+      "properties": {
+        "name": "Cullman Grotto",
+        "region": "Southeast / TAG",
+        "town": "Cullman",
+        "state": "AL",
+        "contact_url": "http://cullmangrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      },
+      "properties": {
+        "name": "Gadsden Grotto",
+        "region": "Southeast / TAG",
+        "town": "Gadsden",
+        "state": "AL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5859011,
+          34.729847
+        ]
+      },
+      "properties": {
+        "name": "Huntsville Grotto",
+        "region": "Southeast / TAG",
+        "town": "Huntsville",
+        "state": "AL",
+        "contact_url": "https://www.huntsvillegrotto.net/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0338765,
+          34.6731323
+        ]
+      },
+      "properties": {
+        "name": "Jackson County Grotto",
+        "region": "Southeast / TAG",
+        "town": "Scottsboro",
+        "state": "AL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3090775,
+          32.3777111
+        ]
+      },
+      "properties": {
+        "name": "Montgomery Grotto",
+        "region": "Southeast / TAG",
+        "town": "Montgomery",
+        "state": "AL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.232863,
+          34.0012604
+        ]
+      },
+      "properties": {
+        "name": "RAT Grotto",
+        "region": "Southeast / TAG",
+        "town": "Gallant",
+        "state": "AL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2243153,
+          34.8150907
+        ]
+      },
+      "properties": {
+        "name": "Boston Mountain Grotto",
+        "region": "South Central",
+        "town": "Sherwood",
+        "state": "AR",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1076765,
+          36.2297936
+        ]
+      },
+      "properties": {
+        "name": "Central Region Arkansas Grotto",
+        "region": "South Central",
+        "town": "Harrison",
+        "state": "AR",
+        "contact_url": "http://www.geocities.com/c_r_a_g/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6531128,
+          35.7708144
+        ]
+      },
+      "properties": {
+        "name": "COBRA Grotto",
+        "region": "South Central",
+        "town": "Batesville",
+        "state": "AR",
+        "contact_url": "http://cobra.lyon.edu",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2670941,
+          34.769536
+        ]
+      },
+      "properties": {
+        "name": "Little Rock Grotto",
+        "region": "South Central",
+        "town": "North Little Rock",
+        "state": "AR",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4056858,
+          34.856613
+        ]
+      },
+      "properties": {
+        "name": "Middle Ozark Lower Earth Soc. MOLES",
+        "region": "South Central",
+        "town": "Maumelle",
+        "state": "AR",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.185994,
+          33.5386858
+        ]
+      },
+      "properties": {
+        "name": "Central Arizona Grotto",
+        "region": "West",
+        "town": "Glendale",
+        "state": "AZ",
+        "contact_url": "http://centralarizonagrotto.webstarts.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "name": "Escabrosa Grotto",
+        "region": "West",
+        "town": "Tucson",
+        "state": "AZ",
+        "contact_url": "http://www.escabrosa.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9159946,
+          31.4417165
+        ]
+      },
+      "properties": {
+        "name": "Mule Mountain Caving Club",
+        "region": "West",
+        "town": "Bisbee",
+        "state": "AZ",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3338634,
+          34.5950776
+        ]
+      },
+      "properties": {
+        "name": "Northern Arizona Grotto",
+        "region": "West",
+        "town": "Prescott Valley",
+        "state": "AZ",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "name": "Southern Arizona",
+        "region": "West",
+        "town": "Tucson",
+        "state": "AZ",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191604,
+          33.7690164
+        ]
+      },
+      "properties": {
+        "name": "Desert Dog Troglodytes",
+        "region": "Pacific",
+        "town": "Long Beach",
+        "state": "CA",
+        "contact_url": "http://www.desertdogs.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0215737,
+          37.5872576
+        ]
+      },
+      "properties": {
+        "name": "Diablo Grotto",
+        "region": "Pacific",
+        "town": "Union City",
+        "state": "CA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493895,
+          38.5810606
+        ]
+      },
+      "properties": {
+        "name": "Mother Lode Grotto",
+        "region": "Pacific",
+        "town": "Sacramento",
+        "state": "CA",
+        "contact_url": "http://www.motherlodegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0178759,
+          38.8064632
+        ]
+      },
+      "properties": {
+        "name": "Redwood Grotto",
+        "region": "Pacific",
+        "town": "Cloverdale",
+        "state": "CA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "name": "San Diego Grotto",
+        "region": "Pacific",
+        "town": "San Diego",
+        "state": "CA",
+        "contact_url": "http://www.sdgrotto.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.177992,
+          37.4519671
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Bay Chapter of NSS",
+        "region": "Pacific",
+        "town": "Menlo Park",
+        "state": "CA",
+        "contact_url": "http://www.sfbaycaving.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78483,
+          36.7394421
+        ]
+      },
+      "properties": {
+        "name": "San Joaquin Valley Grotto",
+        "region": "Pacific",
+        "town": "Fresno",
+        "state": "CA",
+        "contact_url": "http://sjvg.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9232151,
+          40.8395875
+        ]
+      },
+      "properties": {
+        "name": "Shascade Caving Society",
+        "region": "Pacific",
+        "town": "Montgomery Creek",
+        "state": "CA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5978087,
+          34.2011078
+        ]
+      },
+      "properties": {
+        "name": "Southern California Grotto",
+        "region": "Pacific",
+        "town": "Canoga Park",
+        "state": "CA",
+        "contact_url": "http://www.SouthernCaliforniaGrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2117148,
+          37.7986184
+        ]
+      },
+      "properties": {
+        "name": "Stanislaus Speleo. Assn.",
+        "region": "Pacific",
+        "town": "Manteca",
+        "state": "CA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0314172,
+          32.7425516
+        ]
+      },
+      "properties": {
+        "name": "Stonewall Cavers",
+        "region": "Pacific",
+        "town": "Lemon Grove",
+        "state": "CA",
+        "contact_url": "http://www.stonewallcavers.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.305499,
+          39.5233424
+        ]
+      },
+      "properties": {
+        "name": "Central Oklahoma Grotto",
+        "region": "West",
+        "town": "Conifer",
+        "state": "CO",
+        "contact_url": "http://okcavers.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.016649,
+          39.613321
+        ]
+      },
+      "properties": {
+        "name": "Colorado Grotto",
+        "region": "West",
+        "town": "Littleton",
+        "state": "CO",
+        "contact_url": "http://coloradogrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7831199,
+          39.5347023
+        ]
+      },
+      "properties": {
+        "name": "Colorado Western Slope Grotto",
+        "region": "West",
+        "town": "Rifle",
+        "state": "CO",
+        "contact_url": "http://coloradowesternslopegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.270545,
+          40.0149856
+        ]
+      },
+      "properties": {
+        "name": "Front Range Grotto",
+        "region": "West",
+        "town": "Boulder",
+        "state": "CO",
+        "contact_url": "http://www.frontrangegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8766,
+          37.2769484
+        ]
+      },
+      "properties": {
+        "name": "Gypsy Underground Grotto",
+        "region": "West",
+        "town": "Durango",
+        "state": "CO",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.07498,
+          40.3977612
+        ]
+      },
+      "properties": {
+        "name": "Northern Colorado Grotto",
+        "region": "West",
+        "town": "Loveland",
+        "state": "CO",
+        "contact_url": "http://www.northerncoloradogrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.872758,
+          39.0916586
+        ]
+      },
+      "properties": {
+        "name": "Southern Colorado Mountain",
+        "region": "West",
+        "town": "Monument",
+        "state": "CO",
+        "contact_url": "http://www.scmg.info",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3246941,
+          39.5466381
+        ]
+      },
+      "properties": {
+        "name": "Timberline Grotto",
+        "region": "West",
+        "town": "Glenwood Springs",
+        "state": "CO",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9430128,
+          41.6711752
+        ]
+      },
+      "properties": {
+        "name": "Central Connecticut Grotto",
+        "region": "Northeast",
+        "town": "Bristol",
+        "state": "CT",
+        "contact_url": "http://www.ctcavers.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546589,
+          39.7459468
+        ]
+      },
+      "properties": {
+        "name": "Commander Cody Caving Club",
+        "region": "Mid-Atlantic",
+        "town": "Wilmington",
+        "state": "DE",
+        "contact_url": "http://commandercodycaving.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6366144,
+          27.9946969
+        ]
+      },
+      "properties": {
+        "name": "Central Florida Grotto",
+        "region": "Southeast / TAG",
+        "town": "Palm Bay",
+        "state": "FL",
+        "contact_url": "http://www.centralfloridacavers.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2809332,
+          30.4380832
+        ]
+      },
+      "properties": {
+        "name": "Flint River Grotto",
+        "region": "Southeast / TAG",
+        "town": "Tallahassee",
+        "state": "FL",
+        "contact_url": "http://www.flintrivergrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4481694,
+          29.3880028
+        ]
+      },
+      "properties": {
+        "name": "Florida Speleological Society",
+        "region": "Southeast / TAG",
+        "town": "Williston",
+        "state": "FL",
+        "contact_url": "http://www.floridacaving.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6579179,
+          30.3262247
+        ]
+      },
+      "properties": {
+        "name": "River City Grotto",
+        "region": "Southeast / TAG",
+        "town": "Jacksonville",
+        "state": "FL",
+        "contact_url": "http://www.rivercitygrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4583107,
+          27.9449854
+        ]
+      },
+      "properties": {
+        "name": "Tampa Bay Area Grotto",
+        "region": "Southeast / TAG",
+        "town": "Tampa",
+        "state": "FL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2126517,
+          34.0378903
+        ]
+      },
+      "properties": {
+        "name": "Athens Speleological Society",
+        "region": "Southeast / TAG",
+        "town": "Colbert",
+        "state": "GA",
+        "contact_url": "http://groups.yahoo.com/group/ASSnet/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9748429,
+          33.4709714
+        ]
+      },
+      "properties": {
+        "name": "Augusta Cave Masters",
+        "region": "Southeast / TAG",
+        "town": "Augusta",
+        "state": "GA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6154897,
+          34.0234337
+        ]
+      },
+      "properties": {
+        "name": "Clayton County Cavers",
+        "region": "Southeast / TAG",
+        "town": "Kennesaw",
+        "state": "GA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1832843,
+          34.275093
+        ]
+      },
+      "properties": {
+        "name": "Clock Tower Grotto",
+        "region": "Southeast / TAG",
+        "town": "Mount Berry",
+        "state": "GA",
+        "contact_url": "http://www.facebook.com/groups/clocktowergrotto/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5740953,
+          30.8736613
+        ]
+      },
+      "properties": {
+        "name": "Dogwood City Grotto",
+        "region": "Southeast / TAG",
+        "town": "Decatur",
+        "state": "GA",
+        "contact_url": "http://www.dogwoodcitygrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5960264,
+          32.5438429
+        ]
+      },
+      "properties": {
+        "name": "Middle Georgia Grotto",
+        "region": "Southeast / TAG",
+        "town": "Bonaire",
+        "state": "GA",
+        "contact_url": "http://middlegeorgiagrotto.spaces.live.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2374641,
+          34.8155945
+        ]
+      },
+      "properties": {
+        "name": "Pigeon Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Rock Spring",
+        "state": "GA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "name": "Team Poseidon",
+        "region": "Southeast / TAG",
+        "town": "Atlanta",
+        "state": "GA",
+        "contact_url": "http://team-poseidon.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.848491,
+          21.3092966
+        ]
+      },
+      "properties": {
+        "name": "Hawaii Grotto",
+        "region": "Pacific",
+        "town": "Ocean View",
+        "state": "HI",
+        "contact_url": "http://www.facebook.com/groups/348624448643257",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5299106,
+          41.6612561
+        ]
+      },
+      "properties": {
+        "name": "Iowa Grotto",
+        "region": "Midwest",
+        "town": "Iowa City",
+        "state": "IA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.200886,
+          43.6166163
+        ]
+      },
+      "properties": {
+        "name": "Gem State Grotto",
+        "region": "West",
+        "town": "Boise",
+        "state": "ID",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4700684,
+          42.5558542
+        ]
+      },
+      "properties": {
+        "name": "Silver Sage Grotto",
+        "region": "West",
+        "town": "Twin Falls",
+        "state": "ID",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.216655,
+          37.7274692
+        ]
+      },
+      "properties": {
+        "name": "Little Egypt Grotto",
+        "region": "Midwest",
+        "town": "Carbondale",
+        "state": "IL",
+        "contact_url": "http://www.littleegyptgrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9843937,
+          40.5092961
+        ]
+      },
+      "properties": {
+        "name": "Near Normal Grotto",
+        "region": "Midwest",
+        "town": "Normal",
+        "state": "IL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4474302,
+          42.3147529
+        ]
+      },
+      "properties": {
+        "name": "Rock River Speleological Soc.",
+        "region": "Midwest",
+        "town": "Woodstock",
+        "state": "IL",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.174097,
+          41.8179303
+        ]
+      },
+      "properties": {
+        "name": "Sub-Urban Chicago Grotto",
+        "region": "Midwest",
+        "town": "Warrenville",
+        "state": "IL",
+        "contact_url": "http://www.SUCG.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.848085,
+          41.8228378
+        ]
+      },
+      "properties": {
+        "name": "Windy City Grotto",
+        "region": "Midwest",
+        "town": "Brookfield",
+        "state": "IL",
+        "contact_url": "http://www.windycitygrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5342881,
+          39.1670396
+        ]
+      },
+      "properties": {
+        "name": "Bloomington Indiana Grotto",
+        "region": "Midwest",
+        "town": "Bloomington",
+        "state": "IN",
+        "contact_url": "https://bloomingtonindianagrotto.home.blog/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1583502,
+          39.7683331
+        ]
+      },
+      "properties": {
+        "name": "Central Indiana Grotto",
+        "region": "Midwest",
+        "town": "Indianapolis",
+        "state": "IN",
+        "contact_url": "http://www.cigcaves.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8419246,
+          40.2769834
+        ]
+      },
+      "properties": {
+        "name": "Eastern Indiana Grotto",
+        "region": "Midwest",
+        "town": "Elwood",
+        "state": "IN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1066598,
+          41.0321808
+        ]
+      },
+      "properties": {
+        "name": "Evansville Metropolitan Grotto",
+        "region": "Midwest",
+        "town": "Jasper",
+        "state": "IN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1062763,
+          41.735251
+        ]
+      },
+      "properties": {
+        "name": "Northern Indiana Grotto",
+        "region": "Midwest",
+        "town": "Granger",
+        "state": "IN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8590603,
+          41.6012796
+        ]
+      },
+      "properties": {
+        "name": "Saint Joseph Valley Grotto",
+        "region": "Midwest",
+        "town": "Elkhart",
+        "state": "IN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.950845,
+          39.4442104
+        ]
+      },
+      "properties": {
+        "name": "Western Indiana Grotto",
+        "region": "Midwest",
+        "town": "Poland",
+        "state": "IN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7385956,
+          38.7816717
+        ]
+      },
+      "properties": {
+        "name": "Kansas Speleological Society",
+        "region": "Midwest",
+        "town": "Scranton",
+        "state": "KS",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "name": "Blue Grass Grotto",
+        "region": "Southeast / TAG",
+        "town": "Lexington",
+        "state": "KY",
+        "contact_url": "http://BlueGrassGrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3389464,
+          37.4537437
+        ]
+      },
+      "properties": {
+        "name": "ESSO Grotto",
+        "region": "Southeast / TAG",
+        "town": "Grayson",
+        "state": "KY",
+        "contact_url": "http://www.essogrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4428677,
+          36.9929203
+        ]
+      },
+      "properties": {
+        "name": "Green River Grotto",
+        "region": "Southeast / TAG",
+        "town": "Bowling Green",
+        "state": "KY",
+        "contact_url": "http://www.facebook.com/groups/greenrivergrotto",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3842213,
+          38.4124695
+        ]
+      },
+      "properties": {
+        "name": "Louisville Grotto",
+        "region": "Southeast / TAG",
+        "town": "Lagrange",
+        "state": "KY",
+        "contact_url": "http://louisvillegrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8888138,
+          36.8664765
+        ]
+      },
+      "properties": {
+        "name": "Pine Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Barbourville",
+        "state": "KY",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2679902,
+          37.3728625
+        ]
+      },
+      "properties": {
+        "name": "Rockcastle Regional Grotto",
+        "region": "Southeast / TAG",
+        "town": "Orlando",
+        "state": "KY",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1505426,
+          29.9899926
+        ]
+      },
+      "properties": {
+        "name": "Crescent City Cavers",
+        "region": "South Central",
+        "town": "Metairie",
+        "state": "LA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1040018,
+          42.3656347
+        ]
+      },
+      "properties": {
+        "name": "Boston Grotto",
+        "region": "Northeast",
+        "town": "Cambridge",
+        "state": "MA",
+        "contact_url": "http://www.bostongrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9230307,
+          39.1509408
+        ]
+      },
+      "properties": {
+        "name": "Baltimore Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Fulton",
+        "state": "MD",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959168,
+          39.5751717
+        ]
+      },
+      "properties": {
+        "name": "Frederick Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Westminster",
+        "state": "MD",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8510883,
+          39.6712137
+        ]
+      },
+      "properties": {
+        "name": "Sligo Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Millers",
+        "state": "MD",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020224,
+          42.3180163
+        ]
+      },
+      "properties": {
+        "name": "Detroit Urban Grotto",
+        "region": "Midwest",
+        "town": "Chelsea",
+        "state": "MI",
+        "contact_url": "http://fisherridge.net",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      },
+      "properties": {
+        "name": "Michigan Interlakes Grotto",
+        "region": "Midwest",
+        "town": "Ann Arbor",
+        "state": "MI",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2773887,
+          44.7670567
+        ]
+      },
+      "properties": {
+        "name": "Minnesota Caving Club",
+        "region": "Midwest",
+        "town": "Burnsville",
+        "state": "MN",
+        "contact_url": "http://www.mncavingclub.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0552855,
+          44.9773471
+        ]
+      },
+      "properties": {
+        "name": "Minnesota Speleological Survey",
+        "region": "Midwest",
+        "town": "Paul",
+        "state": "MN",
+        "contact_url": "http://www.mss-caving.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1935142,
+          36.7325602
+        ]
+      },
+      "properties": {
+        "name": "Branson Area Tri-Lakes Grotto",
+        "region": "Midwest",
+        "town": "Walnut Shade",
+        "state": "MO",
+        "contact_url": "http://www.facebook.com/batlgrotto",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3337366,
+          38.951883
+        ]
+      },
+      "properties": {
+        "name": "Chouteau Grotto",
+        "region": "Midwest",
+        "town": "Columbia",
+        "state": "MO",
+        "contact_url": "http://ShowMeCaving.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7415865,
+          38.481809
+        ]
+      },
+      "properties": {
+        "name": "Daedalus Cavers Grotto",
+        "region": "Midwest",
+        "town": "Pacific",
+        "state": "MO",
+        "contact_url": "http://www.missourimountaineers.com/daedalus.htm",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.282265,
+          39.017316
+        ]
+      },
+      "properties": {
+        "name": "Kansas City Area Grotto",
+        "region": "Midwest",
+        "town": "Blue Springs",
+        "state": "MO",
+        "contact_url": "http://www.kcgrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "name": "Meramec Valley Grotto",
+        "region": "Midwest",
+        "town": "St Louis",
+        "state": "MO",
+        "contact_url": "http://www.MeramecValleyGrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "name": "Middle Mississippi Valley Gr.",
+        "region": "Midwest",
+        "town": "St. Louis",
+        "state": "MO",
+        "contact_url": "http://www.mmvgrotto.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7708076,
+          37.9509324
+        ]
+      },
+      "properties": {
+        "name": "Missouri Sch. Mines Spelunkers Club",
+        "region": "Midwest",
+        "town": "Rolla",
+        "state": "MO",
+        "contact_url": "http://www.mst.edu/~spelunk/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4575198,
+          36.6467816
+        ]
+      },
+      "properties": {
+        "name": "Ozark Highlands Grotto",
+        "region": "Midwest",
+        "town": "Ozark",
+        "state": "MO",
+        "contact_url": "http://None",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1375079,
+          37.8140737
+        ]
+      },
+      "properties": {
+        "name": "Roubidoux Grotto",
+        "region": "Midwest",
+        "town": "St. Robert",
+        "state": "MO",
+        "contact_url": "http://www.facebook.com/RoubidouxGrotto",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5176418,
+          37.304731
+        ]
+      },
+      "properties": {
+        "name": "SEMO Grotto",
+        "region": "Midwest",
+        "town": "Cape Girardeau",
+        "state": "MO",
+        "contact_url": "http://semogrotto@yahoogroups.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2922715,
+          37.2081729
+        ]
+      },
+      "properties": {
+        "name": "Springfield Plateau Grotto",
+        "region": "Midwest",
+        "town": "Springfield",
+        "state": "MO",
+        "contact_url": "http://www.spgcavers.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5958468,
+          38.791612
+        ]
+      },
+      "properties": {
+        "name": "Stygian Grotto",
+        "region": "Midwest",
+        "town": "St. Peters",
+        "state": "MO",
+        "contact_url": "https://www.stygiangrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9868058,
+          32.2731475
+        ]
+      },
+      "properties": {
+        "name": "JUST Cavers",
+        "region": "Southeast / TAG",
+        "town": "Brandon",
+        "state": "MS",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.044047,
+          45.6794293
+        ]
+      },
+      "properties": {
+        "name": "Northern Rocky Mountain Grotto",
+        "region": "West",
+        "town": "Bozeman",
+        "state": "MT",
+        "contact_url": "http://nrmg.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5508407,
+          35.595363
+        ]
+      },
+      "properties": {
+        "name": "Flittermouse Grotto",
+        "region": "Southeast / TAG",
+        "town": "Asheville",
+        "state": "NC",
+        "contact_url": "http://flittermouse.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6390989,
+          35.7803977
+        ]
+      },
+      "properties": {
+        "name": "Triangle Troglodytes",
+        "region": "Southeast / TAG",
+        "town": "Raleigh",
+        "state": "NC",
+        "contact_url": "http://www.tritrogs.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65399,
+          40.226459
+        ]
+      },
+      "properties": {
+        "name": "Central New Jersey Grotto",
+        "region": "Northeast",
+        "town": "Hamilton Square",
+        "state": "NJ",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2940378,
+          41.0381526
+        ]
+      },
+      "properties": {
+        "name": "New Jersey Tri-State Spel. Society",
+        "region": "Northeast",
+        "town": "Wanaque",
+        "state": "NJ",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.367096,
+          41.0017644
+        ]
+      },
+      "properties": {
+        "name": "Northern New Jersey Grotto",
+        "region": "Northeast",
+        "town": "Kinnelon",
+        "state": "NJ",
+        "contact_url": "http://www.nnjg.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      },
+      "properties": {
+        "name": "Mesilla Valley Grotto",
+        "region": "West",
+        "town": "Las Cruces",
+        "state": "NM",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8930799,
+          34.0572858
+        ]
+      },
+      "properties": {
+        "name": "New Mexico Tech Student Grotto",
+        "region": "West",
+        "town": "Socorro",
+        "state": "NM",
+        "contact_url": "http://infohost.nmt.edu/~nmtcaver/index.htm",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.298959,
+          35.88137
+        ]
+      },
+      "properties": {
+        "name": "Pajarito Grotto",
+        "region": "West",
+        "town": "Los Alamos",
+        "state": "NM",
+        "contact_url": "http://www.pajaritogrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      },
+      "properties": {
+        "name": "Pecos Valley Grotto",
+        "region": "West",
+        "town": "Artesia",
+        "state": "NM",
+        "contact_url": "https://pecosvalleygrotto.wixsite.com/mysite",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      },
+      "properties": {
+        "name": "Sandia Grotto",
+        "region": "West",
+        "town": "Albuquerque",
+        "state": "NM",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5908356,
+          33.3312133
+        ]
+      },
+      "properties": {
+        "name": "Sierra Blanca Grotto",
+        "region": "West",
+        "town": "Ruidoso Downs",
+        "state": "NM",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.237612,
+          32.4257456
+        ]
+      },
+      "properties": {
+        "name": "White Sands Grotto",
+        "region": "West",
+        "town": "Carlsbad",
+        "state": "NM",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5858042,
+          39.2501076
+        ]
+      },
+      "properties": {
+        "name": "Northern Nevada Grotto",
+        "region": "West",
+        "town": "Dayton",
+        "state": "NV",
+        "contact_url": "http://groups.yahoo.com/group/NNVGrotto/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "name": "Southern Nevada Grotto",
+        "region": "West",
+        "town": "Las Vegas",
+        "state": "NV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4390277,
+          42.5757217
+        ]
+      },
+      "properties": {
+        "name": "Helderberg-Hudson Grotto",
+        "region": "Northeast",
+        "town": "Schoharie",
+        "state": "NY",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "name": "Met Grotto",
+        "region": "Northeast",
+        "town": "New York",
+        "state": "NY",
+        "contact_url": "http://www.metgrotto.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.295025,
+          42.8580624
+        ]
+      },
+      "properties": {
+        "name": "Niagara Frontier Grotto",
+        "region": "Northeast",
+        "town": "Ontario",
+        "state": "NY",
+        "contact_url": "http://www.wnycavers.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6917878,
+          42.7284117
+        ]
+      },
+      "properties": {
+        "name": "Rensselaer Outing Club",
+        "region": "Northeast",
+        "town": "Troy",
+        "state": "NY",
+        "contact_url": "http://www.outing.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0023825,
+          41.9287812
+        ]
+      },
+      "properties": {
+        "name": "Shawangunk-Catskill Area Grotto",
+        "region": "Northeast",
+        "town": "Kingston",
+        "state": "NY",
+        "contact_url": "http://www.scagrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1474244,
+          43.0481221
+        ]
+      },
+      "properties": {
+        "name": "Syracuse University Outing",
+        "region": "Northeast",
+        "town": "Syracuse",
+        "state": "NY",
+        "contact_url": "http://suoc.syr.edu/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "name": "Central Ohio Grotto",
+        "region": "Midwest",
+        "town": "Columbus",
+        "state": "OH",
+        "contact_url": "http://www.centralohiogrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6267904,
+          41.3197763
+        ]
+      },
+      "properties": {
+        "name": "Cleveland Grotto",
+        "region": "Midwest",
+        "town": "Brecksville",
+        "state": "OH",
+        "contact_url": "http://www.clevelandgrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2032767,
+          40.0394982
+        ]
+      },
+      "properties": {
+        "name": "Dayton Underground Grotto",
+        "region": "Midwest",
+        "town": "Troy",
+        "state": "OH",
+        "contact_url": "http://www.dugcaves.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "name": "Greater Cincinnati Grotto",
+        "region": "Midwest",
+        "town": "Cincinnati",
+        "state": "OH",
+        "contact_url": "http://www.gcgcavers.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.919652,
+          39.0275659
+        ]
+      },
+      "properties": {
+        "name": "Miami Valley Grotto",
+        "region": "Midwest",
+        "town": "Mount Orab",
+        "state": "OH",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9456499,
+          41.3767848
+        ]
+      },
+      "properties": {
+        "name": "Ohio Cavers and Climbers",
+        "region": "Midwest",
+        "town": "Olmsted Township",
+        "state": "OH",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5484932,
+          39.6264539
+        ]
+      },
+      "properties": {
+        "name": "Standing Stone Grotto",
+        "region": "Midwest",
+        "town": "Sugar Grove",
+        "state": "OH",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.810138,
+          39.9234046
+        ]
+      },
+      "properties": {
+        "name": "Wittenberg U. Spel Soc (Stu)",
+        "region": "Midwest",
+        "town": "Springfield",
+        "state": "OH",
+        "contact_url": "http://www.wusscavers.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6783651,
+          34.7743383
+        ]
+      },
+      "properties": {
+        "name": "Arbuckle Mountains Grotto",
+        "region": "South Central",
+        "town": "Ada",
+        "state": "OK",
+        "contact_url": "http://www.arbucklekarst.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5228986,
+          35.8683799
+        ]
+      },
+      "properties": {
+        "name": "Tulsa Regional OK Grotto",
+        "region": "South Central",
+        "town": "Porter",
+        "state": "OK",
+        "contact_url": "http://www.tulsagrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4330512,
+          45.5385457
+        ]
+      },
+      "properties": {
+        "name": "Oregon Grotto",
+        "region": "Pacific",
+        "town": "Fairview",
+        "state": "OR",
+        "contact_url": "http://www.oregongrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3153096,
+          44.0581728
+        ]
+      },
+      "properties": {
+        "name": "Oregon High Desert Grotto",
+        "region": "Pacific",
+        "town": "Bend",
+        "state": "OR",
+        "contact_url": "http://www.ohdgrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292256,
+          45.5314503
+        ]
+      },
+      "properties": {
+        "name": "Persona Non Grotto",
+        "region": "Pacific",
+        "town": "Corbett",
+        "state": "OR",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "name": "Willamette Valley Grotto",
+        "region": "Pacific",
+        "town": "Portland",
+        "state": "OR",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0766192,
+          41.3173751
+        ]
+      },
+      "properties": {
+        "name": "Bald Eagle Grotto",
+        "region": "Northeast",
+        "town": "Cogan Station",
+        "state": "PA",
+        "contact_url": "http://baldeaglegrotto.weebly.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1340604,
+          40.2492741
+        ]
+      },
+      "properties": {
+        "name": "Bucks County Grotto",
+        "region": "Northeast",
+        "town": "Warrington",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0047276,
+          40.2101972
+        ]
+      },
+      "properties": {
+        "name": "Franklin County Grotto",
+        "region": "Northeast",
+        "town": "Mechanicsburg",
+        "state": "PA",
+        "contact_url": "http://www.karst.org/fcg",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609631,
+          40.6945399
+        ]
+      },
+      "properties": {
+        "name": "Greater Allentown Grotto",
+        "region": "Northeast",
+        "town": "Neffs",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0281185,
+          40.3446332
+        ]
+      },
+      "properties": {
+        "name": "Huntingdon County Cave Hunters",
+        "region": "Northeast",
+        "town": "Huntingdon",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7606192,
+          40.4335167
+        ]
+      },
+      "properties": {
+        "name": "Loyalhanna Grotto",
+        "region": "Northeast",
+        "town": "Monroeville",
+        "state": "PA",
+        "contact_url": "http://www.karst.org/loyalhanna/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8616386,
+          40.7944504
+        ]
+      },
+      "properties": {
+        "name": "Nittany Grotto",
+        "region": "Northeast",
+        "town": "State College",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7870991,
+          41.20484
+        ]
+      },
+      "properties": {
+        "name": "Out of Bounds Grotto",
+        "region": "Northeast",
+        "town": "Muncy",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1262839,
+          40.6424116
+        ]
+      },
+      "properties": {
+        "name": "Pennsylvania Inner-Earth Grotto",
+        "region": "Northeast",
+        "town": "Indiana",
+        "state": "PA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.387693,
+          39.9167783
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Grotto",
+        "region": "Northeast",
+        "town": "Media",
+        "state": "PA",
+        "contact_url": "http://www.phillygrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.864215,
+          40.3478472
+        ]
+      },
+      "properties": {
+        "name": "Pittsburgh Grotto",
+        "region": "Northeast",
+        "town": "McKeesport",
+        "state": "PA",
+        "contact_url": "http://www.karst.org/pgrotto/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7280899,
+          40.6018585
+        ]
+      },
+      "properties": {
+        "name": "Seven Valleys Grotto",
+        "region": "Northeast",
+        "town": "Belleville",
+        "state": "PA",
+        "contact_url": "http://sevenvalleysgrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1890783,
+          40.201499
+        ]
+      },
+      "properties": {
+        "name": "York Grotto",
+        "region": "Northeast",
+        "town": "Carlisle",
+        "state": "PA",
+        "contact_url": "http://www.yorkgrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Caving Club",
+        "region": "Southeast / TAG",
+        "town": "Fort Mill",
+        "state": "SC",
+        "contact_url": "https://charlottecavingclub.weebly.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Caving Club",
+        "region": "Southeast / TAG",
+        "town": "Fort Mill",
+        "state": "SC",
+        "contact_url": "https://charlottecavingclub.weebly.com/contact.html#/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2272119,
+          34.9381361
+        ]
+      },
+      "properties": {
+        "name": "South Carolina Interstate Grotto",
+        "region": "Southeast / TAG",
+        "town": "Greer",
+        "state": "SC",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5101597,
+          43.6726477
+        ]
+      },
+      "properties": {
+        "name": "Paha Sapa Grotto",
+        "region": "Midwest",
+        "town": "Custer",
+        "state": "SD",
+        "contact_url": "http://www.pahasapagrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3094883,
+          35.0457219
+        ]
+      },
+      "properties": {
+        "name": "Chattanooga Grotto",
+        "region": "Southeast / TAG",
+        "town": "Chattanooga",
+        "state": "TN",
+        "contact_url": "http://www.chattanoogagrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2696449,
+          36.0103562
+        ]
+      },
+      "properties": {
+        "name": "East Tennessee Grotto",
+        "region": "Southeast / TAG",
+        "town": "Oak Ridge",
+        "state": "TN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1885212,
+          36.5945034
+        ]
+      },
+      "properties": {
+        "name": "Mountain Empire Grotto",
+        "region": "Southeast / TAG",
+        "town": "Bristol",
+        "state": "TN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7742984,
+          36.1622767
+        ]
+      },
+      "properties": {
+        "name": "Nashville Grotto",
+        "region": "Southeast / TAG",
+        "town": "Nashville",
+        "state": "TN",
+        "contact_url": "https://www.nashvillegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9210899,
+          35.2031373
+        ]
+      },
+      "properties": {
+        "name": "Sewanee Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Sewanee",
+        "state": "TN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8310464,
+          36.1631981
+        ]
+      },
+      "properties": {
+        "name": "Six Ridges Grotto",
+        "region": "Southeast / TAG",
+        "town": "Greeneville",
+        "state": "TN",
+        "contact_url": "http://www.sixridgesgrotto.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      },
+      "properties": {
+        "name": "Smoky Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Knoxville",
+        "state": "TN",
+        "contact_url": "http://www.smgrotto.wix.com/smg-webpage",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6933305,
+          35.6264581
+        ]
+      },
+      "properties": {
+        "name": "Southport Chronic Cavers",
+        "region": "Southeast / TAG",
+        "town": "Chapel Hill",
+        "state": "TN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4666413,
+          35.7472893
+        ]
+      },
+      "properties": {
+        "name": "Spencer Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Spencer",
+        "state": "TN",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4997057,
+          36.1623886
+        ]
+      },
+      "properties": {
+        "name": "Upper Cumberland Grotto",
+        "region": "Southeast / TAG",
+        "town": "Cookeville",
+        "state": "TN",
+        "contact_url": "http://www.facebook.com/ucgrotto",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3455991,
+          30.6183939
+        ]
+      },
+      "properties": {
+        "name": "Aggie Grotto",
+        "region": "South Central",
+        "town": "College Station",
+        "state": "TX",
+        "contact_url": "https://cavetamu.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "name": "Bexar Grotto",
+        "region": "South Central",
+        "town": "San Antonio",
+        "state": "TX",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9442177,
+          32.8295183
+        ]
+      },
+      "properties": {
+        "name": "Dallas-Fort Worth Grotto",
+        "region": "South Central",
+        "town": "Irving",
+        "state": "TX",
+        "contact_url": "http://dfwgrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5699185,
+          29.888578
+        ]
+      },
+      "properties": {
+        "name": "Greater Houston Grotto",
+        "region": "South Central",
+        "town": "Jersey Village",
+        "state": "TX",
+        "contact_url": "http://greaterhoustongrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "name": "GUAD Grotto",
+        "region": "South Central",
+        "town": "El Paso",
+        "state": "TX",
+        "contact_url": "http://cavegrotto.wordpress.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8470215,
+          33.5855677
+        ]
+      },
+      "properties": {
+        "name": "Lubbock Area Grotto",
+        "region": "South Central",
+        "town": "Lubbock",
+        "state": "TX",
+        "contact_url": "http://www.lubbockareagrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4787356,
+          32.250398
+        ]
+      },
+      "properties": {
+        "name": "Permian Basin Speleological Society",
+        "region": "South Central",
+        "town": "Big Spring",
+        "state": "TX",
+        "contact_url": "http://www.caver.net/pbss/pbss.html",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9395211,
+          40.6061337
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake Grotto",
+        "region": "West",
+        "town": "West Jordan",
+        "state": "UT",
+        "contact_url": "http://saltlakegrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6114726,
+          40.1652447
+        ]
+      },
+      "properties": {
+        "name": "Timpanogos Grotto",
+        "region": "West",
+        "town": "Springville",
+        "state": "UT",
+        "contact_url": "https://www.timpgrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8953815,
+          40.5710454
+        ]
+      },
+      "properties": {
+        "name": "Wasatch Grotto",
+        "region": "West",
+        "town": "Sandy",
+        "state": "UT",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9414313,
+          37.270973
+        ]
+      },
+      "properties": {
+        "name": "Blue Ridge Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Roanoke",
+        "state": "VA",
+        "contact_url": "http://www.blueridgegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.690893,
+          38.065017
+        ]
+      },
+      "properties": {
+        "name": "Charlottesville Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Crozet",
+        "state": "VA",
+        "contact_url": "http://www.cvillegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6460477,
+          38.975841
+        ]
+      },
+      "properties": {
+        "name": "District of Columbia Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Aldie",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4605399,
+          38.3031837
+        ]
+      },
+      "properties": {
+        "name": "Fredericksburg Underground Network",
+        "region": "Mid-Atlantic",
+        "town": "Fredericksburg",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3890233,
+          38.8716103
+        ]
+      },
+      "properties": {
+        "name": "Front Royal Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Fort Valley",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.285579,
+          37.1118094
+        ]
+      },
+      "properties": {
+        "name": "James River Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Altavista",
+        "state": "VA",
+        "contact_url": "http://jamesrivergrottova.weebly.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8688833,
+          38.4493315
+        ]
+      },
+      "properties": {
+        "name": "Madison University Student Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Harrisonburg",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5749169,
+          37.1343148
+        ]
+      },
+      "properties": {
+        "name": "New River Valley Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Radford",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3538176,
+          37.627722
+        ]
+      },
+      "properties": {
+        "name": "Richmond Area Spel. Soc.",
+        "region": "Mid-Atlantic",
+        "town": "Mechanicsville",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2494453,
+          36.7168315
+        ]
+      },
+      "properties": {
+        "name": "Tidewater Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Chesapeake",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5794666,
+          38.411985
+        ]
+      },
+      "properties": {
+        "name": "Virginia Highlands Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Monterey",
+        "state": "VA",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4136767,
+          37.2296566
+        ]
+      },
+      "properties": {
+        "name": "VPI Cave Club",
+        "region": "Mid-Atlantic",
+        "town": "Blacksburg",
+        "state": "VA",
+        "contact_url": "http://www.cave.org.vt.edu/wordpress/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0869747,
+          36.9479966
+        ]
+      },
+      "properties": {
+        "name": "Walker Mountain Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Wytheville",
+        "state": "VA",
+        "contact_url": "http://walkergrotto.wordpress.com/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7258755,
+          42.8596573
+        ]
+      },
+      "properties": {
+        "name": "Vermont Cavers Association",
+        "region": "Northeast",
+        "town": "Marlboro",
+        "state": "VT",
+        "contact_url": "http://www.vermontcavers.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330062,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "name": "Cascade Grotto",
+        "region": "Pacific",
+        "town": "Seattle",
+        "state": "WA",
+        "contact_url": "http://cascadegrotto.org",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.276413,
+          42.6801053
+        ]
+      },
+      "properties": {
+        "name": "Great Lakes Cavers",
+        "region": "Midwest",
+        "town": "Burlington",
+        "state": "WI",
+        "contact_url": "http://www.greatlakescaving.com",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7882794,
+          43.2773819
+        ]
+      },
+      "properties": {
+        "name": "Wisconsin Speleological Society",
+        "region": "Midwest",
+        "town": "Prairie du Sac",
+        "state": "WI",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6332812,
+          38.3505995
+        ]
+      },
+      "properties": {
+        "name": "Charleston Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Charleston",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2825409,
+          38.7873352
+        ]
+      },
+      "properties": {
+        "name": "Germany Valley Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Upper Tract",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5409061,
+          37.6642889
+        ]
+      },
+      "properties": {
+        "name": "Greater Randolph (GROSS)",
+        "region": "Mid-Atlantic",
+        "town": "Sinks Grove",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3845197,
+          37.9251205
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Frankford",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0189659,
+          39.3409249
+        ]
+      },
+      "properties": {
+        "name": "Monongahela Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Grafton",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5409061,
+          37.6642889
+        ]
+      },
+      "properties": {
+        "name": "Monroe County Cavers",
+        "region": "Mid-Atlantic",
+        "town": "Sinks Grove",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8751955,
+          38.8407799
+        ]
+      },
+      "properties": {
+        "name": "Mountain State Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Beverly",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4488545,
+          39.4000046
+        ]
+      },
+      "properties": {
+        "name": "Parkersburg Area Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Williamstown",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7319766,
+          39.323418
+        ]
+      },
+      "properties": {
+        "name": "TRA Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Harpers Ferry",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0955563,
+          39.3703778
+        ]
+      },
+      "properties": {
+        "name": "Tri-State Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Gerrardstown",
+        "state": "WV",
+        "contact_url": "http://www.tristategrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9559437,
+          39.6296809
+        ]
+      },
+      "properties": {
+        "name": "West Virginia Univ. Student Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Morgantown",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9739156,
+          39.4409277
+        ]
+      },
+      "properties": {
+        "name": "Western Maryland Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Keyser",
+        "state": "WV",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      },
+      "properties": {
+        "name": "Armpit Grotto",
+        "region": "West",
+        "town": "Laramie",
+        "state": "WY",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      },
+      "properties": {
+        "name": "Hole-in-the-Wall Grotto",
+        "region": "West",
+        "town": "Casper",
+        "state": "WY",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    }
+  ]
+}
