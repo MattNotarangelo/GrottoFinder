@@ -173,7 +173,7 @@ changes — and catch parser breakage — before they go live. It never pushes t
 ## Frontend & Cloudflare Pages
 
 The frontend is a static Vite app using **Leaflet + OpenStreetMap tiles** (no
-key) with **Leaflet.markercluster** for dense regions (TAG, Virginia). It loads
+key). Every grotto is shown as its own marker at all zoom levels. It loads
 `grottos.geojson`, offers "nearest to me" via browser geolocation (with a
 graceful **ZIP / Town, ST** fallback when geolocation is denied), a region
 filter, and marker popups linking to each club's site.

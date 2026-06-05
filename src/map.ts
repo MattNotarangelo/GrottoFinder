@@ -1,11 +1,9 @@
-// Leaflet map setup, marker rendering, and clustering. Keeps Leaflet specifics
-// out of main.ts.
+// Leaflet map setup and marker rendering. Keeps Leaflet specifics out of
+// main.ts. Every grotto is shown as its own marker at all zoom levels (no
+// clustering).
 
 import L from "leaflet";
-import "leaflet.markercluster";
 import "leaflet/dist/leaflet.css";
-import "leaflet.markercluster/dist/MarkerCluster.css";
-import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import type { GrottoPoint } from "./geo.js";
 
 // Continental-US default view.
@@ -49,14 +47,13 @@ export function createMap(elementId: string): GrottoMap {
     attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
 
-  const cluster = L.markerClusterGroup({ maxClusterRadius: 50 });
-  map.addLayer(cluster);
+  const grottoLayer = L.featureGroup().addTo(map);
 
   const markersByName = new Map<string, L.CircleMarker>();
   let userMarker: L.CircleMarker | null = null;
 
   function render(points: GrottoPoint[]): void {
-    cluster.clearLayers();
+    grottoLayer.clearLayers();
     markersByName.clear();
     for (const g of points) {
       const marker = L.circleMarker([g.lat, g.lng], {
@@ -67,7 +64,7 @@ export function createMap(elementId: string): GrottoMap {
         fillOpacity: 0.85,
       }).bindPopup(popupHtml(g));
       markersByName.set(g.name, marker);
-      cluster.addLayer(marker);
+      grottoLayer.addLayer(marker);
     }
   }
 
@@ -94,8 +91,9 @@ export function createMap(elementId: string): GrottoMap {
   function focus(name: string): void {
     const marker = markersByName.get(name);
     if (!marker) return;
-    // zoomToShowLayer reveals a marker hidden inside a cluster, then opens it.
-    cluster.zoomToShowLayer(marker, () => marker.openPopup());
+    const latlng = marker.getLatLng();
+    map.setView(latlng, Math.max(map.getZoom(), 9), { animate: true });
+    marker.openPopup();
   }
 
   return { map, render, setUser, fitTo, focus };
