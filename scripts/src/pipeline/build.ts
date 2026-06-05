@@ -1,19 +1,25 @@
-// Pipeline orchestrator: scrape -> geocode -> merge with overrides -> emit
-// public/grottos.geojson.
+// Pipeline orchestrator: fetch API roster + scrape legacy list -> join ->
+// geocode -> merge with overrides -> emit public/grottos.geojson.
 //
-// Run:   npm run pipeline            (live scrape + geocode)
-//        npm run pipeline:offline    (use committed data/scraped.json + cache;
-//                                     no network — for CI and quick re-emits)
+// Source strategy (HYBRID): the current caves.org WordPress REST API is the
+// authoritative roster of ACTIVE grottos; the legacy I/O list supplies the
+// town + website (the API exposes neither in structured form). See join.ts and
+// the README "Data source".
 //
-// SAFETY GUARD: if the scrape yields fewer than MIN_GROTTOS, the run ABORTS
-// non-zero WITHOUT overwriting any committed data. A near-empty result means
-// the source HTML changed and the parser broke; a broken scrape must never
-// wipe the dataset.
+// Run:   npm run pipeline            (live: API + scrape + geocode)
+//        npm run pipeline:offline    (use committed data/*.json + cache; no
+//                                     network — for CI and quick re-emits)
+//
+// SAFETY GUARD: if either source yields fewer than MIN_GROTTOS, the run ABORTS
+// non-zero WITHOUT overwriting any committed data. A near-empty result means a
+// source changed and a parser broke; a broken run must never wipe the dataset.
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { scrape, SOURCE_URL } from "./scrape.js";
+import { fetchRoster, type RosterGrotto } from "./roster.js";
+import { joinRosterWithLegacy } from "./join.js";
 import { geocodeAll } from "./geocode.js";
 import { merge, toGeoJSON, geocodeTargets } from "./merge.js";
 import type { ScrapedGrotto, GeocodeCache, Overrides } from "./types.js";
@@ -21,12 +27,13 @@ import type { ScrapedGrotto, GeocodeCache, Overrides } from "./types.js";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "..", "..");
 const DATA = join(ROOT, "data");
 const PUBLIC = join(ROOT, "public");
+const ROSTER_PATH = join(DATA, "roster.json");
 const SCRAPED_PATH = join(DATA, "scraped.json");
 const CACHE_PATH = join(DATA, "geocode-cache.json");
 const OVERRIDES_PATH = join(DATA, "overrides.json");
 const GEOJSON_PATH = join(PUBLIC, "grottos.geojson");
 
-/** There are ~207 active grottos; abort well below that to catch a broken parse. */
+/** ~200+ active grottos; abort well below that to catch a broken source/parse. */
 const MIN_GROTTOS = 150;
 
 const log = (msg: string) => process.stderr.write(msg + "\n");
@@ -50,34 +57,59 @@ function today(): string {
   return new Date().toISOString().slice(0, 10);
 }
 
-async function main(): Promise<void> {
-  const offline = process.argv.includes("--no-network");
-
-  // 1. SCRAPE (or load committed scrape in offline mode).
-  let scraped: ScrapedGrotto[];
-  if (offline) {
-    log(`[scrape] offline mode: loading ${SCRAPED_PATH}`);
-    scraped = readJSON<ScrapedGrotto[]>(SCRAPED_PATH, []);
-  } else {
-    log(`[scrape] fetching ${SOURCE_URL}`);
-    scraped = await scrape();
-  }
-  log(`[scrape] parsed ${scraped.length} grottos`);
-
-  // SAFETY GUARD — never let a broken scrape wipe committed data.
-  if (scraped.length < MIN_GROTTOS) {
+function guardCount(label: string, n: number): void {
+  if (n < MIN_GROTTOS) {
     log(
-      `[ABORT] scrape yielded ${scraped.length} grottos (< ${MIN_GROTTOS}). ` +
-        `The source likely changed and the parser broke. ` +
-        `Refusing to overwrite committed data.`
+      `[ABORT] ${label} yielded ${n} grottos (< ${MIN_GROTTOS}). A source likely ` +
+        `changed and a parser broke. Refusing to overwrite committed data.`
     );
     process.exit(1);
   }
-  if (!offline) writeJSON(SCRAPED_PATH, scraped);
+}
+
+async function main(): Promise<void> {
+  const offline = process.argv.includes("--no-network");
+  const overrides = readJSON<Overrides>(OVERRIDES_PATH, {});
+  const aliases = (overrides as { _aliases?: Record<string, string> })._aliases ?? {};
+
+  // 1a. ROSTER — authoritative list of active grottos (current caves.org API).
+  let roster: RosterGrotto[];
+  if (offline) {
+    log(`[roster] offline mode: loading ${ROSTER_PATH}`);
+    roster = readJSON<RosterGrotto[]>(ROSTER_PATH, []);
+  } else {
+    log(`[roster] fetching caves.org REST API`);
+    roster = await fetchRoster();
+  }
+  log(`[roster] ${roster.length} grottos in the active roster`);
+  guardCount("roster", roster.length);
+
+  // 1b. LEGACY — supplies town + website (joined by name).
+  let legacy: ScrapedGrotto[];
+  if (offline) {
+    log(`[scrape] offline mode: loading ${SCRAPED_PATH}`);
+    legacy = readJSON<ScrapedGrotto[]>(SCRAPED_PATH, []);
+  } else {
+    log(`[scrape] fetching ${SOURCE_URL}`);
+    legacy = await scrape();
+  }
+  log(`[scrape] parsed ${legacy.length} legacy entries`);
+  guardCount("legacy list", legacy.length);
+
+  if (!offline) {
+    writeJSON(ROSTER_PATH, roster);
+    writeJSON(SCRAPED_PATH, legacy);
+  }
+
+  // 1c. JOIN — roster decides who's active; legacy supplies town + website.
+  const joined = joinRosterWithLegacy(roster, legacy, aliases);
+  log(`[join] ${joined.matched} matched; ${joined.apiOnly.length} API-only (no town yet)`);
+  if (joined.legacyOnlyDropped.length)
+    log(`[join] dropped ${joined.legacyOnlyDropped.length} legacy-only (defunct): ${joined.legacyOnlyDropped.join(", ")}`);
+  const scraped = joined.grottos;
 
   // 2. GEOCODE (town centroids; cached). Geocode the OVERRIDE-CORRECTED towns
   // so a town-fix override (e.g. a typo in the source) actually gets coords.
-  const overrides = readJSON<Overrides>(OVERRIDES_PATH, {});
   const cache = readJSON<GeocodeCache>(CACHE_PATH, {});
   const toGeocode = geocodeTargets(scraped, overrides);
   log(`[geocode] ${toGeocode.length} town targets; cache has ${Object.keys(cache).length}`);
@@ -88,8 +120,18 @@ async function main(): Promise<void> {
   // 3. MERGE with overrides.
   const result = merge(scraped, geo.cache, overrides, today());
   if (result.excluded) log(`[merge] excluded ${result.excluded} via overrides`);
-  if (result.unplaced.length)
-    log(`[merge] ${result.unplaced.length} unplaced (no coords): ${result.unplaced.join(", ")}`);
+
+  // Split the unplaced into actionable buckets: grottos that HAVE a state but
+  // no town are real clubs needing a town override; entries with no state are
+  // the API's non-local entities (cave surveys, NSS regions, sections) that are
+  // correctly left off the map.
+  const stateByName = new Map(scraped.map((g) => [g.name, g.state]));
+  const missingTown = result.unplaced.filter((n) => stateByName.get(n));
+  const nonLocal = result.unplaced.filter((n) => !stateByName.get(n));
+  if (missingTown.length)
+    log(`[merge] ${missingTown.length} active grottos missing a town (add a town override to map them): ${missingTown.join(", ")}`);
+  if (nonLocal.length)
+    log(`[merge] ${nonLocal.length} non-local entries skipped (cave surveys / regions / sections)`);
   if (result.staleOverrides.length)
     log(`[merge] WARNING stale override keys (matched nothing): ${result.staleOverrides.join(", ")}`);
 

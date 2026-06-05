@@ -1,0 +1,1365 @@
+[
+  {
+    "name": "Gila Area Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Druid City Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Chattanooga Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Tennessee Cave Survey",
+    "states": []
+  },
+  {
+    "name": "White Sands Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Fredericksburg Underground Network",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Harrison Crawford Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Gadsden Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Spencer Mountain Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Greater Randolph Organization for Speleological Science (GROSS)",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Rowdy Rendezvous",
+    "states": [
+      "ID",
+      "WY"
+    ]
+  },
+  {
+    "name": "Puerto Rico Grotto: GEO",
+    "states": []
+  },
+  {
+    "name": "Grotto of the Ancients",
+    "states": [
+      "CO",
+      "NM",
+      "UT"
+    ]
+  },
+  {
+    "name": "Central Oklahoma Grotto",
+    "states": [
+      "OK"
+    ]
+  },
+  {
+    "name": "American Spelean History Association",
+    "states": []
+  },
+  {
+    "name": "Survey & Cartography Section",
+    "states": []
+  },
+  {
+    "name": "Cave Diving Section (CDS)",
+    "states": []
+  },
+  {
+    "name": "Vertical Section",
+    "states": []
+  },
+  {
+    "name": "Cave Geology & Geographty",
+    "states": []
+  },
+  {
+    "name": "Arizona Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Great Basin Speleological Survey",
+    "states": []
+  },
+  {
+    "name": "Indiana Speleological Survey",
+    "states": []
+  },
+  {
+    "name": "Utah Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Florida Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Indiana Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Idaho Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Colorado Cave Survey",
+    "states": []
+  },
+  {
+    "name": "Alabama Cave Survey",
+    "states": []
+  },
+  {
+    "name": "West Virginia Speleological Survey",
+    "states": []
+  },
+  {
+    "name": "Virginia Speleological Survey",
+    "states": []
+  },
+  {
+    "name": "Georgia Speleological Survey",
+    "states": []
+  },
+  {
+    "name": "Rocky Mountain Region",
+    "states": []
+  },
+  {
+    "name": "Northwest Caving Association",
+    "states": []
+  },
+  {
+    "name": "Western Region",
+    "states": []
+  },
+  {
+    "name": "Virginia Region",
+    "states": []
+  },
+  {
+    "name": "Texas Speleological Association",
+    "states": []
+  },
+  {
+    "name": "Southwestern Region",
+    "states": []
+  },
+  {
+    "name": "Southeastern Regional Association",
+    "states": []
+  },
+  {
+    "name": "Mid-Appalachian Region",
+    "states": []
+  },
+  {
+    "name": "Mississippi Valley-Ozark Region",
+    "states": []
+  },
+  {
+    "name": "Arizona Regional Association",
+    "states": []
+  },
+  {
+    "name": "Northeastern Regional Organization",
+    "states": []
+  },
+  {
+    "name": "Colorado School of Mines Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Mule Mountain Caving Club",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Redwood Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Anthros Costa Rica Grotto",
+    "states": []
+  },
+  {
+    "name": "Hole-in-the-Wall Grotto",
+    "states": [
+      "NE",
+      "WY"
+    ]
+  },
+  {
+    "name": "Armpit Grotto",
+    "states": [
+      "NE",
+      "WY"
+    ]
+  },
+  {
+    "name": "Wisconsin Speleological Society",
+    "states": [
+      "WI"
+    ]
+  },
+  {
+    "name": "Germany Valley Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "ESSO Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Charleston Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "West Virginia University Student Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Tri-State Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Parkersburg Area Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Mountain State Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Monroe County Cavers",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Monongahela Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Greenbrier Grotto",
+    "states": [
+      "WV"
+    ]
+  },
+  {
+    "name": "Wasatch Grotto",
+    "states": [
+      "UT"
+    ]
+  },
+  {
+    "name": "Vermont Cavers Association",
+    "states": [
+      "ME",
+      "NH",
+      "RI",
+      "VT"
+    ]
+  },
+  {
+    "name": "Walker Mountain Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "VPI Cave Club",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Virginia Highlands Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Tidewater Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Timpanogos Grotto",
+    "states": [
+      "UT"
+    ]
+  },
+  {
+    "name": "Cascade Grotto",
+    "states": [
+      "WA"
+    ]
+  },
+  {
+    "name": "Richmond Area Speleological Society",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Mountain Empire Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Madison University Student Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "James River Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Front Royal Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Charlottesville Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Blue Ridge Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Battlefield Area Troglodyte Society",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "Salt Lake Grotto",
+    "states": [
+      "UT"
+    ]
+  },
+  {
+    "name": "Stonewall Cavers",
+    "states": []
+  },
+  {
+    "name": "Out of Bounds Grotto",
+    "states": []
+  },
+  {
+    "name": "New River Valley Grotto",
+    "states": [
+      "VA"
+    ]
+  },
+  {
+    "name": "UT Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Permian Basin Speleological Society",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Lubbock Area Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "GUAD Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Greater Houston Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Dallas-Fort Worth Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Bexar Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Aggie Grotto",
+    "states": [
+      "TX"
+    ]
+  },
+  {
+    "name": "Upper Cumberland Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Southport Chronic Cavers",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Smoky Mountain Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Six Ridges Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Sewanee Mountain Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Nashville Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "East Tennessee Grotto",
+    "states": [
+      "TN"
+    ]
+  },
+  {
+    "name": "Paha Sapa Grotto",
+    "states": [
+      "NE",
+      "ND",
+      "SD"
+    ]
+  },
+  {
+    "name": "South Carolina Interstate Grotto",
+    "states": [
+      "SC"
+    ]
+  },
+  {
+    "name": "Gypsy Underground Grotto",
+    "states": []
+  },
+  {
+    "name": "Central Alabama Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Birmingham Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "The Glacier Grotto",
+    "states": [
+      "AK"
+    ]
+  },
+  {
+    "name": "Huntsville Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Cullman Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "San Diego Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Mother Lode Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Diablo Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Desert Dog Troglodytes",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Southern Arizona",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Northern Arizona Grotto",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Escabrosa Grotto",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Cochise County Cavers",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Central Arizona Grotto",
+    "states": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "Middle Ozark Lower Earth Soc. MOLES",
+    "states": [
+      "AR"
+    ]
+  },
+  {
+    "name": "Little Rock Grotto",
+    "states": [
+      "AR"
+    ]
+  },
+  {
+    "name": "COBRA Grotto",
+    "states": [
+      "AR"
+    ]
+  },
+  {
+    "name": "Central Region Arkansas Grotto",
+    "states": [
+      "AR"
+    ]
+  },
+  {
+    "name": "Boston Mountain Grotto",
+    "states": [
+      "AR"
+    ]
+  },
+  {
+    "name": "RAT Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Montgomery Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Jackson County Grotto",
+    "states": [
+      "AL"
+    ]
+  },
+  {
+    "name": "Tampa Bay Area Grotto",
+    "states": [
+      "FL"
+    ]
+  },
+  {
+    "name": "River City Grotto",
+    "states": [
+      "FL"
+    ]
+  },
+  {
+    "name": "Florida Speleological Society",
+    "states": [
+      "FL"
+    ]
+  },
+  {
+    "name": "Flint River Grotto",
+    "states": [
+      "FL"
+    ]
+  },
+  {
+    "name": "Central Florida Grotto",
+    "states": [
+      "FL"
+    ]
+  },
+  {
+    "name": "Commander Cody Caving Club",
+    "states": [
+      "DE"
+    ]
+  },
+  {
+    "name": "District of Columbia Grotto",
+    "states": [
+      "DC"
+    ]
+  },
+  {
+    "name": "Central Connecticut Grotto",
+    "states": [
+      "CT"
+    ]
+  },
+  {
+    "name": "Timberline Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Southern Colorado Mountain Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Northern Colorado Mountain Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Front Range Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Colorado Western Slope Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Colorado Grotto",
+    "states": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Stanislaus Speleo. Assn.",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Southern California Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Shasta Area Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Shascade Caving Society",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "San Joaquin Valley Grotto",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "San Francisco Bay Chapter of NSS",
+    "states": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Little Egypt Grotto",
+    "states": [
+      "IL"
+    ]
+  },
+  {
+    "name": "Silver Sage Grotto",
+    "states": [
+      "ID"
+    ]
+  },
+  {
+    "name": "Gem State Grotto",
+    "states": [
+      "ID"
+    ]
+  },
+  {
+    "name": "Iowa Grotto",
+    "states": [
+      "IA"
+    ]
+  },
+  {
+    "name": "Hawaii Grotto",
+    "states": [
+      "HI"
+    ]
+  },
+  {
+    "name": "Team Poseidon",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Pigeon Mountain Grotto",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Middle Georgia Grotto",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Dogwood City Grotto",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Clock Tower Grotto",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Clayton County Cavers",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Augusta Cave Masters",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Athens Speleological Society",
+    "states": [
+      "GA"
+    ]
+  },
+  {
+    "name": "Miami Valley Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Greater Cincinnati Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Dayton Underground Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Cleveland Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Central Ohio Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Near Normal Grotto",
+    "states": [
+      "IL"
+    ]
+  },
+  {
+    "name": "Greater Allentown Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Franklin County Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Bucks County Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Bald Eagle Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Willamette Valley Grotto",
+    "states": [
+      "OR"
+    ]
+  },
+  {
+    "name": "Oregon High Desert Grotto",
+    "states": [
+      "OR"
+    ]
+  },
+  {
+    "name": "Oregon Grotto",
+    "states": [
+      "OR"
+    ]
+  },
+  {
+    "name": "Tulsa Regional OK Grotto",
+    "states": [
+      "OK"
+    ]
+  },
+  {
+    "name": "Arbuckle Mountains Grotto",
+    "states": [
+      "OK"
+    ]
+  },
+  {
+    "name": "Wittenberg University Speleological Society",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Standing Stone Grotto",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "Ohio Cavers and Climbers",
+    "states": [
+      "OH"
+    ]
+  },
+  {
+    "name": "York Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Seven Valleys Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Pittsburgh Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Philadelphia Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Nittany Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Loyalhanna Grotto",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Huntingdon County Cave Hunters",
+    "states": [
+      "PA"
+    ]
+  },
+  {
+    "name": "Saint Joseph Valley Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Northern Indiana Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Evansville Metropolitan Grotto (EMG)",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Eastern Indiana Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Central Indiana Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Bloomington Indiana Grotto",
+    "states": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Windy City Grotto",
+    "states": [
+      "IL"
+    ]
+  },
+  {
+    "name": "Sub-Urban Chicago Grotto",
+    "states": [
+      "IL"
+    ]
+  },
+  {
+    "name": "Sligo Grotto",
+    "states": [
+      "MD"
+    ]
+  },
+  {
+    "name": "Frederick Grotto",
+    "states": [
+      "MD"
+    ]
+  },
+  {
+    "name": "Baltimore Grotto",
+    "states": [
+      "MD"
+    ]
+  },
+  {
+    "name": "Boston Grotto",
+    "states": [
+      "ME",
+      "MA",
+      "NH",
+      "RI"
+    ]
+  },
+  {
+    "name": "Crescent City Cavers",
+    "states": [
+      "LA"
+    ]
+  },
+  {
+    "name": "Rockcastle Regional Grotto",
+    "states": [
+      "KY"
+    ]
+  },
+  {
+    "name": "Pine Mountain Grotto",
+    "states": [
+      "KY"
+    ]
+  },
+  {
+    "name": "Louisville Grotto",
+    "states": [
+      "KY"
+    ]
+  },
+  {
+    "name": "Green River Grotto",
+    "states": [
+      "KY"
+    ]
+  },
+  {
+    "name": "Blue Grass Grotto",
+    "states": [
+      "KY"
+    ]
+  },
+  {
+    "name": "Kansas Speleological Society",
+    "states": [
+      "KS"
+    ]
+  },
+  {
+    "name": "Flittermouse Grotto",
+    "states": [
+      "NC"
+    ]
+  },
+  {
+    "name": "Northern Rocky Mountain Grotto",
+    "states": [
+      "MT"
+    ]
+  },
+  {
+    "name": "JUST Cavers",
+    "states": [
+      "MS"
+    ]
+  },
+  {
+    "name": "Stygian Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Springfield Plateau Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "SEMO Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Roubidoux Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Ozark Highlands Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Missouri School of Mines Spelunkers Club",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Middle Mississippi Valley Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Meramec Valley Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Kansas City Area Grotto",
+    "states": [
+      "KS",
+      "MO"
+    ]
+  },
+  {
+    "name": "Daedalus Cavers Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Chouteau Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Branson Area Tri-Lakes Grotto",
+    "states": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Minnesota Speleological Survey",
+    "states": [
+      "MN"
+    ]
+  },
+  {
+    "name": "Minnesota Caving Club",
+    "states": [
+      "MN"
+    ]
+  },
+  {
+    "name": "Michigan Interlakes Grotto",
+    "states": [
+      "MI"
+    ]
+  },
+  {
+    "name": "Detroit Urban Grotto",
+    "states": [
+      "MI"
+    ]
+  },
+  {
+    "name": "Western Maryland Grotto",
+    "states": [
+      "MD",
+      "WV"
+    ]
+  },
+  {
+    "name": "Niagara Frontier Grotto",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Met Grotto",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Helderberg-Hudson Grotto",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Southern Nevada Grotto",
+    "states": [
+      "NV"
+    ]
+  },
+  {
+    "name": "Northern Nevada Grotto",
+    "states": [
+      "NV"
+    ]
+  },
+  {
+    "name": "Sierra Blanca Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Sandia Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Pecos Valley Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Pajarito Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "New Mexico Tech Student Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Mesilla Valley Grotto",
+    "states": [
+      "NM"
+    ]
+  },
+  {
+    "name": "Northern New Jersey Grotto",
+    "states": [
+      "NJ"
+    ]
+  },
+  {
+    "name": "New Jersey Tri-State Speleological Society",
+    "states": [
+      "NJ"
+    ]
+  },
+  {
+    "name": "Central New Jersey Grotto",
+    "states": [
+      "NJ"
+    ]
+  },
+  {
+    "name": "Triangle Troglodytes",
+    "states": [
+      "NC"
+    ]
+  },
+  {
+    "name": "Charlotte Caving Club",
+    "states": [
+      "NC"
+    ]
+  },
+  {
+    "name": "Syracuse University Outing Club",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Shawangunk-Catskill Area Grotto",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Rensselaer Outing Club",
+    "states": [
+      "NY"
+    ]
+  },
+  {
+    "name": "Western Indiana Grotto",
+    "states": [
+      "IN"
+    ]
+  }
+]

@@ -1,27 +1,39 @@
 {
-  "_comment": "Hand-maintained corrections. Overrides ALWAYS win and survive every re-scrape. Keys are grotto names (case-insensitive, whitespace-collapsed). Keys starting with '_' are ignored. Fields: exclude (bool, drop it), town, state, lat, lng (pin a town centroid), name, contact_url, note. See README 'How overrides work'.",
+  "_comment": "Hand-maintained corrections. Overrides ALWAYS win and survive every re-scrape. Keys are grotto names (case-insensitive, whitespace-collapsed) matching the API roster name. Keys starting with '_' are ignored. Fields: exclude (bool), town, state, lat, lng (pin a town centroid), name, contact_url, note. See README 'How overrides work'.",
   "_example_coordinate_fix": {
     "note": "EXAMPLE ONLY (key starts with _ so it is ignored). To fix a mislocated grotto, copy this under its exact name: \"Some Grotto\": { \"lat\": 35.123, \"lng\": -86.456, \"note\": \"why\" }"
+  },
+  "_aliases": {
+    "_comment": "Map an API roster name -> the legacy-list name when they differ, so the grotto keeps its town/website instead of being dropped as defunct. Reviewed against the legacy list.",
+    "Greater Randolph Organization for Speleological Science (GROSS)": "Greater Randolph (GROSS)",
+    "Southern Colorado Mountain Grotto": "Southern Colorado Mountain",
+    "Northern Colorado Mountain Grotto": "Northern Colorado Grotto",
+    "Syracuse University Outing Club": "Syracuse University Outing",
+    "Wittenberg University Speleological Society": "Wittenberg U. Spel Soc (Stu)"
   },
   "Pittsburgh Grotto": {
     "town": "McKeesport",
     "state": "PA",
-    "note": "Source misspells the town as 'McKeespot', which fails to geocode. Corrected to McKeesport, PA."
+    "note": "Legacy list misspells the town as 'McKeespot', which fails to geocode. Corrected to McKeesport, PA."
   },
-  "Israeli Caving Club": {
-    "exclude": true,
-    "note": "Foreign (Israel); outside the scope of a US nearest-to-me map."
+  "Gila Area Grotto": {
+    "town": "Silver City",
+    "state": "NM",
+    "note": "New grotto (in API, not legacy). Town from its caves.org description: 'meeting in Silver City'."
   },
-  "Anthros Costa Rica Grotto": {
-    "exclude": true,
-    "note": "Foreign (Costa Rica); listed in the source but not a US location."
+  "Colorado School of Mines Grotto": {
+    "town": "Golden",
+    "state": "CO",
+    "note": "New grotto (in API, not legacy). Colorado School of Mines is in Golden, CO."
   },
-  "Balincaguin Conservancy Grotto": {
-    "exclude": true,
-    "note": "Foreign (Philippines); outside US map scope."
+  "Grotto of the Ancients": {
+    "town": "Cortez",
+    "state": "CO",
+    "note": "New grotto (in API, not legacy). Town from its caves.org description: 'serving the 4 corners region including Cortez and Durango'."
   },
-  "PAAMUL - Gruta de": {
-    "exclude": true,
-    "note": "Foreign (Mexico); source entry has no usable US town."
+  "Druid City Grotto": {
+    "town": "Tuscaloosa",
+    "state": "AL",
+    "note": "New grotto (in API, not legacy). 'The Druid City' is the established nickname for Tuscaloosa, AL."
   }
 }

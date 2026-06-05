@@ -269,6 +269,11 @@
     "lng": -122.292256,
     "source": "nominatim"
   },
+  "Cortez, CO": {
+    "lat": 37.3494528,
+    "lng": -108.584073,
+    "source": "nominatim"
+  },
   "Crozet, VA": {
     "lat": 38.065017,
     "lng": -78.690893,
@@ -372,6 +377,11 @@
   "Glenwood Springs, CO": {
     "lat": 39.5466381,
     "lng": -107.3246941,
+    "source": "nominatim"
+  },
+  "Golden, CO": {
+    "lat": 39.7546349,
+    "lng": -105.22058,
     "source": "nominatim"
   },
   "Grafton, WV": {
@@ -829,6 +839,11 @@
     "lng": -92.2243153,
     "source": "nominatim"
   },
+  "Silver City, NM": {
+    "lat": 32.7711825,
+    "lng": -108.2764164,
+    "source": "nominatim"
+  },
   "Sinks Grove, WV": {
     "lat": 37.6642889,
     "lng": -80.5409061,
@@ -917,6 +932,11 @@
   "Tucson, AZ": {
     "lat": 32.2228765,
     "lng": -110.974847,
+    "source": "nominatim"
+  },
+  "Tuscaloosa, AL": {
+    "lat": 33.2095614,
+    "lng": -87.5675258,
     "source": "nominatim"
   },
   "Twin Falls, ID": {

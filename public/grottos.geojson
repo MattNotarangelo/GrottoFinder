@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "name": "Glacier Grotto",
+        "name": "The Glacier Grotto",
         "region": "Pacific",
         "town": "Juneau",
         "state": "AK",
@@ -70,6 +70,24 @@
         "town": "Cullman",
         "state": "AL",
         "contact_url": "http://cullmangrotto.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5675258,
+          33.2095614
+        ]
+      },
+      "properties": {
+        "name": "Druid City Grotto",
+        "region": "Southeast / TAG",
+        "town": "Tuscaloosa",
+        "state": "AL",
+        "contact_url": null,
         "last_seen": "2026-06-05"
       }
     },
@@ -582,6 +600,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.22058,
+          39.7546349
+        ]
+      },
+      "properties": {
+        "name": "Colorado School of Mines Grotto",
+        "region": "West",
+        "town": "Golden",
+        "state": "CO",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -107.7831199,
           39.5347023
         ]
@@ -618,6 +654,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -108.584073,
+          37.3494528
+        ]
+      },
+      "properties": {
+        "name": "Grotto of the Ancients",
+        "region": "West",
+        "town": "Cortez",
+        "state": "CO",
+        "contact_url": null,
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -107.8766,
           37.2769484
         ]
@@ -641,7 +695,7 @@
         ]
       },
       "properties": {
-        "name": "Northern Colorado Grotto",
+        "name": "Northern Colorado Mountain Grotto",
         "region": "West",
         "town": "Loveland",
         "state": "CO",
@@ -659,7 +713,7 @@
         ]
       },
       "properties": {
-        "name": "Southern Colorado Mountain",
+        "name": "Southern Colorado Mountain Grotto",
         "region": "West",
         "town": "Monument",
         "state": "CO",
@@ -1068,24 +1122,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.4474302,
-          42.3147529
-        ]
-      },
-      "properties": {
-        "name": "Rock River Speleological Soc.",
-        "region": "Midwest",
-        "town": "Woodstock",
-        "state": "IL",
-        "contact_url": null,
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -88.174097,
           41.8179303
         ]
@@ -1181,7 +1217,7 @@
         ]
       },
       "properties": {
-        "name": "Evansville Metropolitan Grotto",
+        "name": "Evansville Metropolitan Grotto (EMG)",
         "region": "Midwest",
         "town": "Jasper",
         "state": "IN",
@@ -1631,7 +1667,7 @@
         ]
       },
       "properties": {
-        "name": "Middle Mississippi Valley Gr.",
+        "name": "Middle Mississippi Valley Grotto",
         "region": "Midwest",
         "town": "St. Louis",
         "state": "MO",
@@ -1649,7 +1685,7 @@
         ]
       },
       "properties": {
-        "name": "Missouri Sch. Mines Spelunkers Club",
+        "name": "Missouri School of Mines Spelunkers Club",
         "region": "Midwest",
         "town": "Rolla",
         "state": "MO",
@@ -1847,7 +1883,7 @@
         ]
       },
       "properties": {
-        "name": "New Jersey Tri-State Spel. Society",
+        "name": "New Jersey Tri-State Speleological Society",
         "region": "Northeast",
         "town": "Wanaque",
         "state": "NJ",
@@ -1870,6 +1906,24 @@
         "town": "Kinnelon",
         "state": "NJ",
         "contact_url": "http://www.nnjg.org/",
+        "last_seen": "2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      },
+      "properties": {
+        "name": "Gila Area Grotto",
+        "region": "West",
+        "town": "Silver City",
+        "state": "NM",
+        "contact_url": null,
         "last_seen": "2026-06-05"
       }
     },
@@ -2135,7 +2189,7 @@
         ]
       },
       "properties": {
-        "name": "Syracuse University Outing",
+        "name": "Syracuse University Outing Club",
         "region": "Northeast",
         "town": "Syracuse",
         "state": "NY",
@@ -2279,7 +2333,7 @@
         ]
       },
       "properties": {
-        "name": "Wittenberg U. Spel Soc (Stu)",
+        "name": "Wittenberg University Speleological Society",
         "region": "Midwest",
         "town": "Springfield",
         "state": "OH",
@@ -2356,24 +2410,6 @@
         "town": "Bend",
         "state": "OR",
         "contact_url": "http://www.ohdgrotto.com",
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.292256,
-          45.5314503
-        ]
-      },
-      "properties": {
-        "name": "Persona Non Grotto",
-        "region": "Pacific",
-        "town": "Corbett",
-        "state": "OR",
-        "contact_url": null,
         "last_seen": "2026-06-05"
       }
     },
@@ -2544,24 +2580,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1262839,
-          40.6424116
-        ]
-      },
-      "properties": {
-        "name": "Pennsylvania Inner-Earth Grotto",
-        "region": "Northeast",
-        "town": "Indiana",
-        "state": "PA",
-        "contact_url": null,
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.387693,
           39.9167783
         ]
@@ -2644,24 +2662,6 @@
         "town": "Fort Mill",
         "state": "SC",
         "contact_url": "https://charlottecavingclub.weebly.com/",
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.9450759,
-          35.0073697
-        ]
-      },
-      "properties": {
-        "name": "Charlotte Caving Club",
-        "region": "Southeast / TAG",
-        "town": "Fort Mill",
-        "state": "SC",
-        "contact_url": "https://charlottecavingclub.weebly.com/contact.html#/",
         "last_seen": "2026-06-05"
       }
     },
@@ -3215,7 +3215,7 @@
         ]
       },
       "properties": {
-        "name": "Richmond Area Spel. Soc.",
+        "name": "Richmond Area Speleological Society",
         "region": "Mid-Atlantic",
         "town": "Mechanicsville",
         "state": "VA",
@@ -3336,24 +3336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.276413,
-          42.6801053
-        ]
-      },
-      "properties": {
-        "name": "Great Lakes Cavers",
-        "region": "Midwest",
-        "town": "Burlington",
-        "state": "WI",
-        "contact_url": "http://www.greatlakescaving.com",
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -89.7882794,
           43.2773819
         ]
@@ -3413,7 +3395,7 @@
         ]
       },
       "properties": {
-        "name": "Greater Randolph (GROSS)",
+        "name": "Greater Randolph Organization for Speleological Science (GROSS)",
         "region": "Mid-Atlantic",
         "town": "Sinks Grove",
         "state": "WV",
@@ -3516,24 +3498,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.7319766,
-          39.323418
-        ]
-      },
-      "properties": {
-        "name": "TRA Grotto",
-        "region": "Mid-Atlantic",
-        "town": "Harpers Ferry",
-        "state": "WV",
-        "contact_url": null,
-        "last_seen": "2026-06-05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -78.0955563,
           39.3703778
         ]
@@ -3557,7 +3521,7 @@
         ]
       },
       "properties": {
-        "name": "West Virginia Univ. Student Grotto",
+        "name": "West Virginia University Student Grotto",
         "region": "Mid-Atlantic",
         "town": "Morgantown",
         "state": "WV",
