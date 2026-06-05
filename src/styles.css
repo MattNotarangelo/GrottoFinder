@@ -81,15 +81,6 @@ body {
   cursor: pointer;
 }
 
-.region-filter {
-  font-size: 0.9rem;
-  color: var(--muted);
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-  margin-left: auto;
-}
-
 .status {
   margin: 0;
   padding: 0.5rem 1rem;
@@ -176,8 +167,5 @@ body {
     max-height: 14rem;
     border-right: none;
     border-bottom: 1px solid var(--border);
-  }
-  .region-filter {
-    margin-left: 0;
   }
 }

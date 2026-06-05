@@ -17,18 +17,12 @@ const els = {
   locateBtn: document.getElementById("locate-btn") as HTMLButtonElement,
   placeForm: document.getElementById("place-form") as HTMLFormElement,
   placeInput: document.getElementById("place-input") as HTMLInputElement,
-  regionSelect: document.getElementById("region-select") as HTMLSelectElement,
   nearestPanel: document.getElementById("nearest-panel") as HTMLElement,
   nearestList: document.getElementById("nearest-list") as HTMLOListElement,
 };
 
 function setStatus(msg: string): void {
   els.status.textContent = msg;
-}
-
-/** Filter the full set by the selected region (empty = all). */
-function visiblePoints(all: GrottoPoint[], region: string): GrottoPoint[] {
-  return region ? all.filter((g) => g.region === region) : all;
 }
 
 function renderNearestList(grottoMap: ReturnType<typeof createMap>, points: GrottoPoint[]): void {
@@ -79,32 +73,9 @@ async function main(): Promise<void> {
     return;
   }
 
-  // Populate the region filter from the data.
-  const regions = [...new Set(all.map((g) => g.region))].sort();
-  for (const r of regions) {
-    const opt = document.createElement("option");
-    opt.value = r;
-    opt.textContent = r;
-    els.regionSelect.appendChild(opt);
-  }
-
-  let origin: LatLng | null = null;
-
-  function refresh(): void {
-    const points = visiblePoints(all, els.regionSelect.value);
-    grottoMap.render(points);
-    if (origin) {
-      const near = nearest(origin, points, NEAREST_COUNT);
-      renderNearestList(grottoMap, near);
-      grottoMap.fitTo(near);
-    }
-  }
-
   function locateTo(point: LatLng, label: string): void {
-    origin = point;
     grottoMap.setUser(point.lat, point.lng);
-    const points = visiblePoints(all, els.regionSelect.value);
-    const near = nearest(point, points, NEAREST_COUNT);
+    const near = nearest(point, all, NEAREST_COUNT);
     renderNearestList(grottoMap, near);
     grottoMap.fitTo(near);
     const closest = near[0];
@@ -117,8 +88,6 @@ async function main(): Promise<void> {
 
   setStatus(`${all.length} grottos loaded. Use your location or enter a ZIP / Town, ST.`);
   grottoMap.render(all);
-
-  els.regionSelect.addEventListener("change", refresh);
 
   els.locateBtn.addEventListener("click", () => {
     if (!navigator.geolocation) {

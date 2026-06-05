@@ -180,11 +180,11 @@ treated as defunct.
 
 ### Regions
 
-The source is organized by **state**, not by NSS region. The map's region filter
-uses a coarse, human-friendly grouping (Northeast, Mid-Atlantic, Southeast / TAG,
-Midwest, South Central, West, Pacific) **derived** from the state in
-`scripts/src/pipeline/states.ts`. It is not an official NSS administrative
-boundary.
+The source is organized by **state**, not by NSS region. A coarse, human-
+friendly grouping (Northeast, Mid-Atlantic, Southeast / TAG, Midwest, South
+Central, West, Pacific) is **derived** from the state in
+`scripts/src/pipeline/states.ts` and shown in each grotto's popup. It is not an
+official NSS administrative boundary.
 
 ---
 
@@ -203,13 +203,12 @@ changes — and catch parser breakage — before they go live. It never pushes t
 
 ## Frontend & Cloudflare Pages
 
-The frontend is a static Vite app using **Leaflet** with **CARTO "Positron"
-basemap tiles** (light, free, no key, OSM data, and `@2x` retina tiles so the
-map stays sharp on HiDPI displays). Every grotto is shown as its own marker at
-all zoom levels. It loads
-`grottos.geojson`, offers "nearest to me" via browser geolocation (with a
-graceful **ZIP / Town, ST** fallback when geolocation is denied), a region
-filter, and marker popups linking to each club's site.
+The frontend is a static Vite app using **Leaflet** with **CARTO "Voyager"
+basemap tiles** (colorful but clean, free, no key, OSM data, and `@2x` retina
+tiles so the map stays sharp on HiDPI displays). Every grotto is shown as its
+own marker at all zoom levels. It loads `grottos.geojson`, offers "nearest to
+me" via browser geolocation (with a graceful **ZIP / Town, ST** fallback when
+geolocation is denied), and marker popups linking to each club's site.
 
 ```bash
 npm run dev       # local dev server

@@ -46,12 +46,12 @@ function popupHtml(g: GrottoPoint): string {
 export function createMap(elementId: string): GrottoMap {
   const map = L.map(elementId).setView(US_CENTER, US_ZOOM);
 
-  // CARTO "Positron" basemap: light/clean, free, no API key, OSM data. The
-  // {r} token + detectRetina request @2x tiles on HiDPI displays so the map
-  // stays sharp instead of upscaling 1x tiles.
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+  // CARTO "Voyager" basemap: colorful but clean, free, no API key, OSM data.
+  // We always request the @2x tile (rendered into a 256px slot) so the map is
+  // sharp on HiDPI displays. We do NOT use detectRetina — its fractional tile
+  // sizing produces hairline seams ("outlines") between tiles.
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}@2x.png", {
     maxZoom: 20,
-    detectRetina: true,
     subdomains: "abcd",
     attribution:
       '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions">CARTO</a>',
