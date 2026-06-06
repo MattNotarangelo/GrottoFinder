@@ -86,7 +86,7 @@ export function merge(
     const name = ov?.name ?? g.name;
     const town = ov?.town ?? g.town;
     const state = (ov?.state ?? g.state).toUpperCase();
-    const contactUrl = ov?.contactUrl !== undefined ? ov.contactUrl : g.contactUrl;
+    const contactUrl = ov?.contact_url !== undefined ? ov.contact_url : g.contactUrl;
 
     // Coordinates: explicit override coords win, else the geocode cache.
     let lat: number | undefined;

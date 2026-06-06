@@ -22,5 +22,48 @@
     "town": "Tuscaloosa",
     "state": "AL",
     "note": "Page has no address block. 'The Druid City' is the established nickname for Tuscaloosa, AL."
+  },
+  "Southern Colorado Mountain Grotto": {
+    "town": "Colorado Springs",
+    "state": "CO",
+    "note": "Town provided by maintainer."
+  },
+  "Pittsburgh Grotto": {
+    "town": "McKeesport",
+    "state": "PA",
+    "contact_url": "https://pghgrotto.com/Home",
+    "note": "Legacy lists the town typo'd as 'McKeespot'; corrected to McKeesport. Website provided by maintainer."
+  },
+  "Battlefield Area Troglodyte Society": {
+    "town": "Fredericksburg",
+    "state": "VA",
+    "contact_url": "https://bats.caves.org/",
+    "note": "Neither the page nor the legacy list has an address. Town + website provided by maintainer."
+  },
+  "Harrison Crawford Grotto": {
+    "town": "Corydon",
+    "state": "IN",
+    "note": "Neither the page nor the legacy list has an address. Town provided by maintainer."
+  },
+  "Shasta Area Grotto": {
+    "town": "Shasta",
+    "state": "CA",
+    "contact_url": "https://sag.caves.org/",
+    "note": "Neither the page nor the legacy list has an address. Town + website provided by maintainer."
+  },
+  "Syracuse University Outing Club": {
+    "town": "Syracuse",
+    "state": "NY",
+    "note": "Page name variant didn't auto-match the legacy list; town from legacy 'Syracuse University Outing'."
+  },
+  "Northern Colorado Mountain Grotto": {
+    "town": "Loveland",
+    "state": "CO",
+    "note": "Page name variant didn't auto-match; town from legacy 'Northern Colorado Grotto'."
+  },
+  "Greater Randolph Organization for Speleological Science (GROSS)": {
+    "town": "Sinks Grove",
+    "state": "WV",
+    "note": "Page name variant didn't auto-match; town from legacy 'Greater Randolph (GROSS)'."
   }
 }

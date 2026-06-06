@@ -528,6 +528,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.9979194,
+          40.7965121
+        ]
+      },
+      "properties": {
+        "name": "Shasta Area Grotto",
+        "region": "Pacific",
+        "town": "Shasta",
+        "state": "CA",
+        "contact_url": "https://sag.caves.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.5978087,
           34.2011078
         ]
@@ -718,6 +736,42 @@
         "town": "Durango",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/gypsy-underground-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.07498,
+          40.3977612
+        ]
+      },
+      "properties": {
+        "name": "Northern Colorado Mountain Grotto",
+        "region": "West",
+        "town": "Loveland",
+        "state": "CO",
+        "contact_url": "https://caves.org/grotto/northern-colorado-mountain/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      },
+      "properties": {
+        "name": "Southern Colorado Mountain Grotto",
+        "region": "West",
+        "town": "Colorado Springs",
+        "state": "CO",
+        "contact_url": "https://www.facebook.com/profile.php/?id=100066235821326",
         "last_seen": "2026-06-06"
       }
     },
@@ -1222,6 +1276,24 @@
         "town": "Jasper",
         "state": "IN",
         "contact_url": "https://www.emgcavers.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.125386,
+          38.2129325
+        ]
+      },
+      "properties": {
+        "name": "Harrison Crawford Grotto",
+        "region": "Midwest",
+        "town": "Corydon",
+        "state": "IN",
+        "contact_url": "https://caves.org/grotto/harrison-crawford-grotto/",
         "last_seen": "2026-06-06"
       }
     },
@@ -2184,6 +2256,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.1474244,
+          43.0481221
+        ]
+      },
+      "properties": {
+        "name": "Syracuse University Outing Club",
+        "region": "Northeast",
+        "town": "Syracuse",
+        "state": "NY",
+        "contact_url": "https://suoc.syr.edu/caving/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.0007065,
           39.9622601
         ]
@@ -2572,6 +2662,24 @@
         "town": "Media",
         "state": "PA",
         "contact_url": "http://www.phillygrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.864215,
+          40.3478472
+        ]
+      },
+      "properties": {
+        "name": "Pittsburgh Grotto",
+        "region": "Northeast",
+        "town": "McKeesport",
+        "state": "PA",
+        "contact_url": "https://pghgrotto.com/Home",
         "last_seen": "2026-06-06"
       }
     },
@@ -3048,6 +3156,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4605399,
+          38.3031837
+        ]
+      },
+      "properties": {
+        "name": "Battlefield Area Troglodyte Society",
+        "region": "Mid-Atlantic",
+        "town": "Fredericksburg",
+        "state": "VA",
+        "contact_url": "https://bats.caves.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.9414313,
           37.270973
         ]
@@ -3364,6 +3490,24 @@
         "town": "Upper Tract",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/germany-valley-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5409061,
+          37.6642889
+        ]
+      },
+      "properties": {
+        "name": "Greater Randolph Organization for Speleological Science (GROSS)",
+        "region": "Mid-Atlantic",
+        "town": "Sinks Grove",
+        "state": "WV",
+        "contact_url": "https://caves.org/grotto/greater-randolph-organization-for-speleological-science-gross/",
         "last_seen": "2026-06-06"
       }
     },

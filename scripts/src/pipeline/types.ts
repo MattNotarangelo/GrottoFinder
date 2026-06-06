@@ -43,8 +43,8 @@ export interface Override {
   lng?: number;
   /** Fix the display name. */
   name?: string;
-  /** Fix or set the club website. */
-  contactUrl?: string | null;
+  /** Fix or set the club website. (snake_case to match overrides.json + output) */
+  contact_url?: string | null;
   /** Free-text note for humans; ignored by the pipeline. */
   note?: string;
 }

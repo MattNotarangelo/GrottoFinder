@@ -279,6 +279,11 @@
     "lng": -96.3455991,
     "source": "nominatim"
   },
+  "Colorado Springs, CO": {
+    "lat": 38.8339578,
+    "lng": -104.825348,
+    "source": "nominatim"
+  },
   "Columbia, MO": {
     "lat": 38.951883,
     "lng": -92.3337366,
@@ -312,6 +317,11 @@
   "Cortez, CO": {
     "lat": 37.3494528,
     "lng": -108.584073,
+    "source": "nominatim"
+  },
+  "Corydon, IN": {
+    "lat": 38.2129325,
+    "lng": -86.125386,
     "source": "nominatim"
   },
   "Crozet, VA": {
@@ -982,6 +992,11 @@
   "Sewanee, TN": {
     "lat": 35.2031373,
     "lng": -85.9210899,
+    "source": "nominatim"
+  },
+  "Shasta, CA": {
+    "lat": 40.7965121,
+    "lng": -121.9979194,
     "source": "nominatim"
   },
   "Sherwood, AR": {
