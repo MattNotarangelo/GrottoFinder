@@ -3426,24 +3426,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2127011,
-          47.9793437
-        ]
-      },
-      "properties": {
-        "name": "Detroit Urban Grotto",
-        "region": "Pacific",
-        "town": "Everett",
-        "state": "WA",
-        "contact_url": "http://fisherridge.net/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.8188781,
           43.734929
         ]

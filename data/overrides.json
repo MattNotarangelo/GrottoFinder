@@ -3,6 +3,10 @@
   "_example_coordinate_fix": {
     "note": "EXAMPLE ONLY (key starts with _ so it is ignored). To fix a mislocated grotto, copy this under its exact name: \"Some Grotto\": { \"lat\": 35.123, \"lng\": -86.456, \"note\": \"why\" }"
   },
+  "Detroit Urban Grotto": {
+    "exclude": true,
+    "note": "Removed at maintainer request (its page address geocoded to Everett, WA)."
+  },
   "Gila Area Grotto": {
     "town": "Silver City",
     "state": "NM",
