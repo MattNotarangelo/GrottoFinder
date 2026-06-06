@@ -14,9 +14,12 @@ import { decodeEntities, extractTownState } from "./town.js";
 const USER_AGENT = "GrottoFinder/1.0 (NSS grotto locator; periodic sync)";
 const PAGE_FETCH_DELAY_MS = 200; // be polite to caves.org
 
-// Hosts/links that are never the club's own website.
+// Hosts/links that are never the club's own website. NOTE: caves.org is NOT
+// here — many grottos' sites are hosted on a caves.org SUBDOMAIN (e.g.
+// ohdgrotto.caves.org), which is a real club site. We exclude only the apex
+// caves.org (the NSS site + the grotto's own /grotto/ directory page) in
+// pickWebsite(), while keeping subdomains.
 const NON_CLUB = [
-  "caves.org",
   "gmpg.org",
   "w.org",
   "gstatic.com",
@@ -26,6 +29,10 @@ const NON_CLUB = [
   "wordpress.org",
   "gravatar.com",
 ];
+// caves.org hosts that are NSS infrastructure (present on every page), not a
+// grotto's site. The apex caves.org is handled separately. Any OTHER caves.org
+// subdomain (e.g. ohdgrotto.caves.org) is treated as a club site.
+const CAVES_NSS_HOSTS = ["members.caves.org", "legacy.caves.org", "store.caves.org"];
 // NSS's own site-wide social accounts (present in the header/footer of every
 // grotto page) — not the individual club.
 const NSS_SOCIAL = [
@@ -79,7 +86,12 @@ export function pickWebsite(html: string): string | null {
     if (ASSET_EXT.test(href)) continue;
     if (NSS_SOCIAL.some((s) => lower.includes(s))) continue;
     const host = hostOf(href);
-    if (!host || NON_CLUB.some((h) => host === h || host.endsWith("." + h))) continue;
+    if (!host) continue;
+    // Apex caves.org (NSS site / the grotto's own directory page) and NSS
+    // infrastructure subdomains (members/legacy/store) are skipped; but other
+    // caves.org SUBDOMAINS (e.g. ohdgrotto.caves.org) are grotto-hosted sites.
+    if (host === "caves.org" || CAVES_NSS_HOSTS.includes(host)) continue;
+    if (NON_CLUB.some((h) => host === h || host.endsWith("." + h))) continue;
     if (seen.has(href)) continue;
     seen.add(href);
     candidates.push(href);

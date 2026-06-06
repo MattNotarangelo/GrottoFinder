@@ -68,4 +68,15 @@ describe("pickWebsite", () => {
       <a href="https://gmpg.org/xfn/11">b</a>`;
     expect(pickWebsite(html)).toBeNull();
   });
+
+  it("picks a club's caves.org SUBDOMAIN over the apex page and NSS infra", () => {
+    // Many grottos are hosted at <grotto>.caves.org; that's a real club site.
+    // The apex caves.org/grotto/ page and members.caves.org (NSS membership/
+    // store, on every page) must NOT be chosen.
+    const html = `
+      <a href="https://members.caves.org/store/">store</a>
+      <a href="https://caves.org/grotto/oregon-high-desert-grotto/">directory</a>
+      <a href="https://ohdgrotto.caves.org/">club site</a>`;
+    expect(pickWebsite(html)).toBe("https://ohdgrotto.caves.org/");
+  });
 });

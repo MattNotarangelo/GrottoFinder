@@ -27,7 +27,10 @@ function popupHtml(g: GrottoPoint): string {
   // Only render http(s) links — never a javascript:/data: scheme (defense in
   // depth; the pipeline only emits http(s), but the popup uses innerHTML).
   const url = g.contact_url && /^https?:\/\//i.test(g.contact_url) ? g.contact_url : null;
-  const linkLabel = url && url.toLowerCase().includes("caves.org") ? "View on caves.org" : "Visit website";
+  // "View on caves.org" only for the apex directory page; a club's own
+  // caves.org subdomain (e.g. ohdgrotto.caves.org) is its website.
+  const isDirectoryPage = url ? /^https?:\/\/(www\.)?caves\.org\//i.test(url) : false;
+  const linkLabel = isDirectoryPage ? "View on caves.org" : "Visit website";
   const link = url
     ? `<a href="${encodeURI(url)}" target="_blank" rel="noopener noreferrer">${linkLabel}</a>`
     : `<span class="no-link">No website listed</span>`;

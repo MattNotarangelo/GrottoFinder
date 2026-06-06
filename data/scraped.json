@@ -45,7 +45,7 @@
     "name": "Gadsden Grotto",
     "town": "Leesburg",
     "state": "AL",
-    "contactUrl": "https://www.facebook.com/groups/222610574482402/?ref=share_group_link"
+    "contactUrl": "https://gadsden.caves.org/index.html"
   },
   {
     "name": "Spencer Mountain Grotto",
@@ -87,13 +87,13 @@
     "name": "American Spelean History Association",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/american-spelean-history-association/"
+    "contactUrl": "https://asha.caves.org/"
   },
   {
     "name": "Survey & Cartography Section",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/survey-cartography-section/"
+    "contactUrl": "https://sacs.caves.org/"
   },
   {
     "name": "Cave Diving Section (CDS)",
@@ -105,7 +105,7 @@
     "name": "Vertical Section",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/vertical-section/"
+    "contactUrl": "https://verticalsection.caves.org/"
   },
   {
     "name": "Cave Geology & Geographty",
@@ -147,7 +147,7 @@
     "name": "Indiana Cave Survey",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/indiana-cave-survey/"
+    "contactUrl": "https://ics.caves.org/"
   },
   {
     "name": "Idaho Cave Survey",
@@ -183,7 +183,7 @@
     "name": "Georgia Speleological Survey",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/georgia-speleological-survey/"
+    "contactUrl": "http://gss.caves.org/"
   },
   {
     "name": "Rocky Mountain Region",
@@ -207,7 +207,7 @@
     "name": "Virginia Region",
     "town": "",
     "state": "",
-    "contactUrl": "https://www.facebook.com/groups/59865582727"
+    "contactUrl": "https://var.caves.org/"
   },
   {
     "name": "Texas Speleological Association",
@@ -231,7 +231,7 @@
     "name": "Mid-Appalachian Region",
     "town": "",
     "state": "",
-    "contactUrl": "https://www.facebook.com/groups/1416304591934297/"
+    "contactUrl": "https://mar.caves.org/"
   },
   {
     "name": "Mississippi Valley-Ozark Region",
@@ -267,7 +267,7 @@
     "name": "Redwood Grotto",
     "town": "Cloverdale",
     "state": "CA",
-    "contactUrl": "https://caves.org/grotto/redwood-grotto/"
+    "contactUrl": "http://redwoodgrotto.caves.org/"
   },
   {
     "name": "Anthros Costa Rica Grotto",
@@ -375,7 +375,7 @@
     "name": "VPI Cave Club",
     "town": "Blacksburg",
     "state": "VA",
-    "contactUrl": "https://www.facebook.com/VPICaveClub"
+    "contactUrl": "https://vpi.caves.org/"
   },
   {
     "name": "Virginia Highlands Grotto",
@@ -417,7 +417,7 @@
     "name": "Madison University Student Grotto",
     "town": "Harrisonburg",
     "state": "VA",
-    "contactUrl": "https://caves.org/grotto/madison-university-student-grotto/"
+    "contactUrl": "https://musg.caves.org/"
   },
   {
     "name": "James River Grotto",
@@ -429,7 +429,7 @@
     "name": "Front Royal Grotto",
     "town": "Fort Valley",
     "state": "VA",
-    "contactUrl": "https://www.facebook.com/groups/239911082881812"
+    "contactUrl": "https://frontroyalgrotto.caves.org/"
   },
   {
     "name": "Charlottesville Grotto",
@@ -447,7 +447,7 @@
     "name": "Battlefield Area Troglodyte Society",
     "town": "",
     "state": "VA",
-    "contactUrl": "https://www.facebook.com/groups/126931830674654"
+    "contactUrl": "http://bats.caves.org/"
   },
   {
     "name": "Salt Lake Grotto",
@@ -549,7 +549,7 @@
     "name": "Sewanee Mountain Grotto",
     "town": "Sewanee",
     "state": "TN",
-    "contactUrl": "https://www.facebook.com/groups/SewaneeMountainGrotto"
+    "contactUrl": "http://smg.caves.org/"
   },
   {
     "name": "Nashville Grotto",
@@ -561,7 +561,7 @@
     "name": "East Tennessee Grotto",
     "town": "Oak Ridge",
     "state": "TN",
-    "contactUrl": "https://www.facebook.com/groups/195418294685"
+    "contactUrl": "https://etg.caves.org/"
   },
   {
     "name": "Paha Sapa Grotto",
@@ -639,7 +639,7 @@
     "name": "Southern Arizona",
     "town": "Tucson",
     "state": "AZ",
-    "contactUrl": "https://caves.org/grotto/southern-arizona/"
+    "contactUrl": "https://sazgrotto.caves.org/"
   },
   {
     "name": "Northern Arizona Grotto",
@@ -693,7 +693,7 @@
     "name": "Boston Mountain Grotto",
     "town": "Sherwood",
     "state": "AR",
-    "contactUrl": "https://www.facebook.com/groups/168329284862562/"
+    "contactUrl": "https://bmg.caves.org/"
   },
   {
     "name": "RAT Grotto",
@@ -753,7 +753,7 @@
     "name": "District of Columbia Grotto",
     "town": "Laurel",
     "state": "MD",
-    "contactUrl": "https://www.facebook.com/groups/186587308115608"
+    "contactUrl": "https://dcg.caves.org/"
   },
   {
     "name": "Central Connecticut Grotto",
@@ -765,7 +765,7 @@
     "name": "Timberline Grotto",
     "town": "Glenwood Springs",
     "state": "CO",
-    "contactUrl": "https://caves.org/grotto/timberline-grotto/"
+    "contactUrl": "https://timberline.caves.org/"
   },
   {
     "name": "Southern Colorado Mountain Grotto",
@@ -813,7 +813,7 @@
     "name": "Shasta Area Grotto",
     "town": "",
     "state": "CA",
-    "contactUrl": "https://caves.org/grotto/shasta-area-grotto/"
+    "contactUrl": "https://sag.caves.org"
   },
   {
     "name": "Shascade Caving Society",
@@ -849,7 +849,7 @@
     "name": "Gem State Grotto",
     "town": "Boise",
     "state": "ID",
-    "contactUrl": "https://caves.org/grotto/gem-state-grotto/"
+    "contactUrl": "http://gemstategrotto.caves.org/"
   },
   {
     "name": "Iowa Grotto",
@@ -951,7 +951,7 @@
     "name": "Greater Allentown Grotto",
     "town": "Neffs",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/greater-allentown-grotto/"
+    "contactUrl": "http://gag.caves.org/"
   },
   {
     "name": "Franklin County Grotto",
@@ -975,13 +975,13 @@
     "name": "Willamette Valley Grotto",
     "town": "Portland",
     "state": "OR",
-    "contactUrl": "https://www.facebook.com/profile.php?id=100064379484040"
+    "contactUrl": "http://wvg.caves.org/"
   },
   {
     "name": "Oregon High Desert Grotto",
     "town": "Bend",
     "state": "OR",
-    "contactUrl": "https://caves.org/grotto/oregon-high-desert-grotto/"
+    "contactUrl": "http://ohdgrotto.caves.org/"
   },
   {
     "name": "Oregon Grotto",
@@ -1047,7 +1047,7 @@
     "name": "Nittany Grotto",
     "town": "State College",
     "state": "PA",
-    "contactUrl": "https://www.facebook.com/groups/nittanygrottoinc"
+    "contactUrl": "https://nittanygrotto.caves.org/"
   },
   {
     "name": "Loyalhanna Grotto",
@@ -1059,7 +1059,7 @@
     "name": "Huntingdon County Cave Hunters",
     "town": "Huntingdon",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/huntingdon-county-cave-hunters/"
+    "contactUrl": "https://hcch.caves.org/"
   },
   {
     "name": "Saint Joseph Valley Grotto",
@@ -1071,7 +1071,7 @@
     "name": "Northern Indiana Grotto",
     "town": "Auburn",
     "state": "IN",
-    "contactUrl": "https://www.facebook.com/NorthernIndianaGrotto"
+    "contactUrl": "https://nig.caves.org"
   },
   {
     "name": "Evansville Metropolitan Grotto (EMG)",
@@ -1113,19 +1113,19 @@
     "name": "Sligo Grotto",
     "town": "Millers",
     "state": "MD",
-    "contactUrl": "https://caves.org/grotto/sligo-grotto/"
+    "contactUrl": "https://sligo.caves.org/"
   },
   {
     "name": "Frederick Grotto",
     "town": "Westminster",
     "state": "MD",
-    "contactUrl": "https://caves.org/grotto/frederick-grotto/"
+    "contactUrl": "http://frederickgrotto.caves.org/"
   },
   {
     "name": "Baltimore Grotto",
     "town": "Bel Air",
     "state": "MD",
-    "contactUrl": "https://www.facebook.com/groups/59865582727"
+    "contactUrl": "https://baltimoregrotto.caves.org/"
   },
   {
     "name": "Boston Grotto",
@@ -1245,7 +1245,7 @@
     "name": "Kansas City Area Grotto",
     "town": "Olathe",
     "state": "KS",
-    "contactUrl": "https://caves.org/grotto/kansas-city-area-grotto/"
+    "contactUrl": "https://kcgrotto.caves.org/"
   },
   {
     "name": "Daedalus Cavers Grotto",
@@ -1311,7 +1311,7 @@
     "name": "Helderberg-Hudson Grotto",
     "town": "Schoharie",
     "state": "NY",
-    "contactUrl": "https://caves.org/grotto/helderberg-hudson-grotto/"
+    "contactUrl": "http://hhg.caves.org/about.php"
   },
   {
     "name": "Southern Nevada Grotto",
@@ -1377,7 +1377,7 @@
     "name": "Central New Jersey Grotto",
     "town": "Hamilton Square",
     "state": "NJ",
-    "contactUrl": "https://caves.org/grotto/central-new-jersey-grotto/"
+    "contactUrl": "https://cnjg.caves.org"
   },
   {
     "name": "Triangle Troglodytes",
