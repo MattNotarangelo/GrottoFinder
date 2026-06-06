@@ -150,6 +150,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.3090775,
+          32.3777111
+        ]
+      },
+      "properties": {
+        "name": "Montgomery Grotto",
+        "region": "Southeast / TAG",
+        "town": "Montgomery",
+        "state": "AL",
+        "contact_url": "https://linktr.ee/montgomerygrotto",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.232863,
+          34.0012604
+        ]
+      },
+      "properties": {
+        "name": "RAT Grotto",
+        "region": "Southeast / TAG",
+        "town": "Gallant",
+        "state": "AL",
+        "contact_url": "https://caves.org/grotto/rat-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -92.2243153,
           34.8150907
         ]
@@ -492,6 +528,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.5978087,
+          34.2011078
+        ]
+      },
+      "properties": {
+        "name": "Southern California Grotto",
+        "region": "Pacific",
+        "town": "Canoga Park",
+        "state": "CA",
+        "contact_url": "https://socalgrotto.com",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.2117148,
           37.7986184
         ]
@@ -618,6 +672,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.270545,
+          40.0149856
+        ]
+      },
+      "properties": {
+        "name": "Front Range Grotto",
+        "region": "West",
+        "town": "Boulder",
+        "state": "CO",
+        "contact_url": "https://www.frontrangegrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -108.584073,
           37.3494528
         ]
@@ -646,6 +718,42 @@
         "town": "Durango",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/gypsy-underground-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3246941,
+          39.5466381
+        ]
+      },
+      "properties": {
+        "name": "Timberline Grotto",
+        "region": "West",
+        "town": "Glenwood Springs",
+        "state": "CO",
+        "contact_url": "https://caves.org/grotto/timberline-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9430128,
+          41.6711752
+        ]
+      },
+      "properties": {
+        "name": "Central Connecticut Grotto",
+        "region": "Northeast",
+        "town": "Bristol",
+        "state": "CT",
+        "contact_url": "http://ctcavers.org/",
         "last_seen": "2026-06-06"
       }
     },
@@ -690,6 +798,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.2809332,
+          30.4380832
+        ]
+      },
+      "properties": {
+        "name": "Flint River Grotto",
+        "region": "Southeast / TAG",
+        "town": "Tallahassee",
+        "state": "FL",
+        "contact_url": "http://www.flintrivergrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.4481694,
           29.3880028
         ]
@@ -718,6 +844,24 @@
         "town": "Orange Park",
         "state": "FL",
         "contact_url": "https://rivercitygrotto.com/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4583107,
+          27.9449854
+        ]
+      },
+      "properties": {
+        "name": "Tampa Bay Area Grotto",
+        "region": "Southeast / TAG",
+        "town": "Tampa",
+        "state": "FL",
+        "contact_url": "https://www.tampabaygrotto.com/",
         "last_seen": "2026-06-06"
       }
     },
@@ -1068,6 +1212,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.1066598,
+          41.0321808
+        ]
+      },
+      "properties": {
+        "name": "Evansville Metropolitan Grotto (EMG)",
+        "region": "Midwest",
+        "town": "Jasper",
+        "state": "IN",
+        "contact_url": "https://www.emgcavers.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.0588632,
           41.3669902
         ]
@@ -1204,6 +1366,42 @@
         "town": "Bowling Green",
         "state": "KY",
         "contact_url": "https://www.facebook.com/groups/greenrivergrotto",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3842213,
+          38.4124695
+        ]
+      },
+      "properties": {
+        "name": "Louisville Grotto",
+        "region": "Southeast / TAG",
+        "town": "Lagrange",
+        "state": "KY",
+        "contact_url": "https://www.louisvillegrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8888138,
+          36.8664765
+        ]
+      },
+      "properties": {
+        "name": "Pine Mountain Grotto",
+        "region": "Southeast / TAG",
+        "town": "Barbourville",
+        "state": "KY",
+        "contact_url": "https://caves.org/grotto/pine-mountain-grotto/",
         "last_seen": "2026-06-06"
       }
     },
@@ -1451,6 +1649,24 @@
         ]
       },
       "properties": {
+        "name": "Meramec Valley Grotto",
+        "region": "Midwest",
+        "town": "St Louis",
+        "state": "MO",
+        "contact_url": "http://meramecvalleygrotto.org/joining/meetings",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
         "name": "Middle Mississippi Valley Grotto",
         "region": "Midwest",
         "town": "St. Louis",
@@ -1600,6 +1816,24 @@
         "town": "Bozeman",
         "state": "MT",
         "contact_url": "https://nrmg.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5508407,
+          35.595363
+        ]
+      },
+      "properties": {
+        "name": "Flittermouse Grotto",
+        "region": "Southeast / TAG",
+        "town": "Asheville",
+        "state": "NC",
+        "contact_url": "https://www.facebook.com/flittermousegrotto/",
         "last_seen": "2026-06-06"
       }
     },
@@ -1860,6 +2094,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "name": "Southern Nevada Grotto",
+        "region": "West",
+        "town": "Las Vegas",
+        "state": "NV",
+        "contact_url": "https://www.facebook.com/groups/270832089633112/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.4390277,
           42.5757217
         ]
@@ -1924,6 +2176,24 @@
         "town": "Kingston",
         "state": "NY",
         "contact_url": "http://www.scagrotto.com/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "name": "Central Ohio Grotto",
+        "region": "Midwest",
+        "town": "Columbus",
+        "state": "OH",
+        "contact_url": "https://www.centralohiogrotto.com/",
         "last_seen": "2026-06-06"
       }
     },
@@ -2050,6 +2320,24 @@
         "town": "Springfield",
         "state": "OH",
         "contact_url": "https://www.wusscavers.com/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6783651,
+          34.7743383
+        ]
+      },
+      "properties": {
+        "name": "Arbuckle Mountains Grotto",
+        "region": "South Central",
+        "town": "Ada",
+        "state": "OK",
+        "contact_url": "https://www.facebook.com/groups/983839932821778",
         "last_seen": "2026-06-06"
       }
     },
@@ -2248,6 +2536,24 @@
         "town": "State College",
         "state": "PA",
         "contact_url": "https://www.facebook.com/groups/nittanygrottoinc",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7870991,
+          41.20484
+        ]
+      },
+      "properties": {
+        "name": "Out of Bounds Grotto",
+        "region": "Northeast",
+        "town": "Muncy",
+        "state": "PA",
+        "contact_url": "https://outofboundsgrotto.org/",
         "last_seen": "2026-06-06"
       }
     },
@@ -2580,6 +2886,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.9442177,
+          32.8295183
+        ]
+      },
+      "properties": {
+        "name": "Dallas-Fort Worth Grotto",
+        "region": "South Central",
+        "town": "Irving",
+        "state": "TX",
+        "contact_url": "http://dfwgrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.5699185,
           29.888578
         ]
@@ -2670,6 +2994,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.9395211,
+          40.6061337
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake Grotto",
+        "region": "West",
+        "town": "West Jordan",
+        "state": "UT",
+        "contact_url": "https://caves.org/grotto/salt-lake-grotto/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.8627989,
           40.5247777
         ]
@@ -2724,6 +3066,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.690893,
+          38.065017
+        ]
+      },
+      "properties": {
+        "name": "Charlottesville Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Crozet",
+        "state": "VA",
+        "contact_url": "http://www.cvillegrotto.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.4605399,
           38.3031837
         ]
@@ -2752,6 +3112,24 @@
         "town": "Fort Valley",
         "state": "VA",
         "contact_url": "https://www.facebook.com/groups/239911082881812",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.285579,
+          37.1118094
+        ]
+      },
+      "properties": {
+        "name": "James River Grotto",
+        "region": "Mid-Atlantic",
+        "town": "Altavista",
+        "state": "VA",
+        "contact_url": "http://jamesrivergrottova.weebly.com/",
         "last_seen": "2026-06-06"
       }
     },
@@ -2896,6 +3274,24 @@
         "town": "Albans",
         "state": "VT",
         "contact_url": "http://cavermont.org/",
+        "last_seen": "2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330062,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "name": "Cascade Grotto",
+        "region": "Pacific",
+        "town": "Seattle",
+        "state": "WA",
+        "contact_url": "https://cascadegrotto.org/",
         "last_seen": "2026-06-06"
       }
     },

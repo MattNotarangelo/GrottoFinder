@@ -38,13 +38,19 @@ assumptions):
 2. **Each grotto's page** — `caves.org/grotto/<slug>/`. Every page has a
    "Contact Information" block with a `Town, ST ZIP`, and links to the club's
    own website. We scrape each page for the **town** and **website**.
+3. **Legacy list fallback** — `legacy.caves.org/.../grottos.shtml`
+   (`scripts/src/pipeline/legacy.ts`). ~20 active grottos' current page lists
+   only an email, so the page gives no town. The legacy I/O-committee table has
+   a clean `Town, ST ZIP` for many of them, so we use it **only to fill a
+   missing town**, matched to the roster by normalized name. The current page
+   always wins; legacy never overrides a town the page provided. If the legacy
+   site is unavailable, the run continues with page towns only.
 
 > Dead ends, for the record: the `caves.org/find-a-grotto/` *page* renders zero
-> listings in static HTML (they load client-side); the `legacy.caves.org` I/O
-> list is structured but lags the current site (it still listed defunct grottos
-> like *Persona Non Grotto*); and the API records themselves expose no
-> structured town. Reading the per-grotto pages gives one current source for
-> everything, with no name-matching between sources.
+> listings in static HTML (they load client-side), and the API records
+> themselves expose no structured town. The roster decides who's active (so
+> defunct grottos like *Persona Non Grotto* drop out); the page is the primary,
+> current town source; the legacy list is a gap-filler, not the spine.
 
 ### Parsing the grotto pages
 
@@ -100,7 +106,7 @@ data/
 public/
   grottos.geojson      # emitted dataset the frontend loads
 scripts/src/pipeline/  # the data pipeline (TypeScript)
-  roster.ts  grottoPage.ts  town.ts
+  roster.ts  grottoPage.ts  town.ts  legacy.ts  names.ts
   geocode.ts  merge.ts  states.ts  build.ts  types.ts
 src/                   # frontend (Vite + Leaflet)
   main.ts  map.ts  geo.ts  styles.css

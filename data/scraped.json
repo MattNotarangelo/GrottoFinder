@@ -397,7 +397,7 @@
   },
   {
     "name": "Cascade Grotto",
-    "town": "",
+    "town": "Seattle",
     "state": "WA",
     "contactUrl": "https://cascadegrotto.org/"
   },
@@ -421,7 +421,7 @@
   },
   {
     "name": "James River Grotto",
-    "town": "",
+    "town": "Altavista",
     "state": "VA",
     "contactUrl": "http://jamesrivergrottova.weebly.com/"
   },
@@ -433,7 +433,7 @@
   },
   {
     "name": "Charlottesville Grotto",
-    "town": "",
+    "town": "Crozet",
     "state": "VA",
     "contactUrl": "http://www.cvillegrotto.org/"
   },
@@ -451,7 +451,7 @@
   },
   {
     "name": "Salt Lake Grotto",
-    "town": "",
+    "town": "West Jordan",
     "state": "UT",
     "contactUrl": "https://caves.org/grotto/salt-lake-grotto/"
   },
@@ -463,8 +463,8 @@
   },
   {
     "name": "Out of Bounds Grotto",
-    "town": "",
-    "state": "",
+    "town": "Muncy",
+    "state": "PA",
     "contactUrl": "https://outofboundsgrotto.org/"
   },
   {
@@ -505,7 +505,7 @@
   },
   {
     "name": "Dallas-Fort Worth Grotto",
-    "town": "",
+    "town": "Irving",
     "state": "TX",
     "contactUrl": "http://dfwgrotto.org/"
   },
@@ -697,13 +697,13 @@
   },
   {
     "name": "RAT Grotto",
-    "town": "",
+    "town": "Gallant",
     "state": "AL",
     "contactUrl": "https://caves.org/grotto/rat-grotto/"
   },
   {
     "name": "Montgomery Grotto",
-    "town": "",
+    "town": "Montgomery",
     "state": "AL",
     "contactUrl": "https://linktr.ee/montgomerygrotto"
   },
@@ -715,7 +715,7 @@
   },
   {
     "name": "Tampa Bay Area Grotto",
-    "town": "",
+    "town": "Tampa",
     "state": "FL",
     "contactUrl": "https://www.tampabaygrotto.com/"
   },
@@ -733,7 +733,7 @@
   },
   {
     "name": "Flint River Grotto",
-    "town": "",
+    "town": "Tallahassee",
     "state": "FL",
     "contactUrl": "http://www.flintrivergrotto.org/"
   },
@@ -757,13 +757,13 @@
   },
   {
     "name": "Central Connecticut Grotto",
-    "town": "",
+    "town": "Bristol",
     "state": "CT",
     "contactUrl": "http://ctcavers.org/"
   },
   {
     "name": "Timberline Grotto",
-    "town": "",
+    "town": "Glenwood Springs",
     "state": "CO",
     "contactUrl": "https://caves.org/grotto/timberline-grotto/"
   },
@@ -781,7 +781,7 @@
   },
   {
     "name": "Front Range Grotto",
-    "town": "",
+    "town": "Boulder",
     "state": "CO",
     "contactUrl": "https://www.frontrangegrotto.org/"
   },
@@ -805,7 +805,7 @@
   },
   {
     "name": "Southern California Grotto",
-    "town": "",
+    "town": "Canoga Park",
     "state": "CA",
     "contactUrl": "https://socalgrotto.com"
   },
@@ -937,7 +937,7 @@
   },
   {
     "name": "Central Ohio Grotto",
-    "town": "",
+    "town": "Columbus",
     "state": "OH",
     "contactUrl": "https://www.centralohiogrotto.com/"
   },
@@ -997,7 +997,7 @@
   },
   {
     "name": "Arbuckle Mountains Grotto",
-    "town": "",
+    "town": "Ada",
     "state": "OK",
     "contactUrl": "https://www.facebook.com/groups/983839932821778"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Pittsburgh Grotto",
-    "town": "",
+    "town": "McKeespot",
     "state": "PA",
     "contactUrl": "http://www.pittsburghcaving.club"
   },
@@ -1075,7 +1075,7 @@
   },
   {
     "name": "Evansville Metropolitan Grotto (EMG)",
-    "town": "",
+    "town": "Jasper",
     "state": "IN",
     "contactUrl": "https://www.emgcavers.org/"
   },
@@ -1147,13 +1147,13 @@
   },
   {
     "name": "Pine Mountain Grotto",
-    "town": "",
+    "town": "Barbourville",
     "state": "KY",
     "contactUrl": "https://caves.org/grotto/pine-mountain-grotto/"
   },
   {
     "name": "Louisville Grotto",
-    "town": "",
+    "town": "Lagrange",
     "state": "KY",
     "contactUrl": "https://www.louisvillegrotto.org/"
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Flittermouse Grotto",
-    "town": "",
+    "town": "Asheville",
     "state": "NC",
     "contactUrl": "https://www.facebook.com/flittermousegrotto/"
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Meramec Valley Grotto",
-    "town": "",
+    "town": "St Louis",
     "state": "MO",
     "contactUrl": "http://meramecvalleygrotto.org/joining/meetings"
   },
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "Southern Nevada Grotto",
-    "town": "",
+    "town": "Las Vegas",
     "state": "NV",
     "contactUrl": "https://www.facebook.com/groups/270832089633112/"
   },

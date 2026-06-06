@@ -19,6 +19,8 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { fetchRoster, type RosterGrotto } from "./roster.js";
 import { fetchGrottos } from "./grottoPage.js";
+import { fetchLegacyTowns } from "./legacy.js";
+import { normalizeName } from "./names.js";
 import { geocodeAll } from "./geocode.js";
 import { merge, toGeoJSON, geocodeTargets } from "./merge.js";
 import type { ScrapedGrotto, GeocodeCache, Overrides } from "./types.js";
@@ -87,6 +89,25 @@ async function main(): Promise<void> {
 
     log(`[pages] fetching ${roster.length} grotto pages for town + website`);
     scraped = await fetchGrottos(roster, log);
+
+    // FALLBACK: pages are primary, but ~some clubs' current page lists only an
+    // email. Fill those towns from the legacy I/O list (matched by name). If
+    // the legacy site is unavailable, continue with page towns only.
+    try {
+      const legacy = await fetchLegacyTowns();
+      let filled = 0;
+      scraped = scraped.map((g) => {
+        if (g.town) return g;
+        const hit = legacy.get(normalizeName(g.name));
+        if (!hit) return g;
+        filled += 1;
+        return { ...g, town: hit.town, state: hit.state || g.state };
+      });
+      log(`[fallback] filled ${filled} missing towns from the legacy list (${legacy.size} legacy towns)`);
+    } catch (err) {
+      log(`[fallback] legacy list unavailable (${err instanceof Error ? err.message : String(err)}); page towns only`);
+    }
+
     writeJSON(SCRAPED_PATH, scraped);
   }
 
