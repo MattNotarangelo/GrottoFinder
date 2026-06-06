@@ -130,6 +130,31 @@ export function parseGrottoPage(
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 /**
+ * Whether a scraped club URL is DEFINITIVELY dead and should be replaced by the
+ * grotto's caves.org page. Conservative on purpose — to avoid weekly PR churn,
+ * only a 404/410 or a hard connection failure (DNS gone / refused, on both
+ * tries) counts as dead. Transient signals (5xx, 429, timeouts) keep the link.
+ */
+async function linkIsDead(url: string): Promise<boolean> {
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(url, {
+        redirect: "follow",
+        signal: AbortSignal.timeout(12000),
+        headers: { "User-Agent": USER_AGENT },
+      });
+      return res.status === 404 || res.status === 410;
+    } catch (err) {
+      // A timeout is transient — keep the link. Other errors (DNS, refused,
+      // TLS) are treated as dead only after a retry also fails.
+      if (err instanceof Error && err.name === "TimeoutError") return false;
+      if (attempt === 1) return true;
+    }
+  }
+  return false;
+}
+
+/**
  * Fetch and parse every grotto's page into ScrapedGrotto records. Town comes
  * from the page (town-level only); contactUrl is the club website or, failing
  * that, the grotto's caves.org page.
@@ -140,6 +165,7 @@ export async function fetchGrottos(
 ): Promise<ScrapedGrotto[]> {
   const out: ScrapedGrotto[] = [];
   let withTown = 0;
+  let deadLinks = 0;
   for (const g of roster) {
     let html = "";
     try {
@@ -157,14 +183,19 @@ export async function fetchGrottos(
       ? parseGrottoPage(html, fallbackState)
       : { town: "", state: fallbackState, website: null };
     if (parsed.town) withTown += 1;
-    out.push({
-      name: g.name,
-      town: parsed.town,
-      state: parsed.state,
-      contactUrl: parsed.website ?? g.link, // fall back to the caves.org page
-    });
+
+    // Validate the scraped club site; if it's definitively dead, fall back to
+    // the grotto's caves.org page (which is always live).
+    let contactUrl = parsed.website ?? g.link;
+    if (parsed.website && (await linkIsDead(parsed.website))) {
+      log(`  dead link for ${g.name}: ${parsed.website} -> caves.org page`);
+      contactUrl = g.link;
+      deadLinks += 1;
+    }
+
+    out.push({ name: g.name, town: parsed.town, state: parsed.state, contactUrl });
     await sleep(PAGE_FETCH_DELAY_MS);
   }
-  log(`[pages] parsed ${out.length} pages; ${withTown} yielded a town`);
+  log(`[pages] parsed ${out.length} pages; ${withTown} yielded a town; ${deadLinks} dead links replaced`);
   return out;
 }
