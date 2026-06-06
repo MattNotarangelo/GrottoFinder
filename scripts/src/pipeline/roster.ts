@@ -38,7 +38,10 @@ interface ApiStateTerm {
 }
 
 async function getJson<T>(url: string): Promise<T> {
-  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetch(url, {
+    signal: AbortSignal.timeout(30000),
+    headers: { "User-Agent": USER_AGENT },
+  });
   if (!res.ok) throw new Error(`API HTTP ${res.status} for ${url}`);
   return (await res.json()) as T;
 }

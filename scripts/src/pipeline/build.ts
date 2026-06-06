@@ -142,6 +142,10 @@ async function main(): Promise<void> {
   const sorted = [...result.grottos].sort(
     (a, b) => a.state.localeCompare(b.state) || a.name.localeCompare(b.name)
   );
+  // Final guard: even if the roster was healthy, a geocoding outage (with a
+  // cold cache) could leave almost nothing placed. Never overwrite the live
+  // dataset with a near-empty result.
+  guardCount("emitted dataset", sorted.length);
   writeJSON(GEOJSON_PATH, toGeoJSON(sorted));
   log(`[emit] wrote ${sorted.length} grottos to ${GEOJSON_PATH}`);
 }

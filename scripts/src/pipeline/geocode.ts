@@ -37,6 +37,7 @@ async function queryNominatim(town: string, state: string): Promise<GeocodeResul
     countrycodes: "us",
   });
   const res = await fetch(`${NOMINATIM_URL}?${params}`, {
+    signal: AbortSignal.timeout(20000),
     headers: { "User-Agent": USER_AGENT, "Accept-Language": "en" },
   });
   if (!res.ok) throw new Error(`Nominatim HTTP ${res.status} for "${town}, ${state}"`);

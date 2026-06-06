@@ -131,7 +131,10 @@ export async function fetchGrottos(
   for (const g of roster) {
     let html = "";
     try {
-      const res = await fetch(g.link, { headers: { "User-Agent": USER_AGENT } });
+      const res = await fetch(g.link, {
+        signal: AbortSignal.timeout(20000),
+        headers: { "User-Agent": USER_AGENT },
+      });
       if (res.ok) html = await res.text();
       else log(`  page HTTP ${res.status} for ${g.name} (${g.link})`);
     } catch (err) {

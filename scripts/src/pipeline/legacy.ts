@@ -40,7 +40,10 @@ export function parseLegacyTowns(html: string): LegacyTowns {
 }
 
 export async function fetchLegacyTowns(): Promise<LegacyTowns> {
-  const res = await fetch(LEGACY_URL, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetch(LEGACY_URL, {
+    signal: AbortSignal.timeout(30000),
+    headers: { "User-Agent": USER_AGENT },
+  });
   if (!res.ok) throw new Error(`Legacy list HTTP ${res.status}`);
   return parseLegacyTowns(await res.text());
 }

@@ -24,12 +24,12 @@ export interface GrottoMap {
 
 function popupHtml(g: GrottoPoint): string {
   const where = [g.town, g.state].filter(Boolean).join(", ");
-  const linkLabel =
-    g.contact_url && g.contact_url.toLowerCase().includes("caves.org")
-      ? "View on caves.org"
-      : "Visit website";
-  const link = g.contact_url
-    ? `<a href="${encodeURI(g.contact_url)}" target="_blank" rel="noopener noreferrer">${linkLabel}</a>`
+  // Only render http(s) links — never a javascript:/data: scheme (defense in
+  // depth; the pipeline only emits http(s), but the popup uses innerHTML).
+  const url = g.contact_url && /^https?:\/\//i.test(g.contact_url) ? g.contact_url : null;
+  const linkLabel = url && url.toLowerCase().includes("caves.org") ? "View on caves.org" : "Visit website";
+  const link = url
+    ? `<a href="${encodeURI(url)}" target="_blank" rel="noopener noreferrer">${linkLabel}</a>`
     : `<span class="no-link">No website listed</span>`;
   // Escaped via textContent-style replacement to avoid injecting markup.
   const esc = (s: string) =>
