@@ -1,945 +1,519 @@
 [
   {
-    "name": "Glacier Grotto",
-    "town": "Juneau",
-    "state": "AK",
-    "contactUrl": null
-  },
-  {
-    "name": "Birmingham Grotto",
-    "town": "Birmingham",
-    "state": "AL",
-    "contactUrl": "http://www.bhamgrotto.org"
-  },
-  {
-    "name": "Central Alabama Grotto",
-    "town": "Morris",
-    "state": "AL",
-    "contactUrl": "http://centralalabamagrotto.org"
-  },
-  {
-    "name": "Cullman Grotto",
-    "town": "Cullman",
-    "state": "AL",
-    "contactUrl": "http://cullmangrotto.org/"
-  },
-  {
-    "name": "Gadsden Grotto",
-    "town": "Gadsden",
-    "state": "AL",
-    "contactUrl": null
-  },
-  {
-    "name": "Huntsville Grotto",
-    "town": "Huntsville",
-    "state": "AL",
-    "contactUrl": "https://www.huntsvillegrotto.net/"
-  },
-  {
-    "name": "Jackson County Grotto",
-    "town": "Scottsboro",
-    "state": "AL",
-    "contactUrl": null
-  },
-  {
-    "name": "Montgomery Grotto",
-    "town": "Montgomery",
-    "state": "AL",
-    "contactUrl": null
-  },
-  {
-    "name": "RAT Grotto",
-    "town": "Gallant",
-    "state": "AL",
-    "contactUrl": null
-  },
-  {
-    "name": "Boston Mountain Grotto",
-    "town": "Sherwood",
-    "state": "AR",
-    "contactUrl": null
-  },
-  {
-    "name": "Central Region Arkansas Grotto",
-    "town": "Harrison",
-    "state": "AR",
-    "contactUrl": "http://www.geocities.com/c_r_a_g/"
-  },
-  {
-    "name": "COBRA Grotto",
-    "town": "Batesville",
-    "state": "AR",
-    "contactUrl": "http://cobra.lyon.edu"
-  },
-  {
-    "name": "Little Rock Grotto",
-    "town": "North Little Rock",
-    "state": "AR",
-    "contactUrl": null
-  },
-  {
-    "name": "Middle Ozark Lower Earth Soc. MOLES",
-    "town": "Maumelle",
-    "state": "AR",
-    "contactUrl": null
-  },
-  {
-    "name": "Central Arizona Grotto",
-    "town": "Glendale",
-    "state": "AZ",
-    "contactUrl": "http://centralarizonagrotto.webstarts.com/"
-  },
-  {
-    "name": "Escabrosa Grotto",
-    "town": "Tucson",
-    "state": "AZ",
-    "contactUrl": "http://www.escabrosa.org"
-  },
-  {
-    "name": "Mule Mountain Caving Club",
-    "town": "Bisbee",
-    "state": "AZ",
-    "contactUrl": null
-  },
-  {
-    "name": "Northern Arizona Grotto",
-    "town": "Prescott Valley",
-    "state": "AZ",
-    "contactUrl": null
-  },
-  {
-    "name": "Southern Arizona",
-    "town": "Tucson",
-    "state": "AZ",
-    "contactUrl": null
-  },
-  {
-    "name": "Desert Dog Troglodytes",
-    "town": "Long Beach",
-    "state": "CA",
-    "contactUrl": "http://www.desertdogs.org/"
-  },
-  {
-    "name": "Diablo Grotto",
-    "town": "Union City",
-    "state": "CA",
-    "contactUrl": null
-  },
-  {
-    "name": "Mother Lode Grotto",
-    "town": "Sacramento",
-    "state": "CA",
-    "contactUrl": "http://www.motherlodegrotto.org"
-  },
-  {
-    "name": "Redwood Grotto",
-    "town": "Cloverdale",
-    "state": "CA",
-    "contactUrl": null
-  },
-  {
-    "name": "San Diego Grotto",
-    "town": "San Diego",
-    "state": "CA",
-    "contactUrl": "http://www.sdgrotto.com/"
-  },
-  {
-    "name": "San Francisco Bay Chapter of NSS",
-    "town": "Menlo Park",
-    "state": "CA",
-    "contactUrl": "http://www.sfbaycaving.org"
-  },
-  {
-    "name": "San Joaquin Valley Grotto",
-    "town": "Fresno",
-    "state": "CA",
-    "contactUrl": "http://sjvg.org"
-  },
-  {
-    "name": "Shascade Caving Society",
-    "town": "Montgomery Creek",
-    "state": "CA",
-    "contactUrl": null
-  },
-  {
-    "name": "Shasta Area Grotto",
+    "name": "Gila Area Grotto",
     "town": "",
-    "state": "CA",
-    "contactUrl": null
-  },
-  {
-    "name": "Southern California Grotto",
-    "town": "Canoga Park",
-    "state": "CA",
-    "contactUrl": "http://www.SouthernCaliforniaGrotto.com"
-  },
-  {
-    "name": "Stanislaus Speleo. Assn.",
-    "town": "Manteca",
-    "state": "CA",
-    "contactUrl": null
-  },
-  {
-    "name": "Colorado Grotto",
-    "town": "Littleton",
-    "state": "CO",
-    "contactUrl": "http://coloradogrotto.org"
-  },
-  {
-    "name": "Colorado Western Slope Grotto",
-    "town": "Rifle",
-    "state": "CO",
-    "contactUrl": "http://coloradowesternslopegrotto.org"
-  },
-  {
-    "name": "Front Range Grotto",
-    "town": "Boulder",
-    "state": "CO",
-    "contactUrl": "http://www.frontrangegrotto.org"
-  },
-  {
-    "name": "Northern Colorado Grotto",
-    "town": "Loveland",
-    "state": "CO",
-    "contactUrl": "http://www.northerncoloradogrotto.com"
-  },
-  {
-    "name": "Southern Colorado Mountain",
-    "town": "Monument",
-    "state": "CO",
-    "contactUrl": "http://www.scmg.info"
-  },
-  {
-    "name": "Timberline Grotto",
-    "town": "Glenwood Springs",
-    "state": "CO",
-    "contactUrl": null
-  },
-  {
-    "name": "Central Connecticut Grotto",
-    "town": "Bristol",
-    "state": "CT",
-    "contactUrl": "http://www.ctcavers.org"
-  },
-  {
-    "name": "District of Columbia Grotto",
-    "town": "Aldie",
-    "state": "VA",
-    "contactUrl": null
-  },
-  {
-    "name": "Commander Cody Caving Club",
-    "town": "Wilmington",
-    "state": "DE",
-    "contactUrl": "http://commandercodycaving.com"
-  },
-  {
-    "name": "Central Florida Grotto",
-    "town": "Palm Bay",
-    "state": "FL",
-    "contactUrl": "http://www.centralfloridacavers.com"
-  },
-  {
-    "name": "Flint River Grotto",
-    "town": "Tallahassee",
-    "state": "FL",
-    "contactUrl": "http://www.flintrivergrotto.org"
-  },
-  {
-    "name": "Florida Speleological Society",
-    "town": "Williston",
-    "state": "FL",
-    "contactUrl": "http://www.floridacaving.com"
-  },
-  {
-    "name": "River City Grotto",
-    "town": "Jacksonville",
-    "state": "FL",
-    "contactUrl": "http://www.rivercitygrotto.com"
-  },
-  {
-    "name": "Tampa Bay Area Grotto",
-    "town": "Tampa",
-    "state": "FL",
-    "contactUrl": null
-  },
-  {
-    "name": "Athens Speleological Society",
-    "town": "Colbert",
-    "state": "GA",
-    "contactUrl": "http://groups.yahoo.com/group/ASSnet/"
-  },
-  {
-    "name": "Augusta Cave Masters",
-    "town": "Augusta",
-    "state": "GA",
-    "contactUrl": null
-  },
-  {
-    "name": "Clayton County Cavers",
-    "town": "Kennesaw",
-    "state": "GA",
-    "contactUrl": null
-  },
-  {
-    "name": "Clock Tower Grotto",
-    "town": "Mount Berry",
-    "state": "GA",
-    "contactUrl": "http://www.facebook.com/groups/clocktowergrotto/"
-  },
-  {
-    "name": "Dogwood City Grotto",
-    "town": "Decatur",
-    "state": "GA",
-    "contactUrl": "http://www.dogwoodcitygrotto.org"
-  },
-  {
-    "name": "Middle Georgia Grotto",
-    "town": "Bonaire",
-    "state": "GA",
-    "contactUrl": "http://middlegeorgiagrotto.spaces.live.com/"
-  },
-  {
-    "name": "Pigeon Mountain Grotto",
-    "town": "Rock Spring",
-    "state": "GA",
-    "contactUrl": null
-  },
-  {
-    "name": "Team Poseidon",
-    "town": "Atlanta",
-    "state": "GA",
-    "contactUrl": "http://team-poseidon.org"
-  },
-  {
-    "name": "Hawaii Grotto",
-    "town": "Ocean View",
-    "state": "HI",
-    "contactUrl": "http://www.facebook.com/groups/348624448643257"
-  },
-  {
-    "name": "Iowa Grotto",
-    "town": "Iowa City",
-    "state": "IA",
-    "contactUrl": null
-  },
-  {
-    "name": "Gem State Grotto",
-    "town": "Boise",
-    "state": "ID",
-    "contactUrl": null
-  },
-  {
-    "name": "Silver Sage Grotto",
-    "town": "Twin Falls",
-    "state": "ID",
-    "contactUrl": null
-  },
-  {
-    "name": "Little Egypt Grotto",
-    "town": "Carbondale",
-    "state": "IL",
-    "contactUrl": "http://www.littleegyptgrotto.org"
-  },
-  {
-    "name": "Near Normal Grotto",
-    "town": "Normal",
-    "state": "IL",
-    "contactUrl": null
-  },
-  {
-    "name": "Rock River Speleological Soc.",
-    "town": "Woodstock",
-    "state": "IL",
-    "contactUrl": null
-  },
-  {
-    "name": "Sub-Urban Chicago Grotto",
-    "town": "Warrenville",
-    "state": "IL",
-    "contactUrl": "http://www.SUCG.org"
-  },
-  {
-    "name": "Windy City Grotto",
-    "town": "Brookfield",
-    "state": "IL",
-    "contactUrl": "http://www.windycitygrotto.org"
-  },
-  {
-    "name": "Bloomington Indiana Grotto",
-    "town": "Bloomington",
-    "state": "IN",
-    "contactUrl": "https://bloomingtonindianagrotto.home.blog/"
-  },
-  {
-    "name": "Central Indiana Grotto",
-    "town": "Indianapolis",
-    "state": "IN",
-    "contactUrl": "http://www.cigcaves.com"
-  },
-  {
-    "name": "Eastern Indiana Grotto",
-    "town": "Elwood",
-    "state": "IN",
-    "contactUrl": null
-  },
-  {
-    "name": "Evansville Metropolitan Grotto",
-    "town": "Jasper",
-    "state": "IN",
-    "contactUrl": null
-  },
-  {
-    "name": "Northern Indiana Grotto",
-    "town": "Granger",
-    "state": "IN",
-    "contactUrl": null
-  },
-  {
-    "name": "Saint Joseph Valley Grotto",
-    "town": "Elkhart",
-    "state": "IN",
-    "contactUrl": null
-  },
-  {
-    "name": "Western Indiana Grotto",
-    "town": "Poland",
-    "state": "IN",
-    "contactUrl": null
-  },
-  {
-    "name": "Kansas Speleological Society",
-    "town": "Scranton",
-    "state": "KS",
-    "contactUrl": null
-  },
-  {
-    "name": "Blue Grass Grotto",
-    "town": "Lexington",
-    "state": "KY",
-    "contactUrl": "http://BlueGrassGrotto.org/"
-  },
-  {
-    "name": "Green River Grotto",
-    "town": "Bowling Green",
-    "state": "KY",
-    "contactUrl": "http://www.facebook.com/groups/greenrivergrotto"
-  },
-  {
-    "name": "Louisville Grotto",
-    "town": "Lagrange",
-    "state": "KY",
-    "contactUrl": "http://louisvillegrotto.org/"
-  },
-  {
-    "name": "Pine Mountain Grotto",
-    "town": "Barbourville",
-    "state": "KY",
-    "contactUrl": null
-  },
-  {
-    "name": "Rockcastle Regional Grotto",
-    "town": "Orlando",
-    "state": "KY",
-    "contactUrl": null
-  },
-  {
-    "name": "Crescent City Cavers",
-    "town": "Metairie",
-    "state": "LA",
-    "contactUrl": null
-  },
-  {
-    "name": "Boston Grotto",
-    "town": "Cambridge",
-    "state": "MA",
-    "contactUrl": "http://www.bostongrotto.org/"
-  },
-  {
-    "name": "Baltimore Grotto",
-    "town": "Fulton",
-    "state": "MD",
-    "contactUrl": null
-  },
-  {
-    "name": "Frederick Grotto",
-    "town": "Westminster",
-    "state": "MD",
-    "contactUrl": null
-  },
-  {
-    "name": "Sligo Grotto",
-    "town": "Millers",
-    "state": "MD",
-    "contactUrl": null
-  },
-  {
-    "name": "Western Maryland Grotto",
-    "town": "Keyser",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Detroit Urban Grotto",
-    "town": "Chelsea",
-    "state": "MI",
-    "contactUrl": "http://fisherridge.net"
-  },
-  {
-    "name": "Michigan Interlakes Grotto",
-    "town": "Ann Arbor",
-    "state": "MI",
-    "contactUrl": null
-  },
-  {
-    "name": "Minnesota Caving Club",
-    "town": "Burnsville",
-    "state": "MN",
-    "contactUrl": "http://www.mncavingclub.com"
-  },
-  {
-    "name": "Minnesota Speleological Survey",
-    "town": "Paul",
-    "state": "MN",
-    "contactUrl": "http://www.mss-caving.org"
-  },
-  {
-    "name": "Branson Area Tri-Lakes Grotto",
-    "town": "Walnut Shade",
-    "state": "MO",
-    "contactUrl": "http://www.facebook.com/batlgrotto"
-  },
-  {
-    "name": "Chouteau Grotto",
-    "town": "Columbia",
-    "state": "MO",
-    "contactUrl": "http://ShowMeCaving.org"
-  },
-  {
-    "name": "Daedalus Cavers Grotto",
-    "town": "Pacific",
-    "state": "MO",
-    "contactUrl": "http://www.missourimountaineers.com/daedalus.htm"
-  },
-  {
-    "name": "Kansas City Area Grotto",
-    "town": "Blue Springs",
-    "state": "MO",
-    "contactUrl": "http://www.kcgrotto.org/"
-  },
-  {
-    "name": "Meramec Valley Grotto",
-    "town": "St Louis",
-    "state": "MO",
-    "contactUrl": "http://www.MeramecValleyGrotto.org/"
-  },
-  {
-    "name": "Middle Mississippi Valley Gr.",
-    "town": "St. Louis",
-    "state": "MO",
-    "contactUrl": "http://www.mmvgrotto.com/"
-  },
-  {
-    "name": "Missouri Sch. Mines Spelunkers Club",
-    "town": "Rolla",
-    "state": "MO",
-    "contactUrl": "http://www.mst.edu/~spelunk/"
-  },
-  {
-    "name": "Ozark Highlands Grotto",
-    "town": "Ozark",
-    "state": "MO",
-    "contactUrl": "http://None"
-  },
-  {
-    "name": "Roubidoux Grotto",
-    "town": "St. Robert",
-    "state": "MO",
-    "contactUrl": "http://www.facebook.com/RoubidouxGrotto"
-  },
-  {
-    "name": "SEMO Grotto",
-    "town": "Cape Girardeau",
-    "state": "MO",
-    "contactUrl": "http://semogrotto@yahoogroups.com"
-  },
-  {
-    "name": "Springfield Plateau Grotto",
-    "town": "Springfield",
-    "state": "MO",
-    "contactUrl": "http://www.spgcavers.org"
-  },
-  {
-    "name": "Stygian Grotto",
-    "town": "St. Peters",
-    "state": "MO",
-    "contactUrl": "https://www.stygiangrotto.org/"
-  },
-  {
-    "name": "JUST Cavers",
-    "town": "Brandon",
-    "state": "MS",
-    "contactUrl": null
-  },
-  {
-    "name": "Northern Rocky Mountain Grotto",
-    "town": "Bozeman",
-    "state": "MT",
-    "contactUrl": "http://nrmg.org"
-  },
-  {
-    "name": "Charlotte Caving Club",
-    "town": "Fort Mill",
-    "state": "SC",
-    "contactUrl": "https://charlottecavingclub.weebly.com/"
-  },
-  {
-    "name": "Flittermouse Grotto",
-    "town": "Asheville",
-    "state": "NC",
-    "contactUrl": "http://flittermouse.org"
-  },
-  {
-    "name": "Triangle Troglodytes",
-    "town": "Raleigh",
-    "state": "NC",
-    "contactUrl": "http://www.tritrogs.org"
-  },
-  {
-    "name": "Central New Jersey Grotto",
-    "town": "Hamilton Square",
-    "state": "NJ",
-    "contactUrl": null
-  },
-  {
-    "name": "New Jersey Tri-State Spel. Society",
-    "town": "Wanaque",
-    "state": "NJ",
-    "contactUrl": null
-  },
-  {
-    "name": "Northern New Jersey Grotto",
-    "town": "Kinnelon",
-    "state": "NJ",
-    "contactUrl": "http://www.nnjg.org/"
-  },
-  {
-    "name": "Mesilla Valley Grotto",
-    "town": "Las Cruces",
     "state": "NM",
-    "contactUrl": null
+    "contactUrl": "https://caves.org/grotto/gila-area-grotto/"
   },
   {
-    "name": "New Mexico Tech Student Grotto",
-    "town": "Socorro",
-    "state": "NM",
-    "contactUrl": "http://infohost.nmt.edu/~nmtcaver/index.htm"
-  },
-  {
-    "name": "Pajarito Grotto",
-    "town": "Los Alamos",
-    "state": "NM",
-    "contactUrl": "http://www.pajaritogrotto.org/"
-  },
-  {
-    "name": "Pecos Valley Grotto",
-    "town": "Artesia",
-    "state": "NM",
-    "contactUrl": "https://pecosvalleygrotto.wixsite.com/mysite"
-  },
-  {
-    "name": "Sandia Grotto",
-    "town": "Albuquerque",
-    "state": "NM",
-    "contactUrl": null
-  },
-  {
-    "name": "Sierra Blanca Grotto",
-    "town": "Ruidoso Downs",
-    "state": "NM",
-    "contactUrl": null
-  },
-  {
-    "name": "White Sands Grotto",
-    "town": "Carlsbad",
-    "state": "NM",
-    "contactUrl": null
-  },
-  {
-    "name": "Northern Nevada Grotto",
-    "town": "Dayton",
-    "state": "NV",
-    "contactUrl": "http://groups.yahoo.com/group/NNVGrotto/"
-  },
-  {
-    "name": "Southern Nevada Grotto",
-    "town": "Las Vegas",
-    "state": "NV",
-    "contactUrl": null
-  },
-  {
-    "name": "Helderberg-Hudson Grotto",
-    "town": "Schoharie",
-    "state": "NY",
-    "contactUrl": null
-  },
-  {
-    "name": "Met Grotto",
-    "town": "New York",
-    "state": "NY",
-    "contactUrl": "http://www.metgrotto.com/"
-  },
-  {
-    "name": "Niagara Frontier Grotto",
-    "town": "Ontario",
-    "state": "NY",
-    "contactUrl": "http://www.wnycavers.org"
-  },
-  {
-    "name": "Rensselaer Outing Club",
-    "town": "Troy",
-    "state": "NY",
-    "contactUrl": "http://www.outing.org"
-  },
-  {
-    "name": "Shawangunk-Catskill Area Grotto",
-    "town": "Kingston",
-    "state": "NY",
-    "contactUrl": "http://www.scagrotto.com"
-  },
-  {
-    "name": "Syracuse University Outing",
-    "town": "Syracuse",
-    "state": "NY",
-    "contactUrl": "http://suoc.syr.edu/"
-  },
-  {
-    "name": "Central Ohio Grotto",
-    "town": "Columbus",
-    "state": "OH",
-    "contactUrl": "http://www.centralohiogrotto.com"
-  },
-  {
-    "name": "Cleveland Grotto",
-    "town": "Brecksville",
-    "state": "OH",
-    "contactUrl": "http://www.clevelandgrotto.org/"
-  },
-  {
-    "name": "Dayton Underground Grotto",
-    "town": "Troy",
-    "state": "OH",
-    "contactUrl": "http://www.dugcaves.com"
-  },
-  {
-    "name": "Greater Cincinnati Grotto",
-    "town": "Cincinnati",
-    "state": "OH",
-    "contactUrl": "http://www.gcgcavers.com"
-  },
-  {
-    "name": "Miami Valley Grotto",
-    "town": "Mount Orab",
-    "state": "OH",
-    "contactUrl": null
-  },
-  {
-    "name": "Ohio Cavers and Climbers",
-    "town": "Olmsted Township",
-    "state": "OH",
-    "contactUrl": null
-  },
-  {
-    "name": "Standing Stone Grotto",
-    "town": "Sugar Grove",
-    "state": "OH",
-    "contactUrl": null
-  },
-  {
-    "name": "Wittenberg U. Spel Soc (Stu)",
-    "town": "Springfield",
-    "state": "OH",
-    "contactUrl": "http://www.wusscavers.com"
-  },
-  {
-    "name": "Arbuckle Mountains Grotto",
-    "town": "Ada",
-    "state": "OK",
-    "contactUrl": "http://www.arbucklekarst.org"
-  },
-  {
-    "name": "Central Oklahoma Grotto",
-    "town": "Conifer",
-    "state": "CO",
-    "contactUrl": "http://okcavers.com"
-  },
-  {
-    "name": "Tulsa Regional OK Grotto",
-    "town": "Porter",
-    "state": "OK",
-    "contactUrl": "http://www.tulsagrotto.org"
-  },
-  {
-    "name": "Oregon Grotto",
-    "town": "Fairview",
-    "state": "OR",
-    "contactUrl": "http://www.oregongrotto.com"
-  },
-  {
-    "name": "Oregon High Desert Grotto",
-    "town": "Bend",
-    "state": "OR",
-    "contactUrl": "http://www.ohdgrotto.com"
-  },
-  {
-    "name": "Willamette Valley Grotto",
-    "town": "Portland",
-    "state": "OR",
-    "contactUrl": null
-  },
-  {
-    "name": "Bald Eagle Grotto",
-    "town": "Cogan Station",
-    "state": "PA",
-    "contactUrl": "http://baldeaglegrotto.weebly.com/"
-  },
-  {
-    "name": "Bucks County Grotto",
-    "town": "Warrington",
-    "state": "PA",
-    "contactUrl": null
-  },
-  {
-    "name": "Franklin County Grotto",
-    "town": "Mechanicsburg",
-    "state": "PA",
-    "contactUrl": "http://www.karst.org/fcg"
-  },
-  {
-    "name": "Greater Allentown Grotto",
-    "town": "Neffs",
-    "state": "PA",
-    "contactUrl": null
-  },
-  {
-    "name": "Huntingdon County Cave Hunters",
-    "town": "Huntingdon",
-    "state": "PA",
-    "contactUrl": null
-  },
-  {
-    "name": "Loyalhanna Grotto",
-    "town": "Monroeville",
-    "state": "PA",
-    "contactUrl": "http://www.karst.org/loyalhanna/"
-  },
-  {
-    "name": "Nittany Grotto",
-    "town": "State College",
-    "state": "PA",
-    "contactUrl": null
-  },
-  {
-    "name": "Pennsylvania Inner-Earth Grotto",
-    "town": "Indiana",
-    "state": "PA",
-    "contactUrl": null
-  },
-  {
-    "name": "Philadelphia Grotto",
-    "town": "Media",
-    "state": "PA",
-    "contactUrl": "http://www.phillygrotto.org/"
-  },
-  {
-    "name": "Pittsburgh Grotto",
-    "town": "McKeespot",
-    "state": "PA",
-    "contactUrl": "http://www.karst.org/pgrotto/"
-  },
-  {
-    "name": "Seven Valleys Grotto",
-    "town": "Belleville",
-    "state": "PA",
-    "contactUrl": "http://sevenvalleysgrotto.org/"
-  },
-  {
-    "name": "York Grotto",
-    "town": "Carlisle",
-    "state": "PA",
-    "contactUrl": "http://www.yorkgrotto.org/"
-  },
-  {
-    "name": "Charlotte Caving Club",
-    "town": "Fort Mill",
-    "state": "SC",
-    "contactUrl": "https://charlottecavingclub.weebly.com/contact.html#/"
-  },
-  {
-    "name": "South Carolina Interstate Grotto",
-    "town": "Greer",
-    "state": "SC",
-    "contactUrl": null
-  },
-  {
-    "name": "Paha Sapa Grotto",
-    "town": "Custer",
-    "state": "SD",
-    "contactUrl": "http://www.pahasapagrotto.org"
+    "name": "Druid City Grotto",
+    "town": "",
+    "state": "AL",
+    "contactUrl": "https://caves.org/grotto/druid-city-grotto/"
   },
   {
     "name": "Chattanooga Grotto",
     "town": "Chattanooga",
     "state": "TN",
-    "contactUrl": "http://www.chattanoogagrotto.org"
+    "contactUrl": "https://chattanoogagrotto.com/"
   },
   {
-    "name": "East Tennessee Grotto",
-    "town": "Oak Ridge",
-    "state": "TN",
-    "contactUrl": null
+    "name": "Tennessee Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://tennesseecavesurvey.org/"
   },
   {
-    "name": "Nashville Grotto",
-    "town": "Nashville",
-    "state": "TN",
-    "contactUrl": "https://www.nashvillegrotto.org"
+    "name": "White Sands Grotto",
+    "town": "Carlsbad",
+    "state": "NM",
+    "contactUrl": "https://caves.org/grotto/white-sands-grotto/"
   },
   {
-    "name": "Sewanee Mountain Grotto",
-    "town": "Sewanee",
-    "state": "TN",
-    "contactUrl": null
+    "name": "Fredericksburg Underground Network",
+    "town": "Fredericksburg",
+    "state": "VA",
+    "contactUrl": "https://caves.org/grotto/fredericksburg-underground-network/"
   },
   {
-    "name": "Six Ridges Grotto",
-    "town": "Greeneville",
-    "state": "TN",
-    "contactUrl": "http://www.sixridgesgrotto.com"
+    "name": "Harrison Crawford Grotto",
+    "town": "",
+    "state": "IN",
+    "contactUrl": "https://caves.org/grotto/harrison-crawford-grotto/"
   },
   {
-    "name": "Smoky Mountain Grotto",
-    "town": "Knoxville",
-    "state": "TN",
-    "contactUrl": "http://www.smgrotto.wix.com/smg-webpage"
-  },
-  {
-    "name": "Southport Chronic Cavers",
-    "town": "Chapel Hill",
-    "state": "TN",
-    "contactUrl": null
+    "name": "Gadsden Grotto",
+    "town": "Leesburg",
+    "state": "AL",
+    "contactUrl": "https://www.facebook.com/groups/222610574482402/?ref=share_group_link"
   },
   {
     "name": "Spencer Mountain Grotto",
     "town": "Spencer",
     "state": "TN",
-    "contactUrl": null
+    "contactUrl": "https://caves.org/grotto/spencer-mountain-grotto/"
   },
   {
-    "name": "Upper Cumberland Grotto",
-    "town": "Cookeville",
+    "name": "Greater Randolph Organization for Speleological Science (GROSS)",
+    "town": "",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/greater-randolph-organization-for-speleological-science-gross/"
+  },
+  {
+    "name": "Rowdy Rendezvous",
+    "town": "Pinedale",
+    "state": "WY",
+    "contactUrl": "https://buy.stripe.com/dRmcN75zK6c7gyYcNJdMI01"
+  },
+  {
+    "name": "Puerto Rico Grotto: GEO",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/share/p/1ZuneJTAi6/"
+  },
+  {
+    "name": "Grotto of the Ancients",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://www.facebook.com/groups/550355597821413"
+  },
+  {
+    "name": "Central Oklahoma Grotto",
+    "town": "Conifer",
+    "state": "CO",
+    "contactUrl": "https://caves.org/grotto/central-oklahoma-grotto/"
+  },
+  {
+    "name": "American Spelean History Association",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/american-spelean-history-association/"
+  },
+  {
+    "name": "Survey & Cartography Section",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/survey-cartography-section/"
+  },
+  {
+    "name": "Cave Diving Section (CDS)",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://nsscds.org/"
+  },
+  {
+    "name": "Vertical Section",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/vertical-section/"
+  },
+  {
+    "name": "Cave Geology & Geographty",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/cave-geology-geographty/"
+  },
+  {
+    "name": "Arizona Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "http://arizonacaves.org/"
+  },
+  {
+    "name": "Great Basin Speleological Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/great-basin-speleological-survey/"
+  },
+  {
+    "name": "Indiana Speleological Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/indiana-speleological-survey/"
+  },
+  {
+    "name": "Utah Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/utah-cave-survey/"
+  },
+  {
+    "name": "Florida Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/floridacavesurvey/"
+  },
+  {
+    "name": "Indiana Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/indiana-cave-survey/"
+  },
+  {
+    "name": "Idaho Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/idaho-cave-survey/"
+  },
+  {
+    "name": "Colorado Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://coloradocavesurvey.org/"
+  },
+  {
+    "name": "Alabama Cave Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "http://www.alabamacavesurvey.org/"
+  },
+  {
+    "name": "West Virginia Speleological Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.wvass.org/"
+  },
+  {
+    "name": "Virginia Speleological Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.virginiacaves.org/"
+  },
+  {
+    "name": "Georgia Speleological Survey",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/georgia-speleological-survey/"
+  },
+  {
+    "name": "Rocky Mountain Region",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://nssrmr.org/"
+  },
+  {
+    "name": "Northwest Caving Association",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/northwestcavingassociation/"
+  },
+  {
+    "name": "Western Region",
+    "town": "Saratoga",
+    "state": "CA",
+    "contactUrl": "https://nsswest.org/"
+  },
+  {
+    "name": "Virginia Region",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/groups/59865582727"
+  },
+  {
+    "name": "Texas Speleological Association",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.cavetexas.org/"
+  },
+  {
+    "name": "Southwestern Region",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.paypal.com/donate?token=OEPbTlg36cIdN_0PTUQk2aPitgOA0ZU7DlmJCl3HG-T0ZXeYfZ5hd1y6Oh4L01o6qC9-ppFeb7xfAUG-"
+  },
+  {
+    "name": "Southeastern Regional Association",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/groups/333106360986/?ref=br_tf"
+  },
+  {
+    "name": "Mid-Appalachian Region",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://www.facebook.com/groups/1416304591934297/"
+  },
+  {
+    "name": "Mississippi Valley-Ozark Region",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://mvor.org/forum"
+  },
+  {
+    "name": "Arizona Regional Association",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://arizonaregional.yourwebsitespace.com/"
+  },
+  {
+    "name": "Northeastern Regional Organization",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://caves.org/grotto/northeastern-regional-organization/"
+  },
+  {
+    "name": "Colorado School of Mines Grotto",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://mines.campuslabs.com/engage/organization/caving-club"
+  },
+  {
+    "name": "Mule Mountain Caving Club",
+    "town": "Bisbee",
+    "state": "AZ",
+    "contactUrl": "https://caves.org/grotto/mule-mountain-caving-club/"
+  },
+  {
+    "name": "Redwood Grotto",
+    "town": "Cloverdale",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/redwood-grotto/"
+  },
+  {
+    "name": "Anthros Costa Rica Grotto",
+    "town": "",
+    "state": "",
+    "contactUrl": "http://anthros.org/es/"
+  },
+  {
+    "name": "Hole-in-the-Wall Grotto",
+    "town": "Casper",
+    "state": "WY",
+    "contactUrl": "https://caves.org/grotto/hole-in-the-wall-grotto/"
+  },
+  {
+    "name": "Armpit Grotto",
+    "town": "Laramie",
+    "state": "WY",
+    "contactUrl": "https://caves.org/grotto/armpit-grotto/"
+  },
+  {
+    "name": "Wisconsin Speleological Society",
+    "town": "Greenbay",
+    "state": "WI",
+    "contactUrl": "https://www.wisconsincaves.org/"
+  },
+  {
+    "name": "Germany Valley Grotto",
+    "town": "Upper Tract",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/germany-valley-grotto/"
+  },
+  {
+    "name": "ESSO Grotto",
+    "town": "Grayson",
+    "state": "KY",
+    "contactUrl": "https://www.facebook.com/groups/145518310095/"
+  },
+  {
+    "name": "Charleston Grotto",
+    "town": "Hurricane",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/charleston-grotto/"
+  },
+  {
+    "name": "West Virginia University Student Grotto",
+    "town": "Morgantown",
+    "state": "WV",
+    "contactUrl": "https://www.instagram.com/wvustudentgrotto/?hl=en"
+  },
+  {
+    "name": "Tri-State Grotto",
+    "town": "Gerrardstown",
+    "state": "WV",
+    "contactUrl": "https://tristategrotto.org/"
+  },
+  {
+    "name": "Parkersburg Area Grotto",
+    "town": "Williamstown",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/parkersburg-area-grotto/"
+  },
+  {
+    "name": "Mountain State Grotto",
+    "town": "Bowden",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/mountain-state-grotto/"
+  },
+  {
+    "name": "Monroe County Cavers",
+    "town": "Sinks Grove",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/monroe-county-cavers/"
+  },
+  {
+    "name": "Monongahela Grotto",
+    "town": "Grafton",
+    "state": "WV",
+    "contactUrl": "http://www.facebook.com/groups/554062268011709"
+  },
+  {
+    "name": "Greenbrier Grotto",
+    "town": "Frankford",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/greenbrier-grotto/"
+  },
+  {
+    "name": "Wasatch Grotto",
+    "town": "West Jordan",
+    "state": "UT",
+    "contactUrl": "https://caves.org/grotto/wasatch-grotto/"
+  },
+  {
+    "name": "Vermont Cavers Association",
+    "town": "Albans",
+    "state": "VT",
+    "contactUrl": "http://cavermont.org/"
+  },
+  {
+    "name": "Walker Mountain Grotto",
+    "town": "Wytheville",
+    "state": "VA",
+    "contactUrl": "https://walkergrotto.wordpress.com/"
+  },
+  {
+    "name": "VPI Cave Club",
+    "town": "Blacksburg",
+    "state": "VA",
+    "contactUrl": "https://www.facebook.com/VPICaveClub"
+  },
+  {
+    "name": "Virginia Highlands Grotto",
+    "town": "Monterey",
+    "state": "VA",
+    "contactUrl": "https://caves.org/grotto/virginia-highlands-grotto/"
+  },
+  {
+    "name": "Tidewater Grotto",
+    "town": "Chesapeake",
+    "state": "VA",
+    "contactUrl": "https://caves.org/grotto/tidewater-grotto/"
+  },
+  {
+    "name": "Timpanogos Grotto",
+    "town": "Draper",
+    "state": "UT",
+    "contactUrl": "https://www.timpgrotto.org/"
+  },
+  {
+    "name": "Cascade Grotto",
+    "town": "",
+    "state": "WA",
+    "contactUrl": "https://cascadegrotto.org/"
+  },
+  {
+    "name": "Richmond Area Speleological Society",
+    "town": "Mechanicsville",
+    "state": "VA",
+    "contactUrl": "https://www.caverva.org"
+  },
+  {
+    "name": "Mountain Empire Grotto",
+    "town": "Bristol",
     "state": "TN",
-    "contactUrl": "http://www.facebook.com/ucgrotto"
+    "contactUrl": "https://caves.org/grotto/mountain-empire-grotto/"
+  },
+  {
+    "name": "Madison University Student Grotto",
+    "town": "Harrisonburg",
+    "state": "VA",
+    "contactUrl": "https://caves.org/grotto/madison-university-student-grotto/"
+  },
+  {
+    "name": "James River Grotto",
+    "town": "",
+    "state": "VA",
+    "contactUrl": "http://jamesrivergrottova.weebly.com/"
+  },
+  {
+    "name": "Front Royal Grotto",
+    "town": "Fort Valley",
+    "state": "VA",
+    "contactUrl": "https://www.facebook.com/groups/239911082881812"
+  },
+  {
+    "name": "Charlottesville Grotto",
+    "town": "",
+    "state": "VA",
+    "contactUrl": "http://www.cvillegrotto.org/"
+  },
+  {
+    "name": "Blue Ridge Grotto",
+    "town": "Roanoke",
+    "state": "VA",
+    "contactUrl": "https://blueridgegrotto.org/"
+  },
+  {
+    "name": "Battlefield Area Troglodyte Society",
+    "town": "",
+    "state": "VA",
+    "contactUrl": "https://www.facebook.com/groups/126931830674654"
+  },
+  {
+    "name": "Salt Lake Grotto",
+    "town": "",
+    "state": "UT",
+    "contactUrl": "https://caves.org/grotto/salt-lake-grotto/"
+  },
+  {
+    "name": "Stonewall Cavers",
+    "town": "Lemon Grove",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/stonewall-cavers/"
+  },
+  {
+    "name": "Out of Bounds Grotto",
+    "town": "",
+    "state": "",
+    "contactUrl": "https://outofboundsgrotto.org/"
+  },
+  {
+    "name": "New River Valley Grotto",
+    "town": "Radford",
+    "state": "VA",
+    "contactUrl": "http://www.nrvg.org/"
+  },
+  {
+    "name": "UT Grotto",
+    "town": "Austin",
+    "state": "TX",
+    "contactUrl": "https://www.utgrotto.org/"
+  },
+  {
+    "name": "Permian Basin Speleological Society",
+    "town": "Big Spring",
+    "state": "TX",
+    "contactUrl": "https://www.caver.net/pbss/pbss.html"
+  },
+  {
+    "name": "Lubbock Area Grotto",
+    "town": "Lubbock",
+    "state": "TX",
+    "contactUrl": "http://lubbockareagrotto.org/"
+  },
+  {
+    "name": "GUAD Grotto",
+    "town": "El Paso",
+    "state": "TX",
+    "contactUrl": "https://cavegrotto.wordpress.com/"
+  },
+  {
+    "name": "Greater Houston Grotto",
+    "town": "Jersey Village",
+    "state": "TX",
+    "contactUrl": "https://www.greaterhoustongrotto.org/"
+  },
+  {
+    "name": "Dallas-Fort Worth Grotto",
+    "town": "",
+    "state": "TX",
+    "contactUrl": "http://dfwgrotto.org/"
+  },
+  {
+    "name": "Bexar Grotto",
+    "town": "San Antonio",
+    "state": "TX",
+    "contactUrl": "https://bexargrotto.org/"
   },
   {
     "name": "Aggie Grotto",
@@ -948,303 +522,897 @@
     "contactUrl": "https://cavetamu.com/"
   },
   {
-    "name": "Bexar Grotto",
-    "town": "San Antonio",
-    "state": "TX",
-    "contactUrl": null
+    "name": "Upper Cumberland Grotto",
+    "town": "Cookeville",
+    "state": "TN",
+    "contactUrl": "https://www.facebook.com/ucgrotto"
   },
   {
-    "name": "Dallas-Fort Worth Grotto",
-    "town": "Irving",
-    "state": "TX",
-    "contactUrl": "http://dfwgrotto.org/"
+    "name": "Southport Chronic Cavers",
+    "town": "Chapel Hill",
+    "state": "TN",
+    "contactUrl": "https://caves.org/grotto/southport-chronic-cavers/"
   },
   {
-    "name": "Greater Houston Grotto",
-    "town": "Jersey Village",
-    "state": "TX",
-    "contactUrl": "http://greaterhoustongrotto.org/"
+    "name": "Smoky Mountain Grotto",
+    "town": "Knoxville",
+    "state": "TN",
+    "contactUrl": "https://smgrotto.wixsite.com/smg-webpage"
   },
   {
-    "name": "GUAD Grotto",
-    "town": "El Paso",
-    "state": "TX",
-    "contactUrl": "http://cavegrotto.wordpress.com"
+    "name": "Six Ridges Grotto",
+    "town": "Greeneville",
+    "state": "TN",
+    "contactUrl": "http://www.sixridgesgrotto.com/"
   },
   {
-    "name": "Lubbock Area Grotto",
-    "town": "Lubbock",
-    "state": "TX",
-    "contactUrl": "http://www.lubbockareagrotto.org/"
+    "name": "Sewanee Mountain Grotto",
+    "town": "Sewanee",
+    "state": "TN",
+    "contactUrl": "https://www.facebook.com/groups/SewaneeMountainGrotto"
   },
   {
-    "name": "Permian Basin Speleological Society",
-    "town": "Big Spring",
-    "state": "TX",
-    "contactUrl": "http://www.caver.net/pbss/pbss.html"
+    "name": "Nashville Grotto",
+    "town": "Nashville",
+    "state": "TN",
+    "contactUrl": "https://www.nashvillegrotto.org/"
   },
   {
-    "name": "UT Grotto",
-    "town": "",
-    "state": "TX",
-    "contactUrl": "http://www.utgrotto.org/"
+    "name": "East Tennessee Grotto",
+    "town": "Oak Ridge",
+    "state": "TN",
+    "contactUrl": "https://www.facebook.com/groups/195418294685"
+  },
+  {
+    "name": "Paha Sapa Grotto",
+    "town": "Rapid City",
+    "state": "SD",
+    "contactUrl": "http://www.pahasapagrotto.org/"
+  },
+  {
+    "name": "South Carolina Interstate Grotto",
+    "town": "Greer",
+    "state": "SC",
+    "contactUrl": "https://caves.org/grotto/south-carolina-interstate-grotto/"
   },
   {
     "name": "Gypsy Underground Grotto",
     "town": "Durango",
     "state": "CO",
-    "contactUrl": null
+    "contactUrl": "https://caves.org/grotto/gypsy-underground-grotto/"
   },
   {
-    "name": "Israeli Caving Club",
-    "town": "",
-    "state": "TX",
-    "contactUrl": null
+    "name": "Central Alabama Grotto",
+    "town": "Morris",
+    "state": "AL",
+    "contactUrl": "https://www.facebook.com/groups/351377211568393/"
   },
   {
-    "name": "Out of Bounds Grotto",
-    "town": "Muncy",
-    "state": "PA",
-    "contactUrl": null
+    "name": "Birmingham Grotto",
+    "town": "Birmingham",
+    "state": "AL",
+    "contactUrl": "https://www.bhamgrotto.org"
   },
   {
-    "name": "Persona Non Grotto",
-    "town": "Corbett",
-    "state": "OR",
-    "contactUrl": null
+    "name": "The Glacier Grotto",
+    "town": "Juneau",
+    "state": "AK",
+    "contactUrl": "https://www.facebook.com/share/g/16uZUSFDE4/The%20Glacier%20Grotto"
   },
   {
-    "name": "Stonewall Cavers",
-    "town": "Lemon Grove",
+    "name": "Huntsville Grotto",
+    "town": "Huntsville",
+    "state": "AL",
+    "contactUrl": "https://www.huntsvillegrotto.net/"
+  },
+  {
+    "name": "Cullman Grotto",
+    "town": "Cullman",
+    "state": "AL",
+    "contactUrl": "http://cullmangrotto.org/%20%20"
+  },
+  {
+    "name": "San Diego Grotto",
+    "town": "Oceanside",
     "state": "CA",
-    "contactUrl": "http://www.stonewallcavers.org/"
+    "contactUrl": "https://www.facebook.com/groups/sandiegogrotto"
   },
   {
-    "name": "Salt Lake Grotto",
-    "town": "West Jordan",
-    "state": "UT",
-    "contactUrl": "http://saltlakegrotto.org/"
+    "name": "Mother Lode Grotto",
+    "town": "Sacramento",
+    "state": "CA",
+    "contactUrl": "https://www.motherlodegrotto.org/"
   },
   {
-    "name": "Timpanogos Grotto",
-    "town": "Springville",
-    "state": "UT",
-    "contactUrl": "https://www.timpgrotto.org"
+    "name": "Diablo Grotto",
+    "town": "Union City",
+    "state": "CA",
+    "contactUrl": "https://diablogrotto.org/"
   },
   {
-    "name": "Wasatch Grotto",
-    "town": "Sandy",
-    "state": "UT",
-    "contactUrl": null
+    "name": "Desert Dog Troglodytes",
+    "town": "Long Beach",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/desert-dog-troglodytes/"
   },
   {
-    "name": "Battlefield Area Troglodyte Soc",
+    "name": "Southern Arizona",
+    "town": "Tucson",
+    "state": "AZ",
+    "contactUrl": "https://caves.org/grotto/southern-arizona/"
+  },
+  {
+    "name": "Northern Arizona Grotto",
+    "town": "Prescott Valley",
+    "state": "AZ",
+    "contactUrl": "https://caves.org/grotto/northern-arizona-grotto/"
+  },
+  {
+    "name": "Escabrosa Grotto",
+    "town": "Tucson",
+    "state": "AZ",
+    "contactUrl": "https://www.escabrosa.org/"
+  },
+  {
+    "name": "Cochise County Cavers",
+    "town": "Elfrida",
+    "state": "AZ",
+    "contactUrl": "https://caves.org/grotto/cochise-county-cavers/"
+  },
+  {
+    "name": "Central Arizona Grotto",
+    "town": "Glendale",
+    "state": "AZ",
+    "contactUrl": "https://centralazgrotto.org/"
+  },
+  {
+    "name": "Middle Ozark Lower Earth Soc. MOLES",
+    "town": "Maumelle",
+    "state": "AR",
+    "contactUrl": "https://caves.org/grotto/middle-ozark-lower-earth-soc-moles/"
+  },
+  {
+    "name": "Little Rock Grotto",
+    "town": "Maumelle",
+    "state": "AR",
+    "contactUrl": "https://caves.org/grotto/little-rock-grotto/"
+  },
+  {
+    "name": "COBRA Grotto",
+    "town": "Batesville",
+    "state": "AR",
+    "contactUrl": "https://davidthomas0.wixsite.com/cobra"
+  },
+  {
+    "name": "Central Region Arkansas Grotto",
+    "town": "Harrison",
+    "state": "AR",
+    "contactUrl": "https://caves.org/grotto/central-region-arkansas-grotto/"
+  },
+  {
+    "name": "Boston Mountain Grotto",
+    "town": "Sherwood",
+    "state": "AR",
+    "contactUrl": "https://www.facebook.com/groups/168329284862562/"
+  },
+  {
+    "name": "RAT Grotto",
     "town": "",
-    "state": "VA",
-    "contactUrl": null
+    "state": "AL",
+    "contactUrl": "https://caves.org/grotto/rat-grotto/"
   },
   {
-    "name": "Blue Ridge Grotto",
-    "town": "Roanoke",
-    "state": "VA",
-    "contactUrl": "http://www.blueridgegrotto.org"
+    "name": "Montgomery Grotto",
+    "town": "",
+    "state": "AL",
+    "contactUrl": "https://linktr.ee/montgomerygrotto"
   },
   {
-    "name": "Charlottesville Grotto",
-    "town": "Crozet",
-    "state": "VA",
-    "contactUrl": "http://www.cvillegrotto.org"
+    "name": "Jackson County Grotto",
+    "town": "Scottsboro",
+    "state": "AL",
+    "contactUrl": "https://caves.org/grotto/jackson-county-grotto/"
   },
   {
-    "name": "Fredericksburg Underground Network",
-    "town": "Fredericksburg",
-    "state": "VA",
-    "contactUrl": null
+    "name": "Tampa Bay Area Grotto",
+    "town": "",
+    "state": "FL",
+    "contactUrl": "https://www.tampabaygrotto.com/"
   },
   {
-    "name": "Front Royal Grotto",
-    "town": "Fort Valley",
-    "state": "VA",
-    "contactUrl": null
+    "name": "River City Grotto",
+    "town": "Orange Park",
+    "state": "FL",
+    "contactUrl": "https://rivercitygrotto.com/"
   },
   {
-    "name": "James River Grotto",
-    "town": "Altavista",
-    "state": "VA",
-    "contactUrl": "http://jamesrivergrottova.weebly.com/"
+    "name": "Florida Speleological Society",
+    "town": "Williston",
+    "state": "FL",
+    "contactUrl": "http://www.floridacaving.com/"
   },
   {
-    "name": "Madison University Student Grotto",
-    "town": "Harrisonburg",
-    "state": "VA",
-    "contactUrl": null
+    "name": "Flint River Grotto",
+    "town": "",
+    "state": "FL",
+    "contactUrl": "http://www.flintrivergrotto.org/"
   },
   {
-    "name": "Mountain Empire Grotto",
-    "town": "Bristol",
-    "state": "TN",
-    "contactUrl": null
+    "name": "Central Florida Grotto",
+    "town": "Palm Bay",
+    "state": "FL",
+    "contactUrl": "https://caves.org/grotto/central-florida-grotto/"
   },
   {
-    "name": "New River Valley Grotto",
-    "town": "Radford",
-    "state": "VA",
-    "contactUrl": null
+    "name": "Commander Cody Caving Club",
+    "town": "Wilmington",
+    "state": "DE",
+    "contactUrl": "https://commandercodycaving.com/"
   },
   {
-    "name": "Richmond Area Spel. Soc.",
-    "town": "Mechanicsville",
-    "state": "VA",
-    "contactUrl": null
+    "name": "District of Columbia Grotto",
+    "town": "Laurel",
+    "state": "MD",
+    "contactUrl": "https://www.facebook.com/groups/186587308115608"
   },
   {
-    "name": "Tidewater Grotto",
-    "town": "Chesapeake",
-    "state": "VA",
-    "contactUrl": null
+    "name": "Central Connecticut Grotto",
+    "town": "",
+    "state": "CT",
+    "contactUrl": "http://ctcavers.org/"
   },
   {
-    "name": "Virginia Highlands Grotto",
-    "town": "Monterey",
-    "state": "VA",
-    "contactUrl": null
+    "name": "Timberline Grotto",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://caves.org/grotto/timberline-grotto/"
   },
   {
-    "name": "VPI Cave Club",
-    "town": "Blacksburg",
-    "state": "VA",
-    "contactUrl": "http://www.cave.org.vt.edu/wordpress/"
+    "name": "Southern Colorado Mountain Grotto",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://www.facebook.com/profile.php/?id=100066235821326"
   },
   {
-    "name": "Walker Mountain Grotto",
-    "town": "Wytheville",
-    "state": "VA",
-    "contactUrl": "http://walkergrotto.wordpress.com/"
+    "name": "Northern Colorado Mountain Grotto",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://caves.org/grotto/northern-colorado-mountain/"
   },
   {
-    "name": "Vermont Cavers Association",
-    "town": "Marlboro",
-    "state": "VT",
-    "contactUrl": "http://www.vermontcavers.org"
+    "name": "Front Range Grotto",
+    "town": "",
+    "state": "CO",
+    "contactUrl": "https://www.frontrangegrotto.org/"
   },
   {
-    "name": "Cascade Grotto",
-    "town": "Seattle",
-    "state": "WA",
-    "contactUrl": "http://cascadegrotto.org"
+    "name": "Colorado Western Slope Grotto",
+    "town": "Rifle",
+    "state": "CO",
+    "contactUrl": "https://coloradowesternslopegrotto.org/"
   },
   {
-    "name": "Charleston Grotto",
-    "town": "Charleston",
-    "state": "WV",
-    "contactUrl": null
+    "name": "Colorado Grotto",
+    "town": "Denver",
+    "state": "CO",
+    "contactUrl": "https://www.coloradogrotto.org/"
   },
   {
-    "name": "ESSO Grotto",
-    "town": "Grayson",
+    "name": "Stanislaus Speleo. Assn.",
+    "town": "Manteca",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/stanislaus-speleo-assn/"
+  },
+  {
+    "name": "Southern California Grotto",
+    "town": "",
+    "state": "CA",
+    "contactUrl": "https://socalgrotto.com"
+  },
+  {
+    "name": "Shasta Area Grotto",
+    "town": "",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/shasta-area-grotto/"
+  },
+  {
+    "name": "Shascade Caving Society",
+    "town": "Montgomery Creek",
+    "state": "CA",
+    "contactUrl": "https://caves.org/grotto/shascade-caving-society/"
+  },
+  {
+    "name": "San Joaquin Valley Grotto",
+    "town": "Fresno",
+    "state": "CA",
+    "contactUrl": "https://www.sjvg.org/"
+  },
+  {
+    "name": "San Francisco Bay Chapter of NSS",
+    "town": "Menlo Park",
+    "state": "CA",
+    "contactUrl": "https://www.sfbaycaving.org/"
+  },
+  {
+    "name": "Little Egypt Grotto",
+    "town": "Carbondale",
+    "state": "IL",
+    "contactUrl": "https://www.facebook.com/groups/130238219111/"
+  },
+  {
+    "name": "Silver Sage Grotto",
+    "town": "Twin Falls",
+    "state": "ID",
+    "contactUrl": "https://www.facebook.com/IdahoCavers"
+  },
+  {
+    "name": "Gem State Grotto",
+    "town": "Boise",
+    "state": "ID",
+    "contactUrl": "https://caves.org/grotto/gem-state-grotto/"
+  },
+  {
+    "name": "Iowa Grotto",
+    "town": "Decorah",
+    "state": "IA",
+    "contactUrl": "https://caves.org/grotto/iowa-grotto/"
+  },
+  {
+    "name": "Hawaii Grotto",
+    "town": "Ocean View",
+    "state": "HI",
+    "contactUrl": "https://www.hawaiigrotto.com/"
+  },
+  {
+    "name": "Team Poseidon",
+    "town": "Atlanta",
+    "state": "GA",
+    "contactUrl": "https://caves.org/grotto/team-poseidon/"
+  },
+  {
+    "name": "Pigeon Mountain Grotto",
+    "town": "Rock Spring",
+    "state": "GA",
+    "contactUrl": "https://caves.org/grotto/pigeon-mountain-grotto/"
+  },
+  {
+    "name": "Middle Georgia Grotto",
+    "town": "LaFayette",
+    "state": "GA",
+    "contactUrl": "https://middlegeorgiagrotto.wordpress.com/"
+  },
+  {
+    "name": "Dogwood City Grotto",
+    "town": "Cartersville",
+    "state": "GA",
+    "contactUrl": "https://www.dogwoodcitygrotto.org"
+  },
+  {
+    "name": "Clock Tower Grotto",
+    "town": "Rome",
+    "state": "GA",
+    "contactUrl": "https://www.facebook.com/groups/clocktowergrotto/"
+  },
+  {
+    "name": "Clayton County Cavers",
+    "town": "Kennesaw",
+    "state": "GA",
+    "contactUrl": "https://caves.org/grotto/clayton-county-cavers/"
+  },
+  {
+    "name": "Augusta Cave Masters",
+    "town": "Augusta",
+    "state": "GA",
+    "contactUrl": "https://www.facebook.com/profile.php?id=100064523331146"
+  },
+  {
+    "name": "Athens Speleological Society",
+    "town": "Colbert",
+    "state": "GA",
+    "contactUrl": "https://caves.org/grotto/athens-speleological-society/"
+  },
+  {
+    "name": "Miami Valley Grotto",
+    "town": "Mount Orab",
+    "state": "OH",
+    "contactUrl": "https://caves.org/grotto/miami-valley-grotto/"
+  },
+  {
+    "name": "Greater Cincinnati Grotto",
+    "town": "Cincinnati",
+    "state": "OH",
+    "contactUrl": "http://www.gcgcavers.com/"
+  },
+  {
+    "name": "Dayton Underground Grotto",
+    "town": "Troy",
+    "state": "OH",
+    "contactUrl": "http://www.dugcaves.com/"
+  },
+  {
+    "name": "Cleveland Grotto",
+    "town": "Brecksville",
+    "state": "OH",
+    "contactUrl": "http://www.clevelandgrotto.org/"
+  },
+  {
+    "name": "Central Ohio Grotto",
+    "town": "",
+    "state": "OH",
+    "contactUrl": "https://www.centralohiogrotto.com/"
+  },
+  {
+    "name": "Near Normal Grotto",
+    "town": "Carlinville",
+    "state": "IL",
+    "contactUrl": "https://www.facebook.com/groups/247901266926149"
+  },
+  {
+    "name": "Greater Allentown Grotto",
+    "town": "Neffs",
+    "state": "PA",
+    "contactUrl": "https://caves.org/grotto/greater-allentown-grotto/"
+  },
+  {
+    "name": "Franklin County Grotto",
+    "town": "Waynesboro",
+    "state": "PA",
+    "contactUrl": "http://www.karst.org/fcg/"
+  },
+  {
+    "name": "Bucks County Grotto",
+    "town": "Warrington",
+    "state": "PA",
+    "contactUrl": "https://caves.org/grotto/bucks-county-grotto/"
+  },
+  {
+    "name": "Bald Eagle Grotto",
+    "town": "Cogan Station",
+    "state": "PA",
+    "contactUrl": "https://baldeaglegrotto.com/"
+  },
+  {
+    "name": "Willamette Valley Grotto",
+    "town": "Portland",
+    "state": "OR",
+    "contactUrl": "https://www.facebook.com/profile.php?id=100064379484040"
+  },
+  {
+    "name": "Oregon High Desert Grotto",
+    "town": "Bend",
+    "state": "OR",
+    "contactUrl": "https://caves.org/grotto/oregon-high-desert-grotto/"
+  },
+  {
+    "name": "Oregon Grotto",
+    "town": "Fairview",
+    "state": "OR",
+    "contactUrl": "http://www.oregongrotto.com/"
+  },
+  {
+    "name": "Tulsa Regional OK Grotto",
+    "town": "Porter",
+    "state": "OK",
+    "contactUrl": "http://www.tulsagrotto.org/"
+  },
+  {
+    "name": "Arbuckle Mountains Grotto",
+    "town": "",
+    "state": "OK",
+    "contactUrl": "https://www.facebook.com/groups/983839932821778"
+  },
+  {
+    "name": "Wittenberg University Speleological Society",
+    "town": "Springfield",
+    "state": "OH",
+    "contactUrl": "https://www.wusscavers.com/"
+  },
+  {
+    "name": "Standing Stone Grotto",
+    "town": "Sugar Grove",
+    "state": "OH",
+    "contactUrl": "https://caves.org/grotto/standing-stone-grotto/"
+  },
+  {
+    "name": "Ohio Cavers and Climbers",
+    "town": "Olmsted Township",
+    "state": "OH",
+    "contactUrl": "https://caves.org/grotto/ohio-cavers-and-climbers/"
+  },
+  {
+    "name": "York Grotto",
+    "town": "Carlisle",
+    "state": "PA",
+    "contactUrl": "https://yorkgrotto.org/"
+  },
+  {
+    "name": "Seven Valleys Grotto",
+    "town": "Belleville",
+    "state": "PA",
+    "contactUrl": "http://sevenvalleysgrotto.org/"
+  },
+  {
+    "name": "Pittsburgh Grotto",
+    "town": "",
+    "state": "PA",
+    "contactUrl": "http://www.pittsburghcaving.club"
+  },
+  {
+    "name": "Philadelphia Grotto",
+    "town": "Media",
+    "state": "PA",
+    "contactUrl": "http://www.phillygrotto.org/"
+  },
+  {
+    "name": "Nittany Grotto",
+    "town": "State College",
+    "state": "PA",
+    "contactUrl": "https://www.facebook.com/groups/nittanygrottoinc"
+  },
+  {
+    "name": "Loyalhanna Grotto",
+    "town": "Monroeville",
+    "state": "PA",
+    "contactUrl": "http://www.karst.org/loyalhanna/"
+  },
+  {
+    "name": "Huntingdon County Cave Hunters",
+    "town": "Huntingdon",
+    "state": "PA",
+    "contactUrl": "https://caves.org/grotto/huntingdon-county-cave-hunters/"
+  },
+  {
+    "name": "Saint Joseph Valley Grotto",
+    "town": "Elkhart",
+    "state": "IN",
+    "contactUrl": "https://sjvgnss.blogspot.com/"
+  },
+  {
+    "name": "Northern Indiana Grotto",
+    "town": "Auburn",
+    "state": "IN",
+    "contactUrl": "https://www.facebook.com/NorthernIndianaGrotto"
+  },
+  {
+    "name": "Evansville Metropolitan Grotto (EMG)",
+    "town": "",
+    "state": "IN",
+    "contactUrl": "https://www.emgcavers.org/"
+  },
+  {
+    "name": "Eastern Indiana Grotto",
+    "town": "Elwood",
+    "state": "IN",
+    "contactUrl": "https://caves.org/grotto/eastern-indiana-grotto/"
+  },
+  {
+    "name": "Central Indiana Grotto",
+    "town": "Indianapolis",
+    "state": "IN",
+    "contactUrl": "http://www.cigcaves.com/"
+  },
+  {
+    "name": "Bloomington Indiana Grotto",
+    "town": "Bloomington",
+    "state": "IN",
+    "contactUrl": "https://BloomingtonIndianaGrotto.com"
+  },
+  {
+    "name": "Windy City Grotto",
+    "town": "Brookfield",
+    "state": "IL",
+    "contactUrl": "https://www.windycitygrotto.org/"
+  },
+  {
+    "name": "Sub-Urban Chicago Grotto",
+    "town": "Lombard",
+    "state": "IL",
+    "contactUrl": "https://sucg.org/"
+  },
+  {
+    "name": "Sligo Grotto",
+    "town": "Millers",
+    "state": "MD",
+    "contactUrl": "https://caves.org/grotto/sligo-grotto/"
+  },
+  {
+    "name": "Frederick Grotto",
+    "town": "Westminster",
+    "state": "MD",
+    "contactUrl": "https://caves.org/grotto/frederick-grotto/"
+  },
+  {
+    "name": "Baltimore Grotto",
+    "town": "Bel Air",
+    "state": "MD",
+    "contactUrl": "https://www.facebook.com/groups/59865582727"
+  },
+  {
+    "name": "Boston Grotto",
+    "town": "Cambridge",
+    "state": "MA",
+    "contactUrl": "https://www.bostongrotto.org/"
+  },
+  {
+    "name": "Crescent City Cavers",
+    "town": "Metairie",
+    "state": "LA",
+    "contactUrl": "https://www.facebook.com/groups/233927854208963/"
+  },
+  {
+    "name": "Rockcastle Regional Grotto",
+    "town": "Orlando",
     "state": "KY",
-    "contactUrl": "http://www.essogrotto.com"
+    "contactUrl": "https://rockcastle.weebly.com/"
   },
   {
-    "name": "Germany Valley Grotto",
-    "town": "Upper Tract",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Greater Randolph (GROSS)",
-    "town": "Sinks Grove",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Greenbrier Grotto",
-    "town": "Frankford",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Monongahela Grotto",
-    "town": "Grafton",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Monroe County Cavers",
-    "town": "Sinks Grove",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Mountain State Grotto",
-    "town": "Beverly",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Parkersburg Area Grotto",
-    "town": "Williamstown",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "TRA Grotto",
-    "town": "Harpers Ferry",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Tri-State Grotto",
-    "town": "Gerrardstown",
-    "state": "WV",
-    "contactUrl": "http://www.tristategrotto.org/"
-  },
-  {
-    "name": "West Virginia Univ. Student Grotto",
-    "town": "Morgantown",
-    "state": "WV",
-    "contactUrl": null
-  },
-  {
-    "name": "Wisconsin Speleological Society",
-    "town": "Prairie du Sac",
-    "state": "WI",
-    "contactUrl": null
-  },
-  {
-    "name": "Great Lakes Cavers",
-    "town": "Burlington",
-    "state": "WI",
-    "contactUrl": "http://www.greatlakescaving.com"
-  },
-  {
-    "name": "Armpit Grotto",
-    "town": "Laramie",
-    "state": "WY",
-    "contactUrl": null
-  },
-  {
-    "name": "Hole-in-the-Wall Grotto",
-    "town": "Casper",
-    "state": "WY",
-    "contactUrl": null
-  },
-  {
-    "name": "Anthros Costa Rica Grotto",
+    "name": "Pine Mountain Grotto",
     "town": "",
-    "state": "WY",
-    "contactUrl": "http://www.anthros.org"
+    "state": "KY",
+    "contactUrl": "https://caves.org/grotto/pine-mountain-grotto/"
   },
   {
-    "name": "Balincaguin Conservancy Grotto",
+    "name": "Louisville Grotto",
     "town": "",
-    "state": "WY",
-    "contactUrl": "http://www.facebook.com/balincaguin.conservancy"
+    "state": "KY",
+    "contactUrl": "https://www.louisvillegrotto.org/"
   },
   {
-    "name": "PAAMUL - Gruta de",
+    "name": "Green River Grotto",
+    "town": "Bowling Green",
+    "state": "KY",
+    "contactUrl": "https://www.facebook.com/groups/greenrivergrotto"
+  },
+  {
+    "name": "Blue Grass Grotto",
+    "town": "Lexington",
+    "state": "KY",
+    "contactUrl": "http://bluegrassgrotto.org/"
+  },
+  {
+    "name": "Kansas Speleological Society",
+    "town": "Scranton",
+    "state": "KS",
+    "contactUrl": "https://caves.org/grotto/kansas-speleological-society/"
+  },
+  {
+    "name": "Flittermouse Grotto",
     "town": "",
-    "state": "WY",
-    "contactUrl": "http://Fb: NSS Paamul Grotto"
+    "state": "NC",
+    "contactUrl": "https://www.facebook.com/flittermousegrotto/"
+  },
+  {
+    "name": "Northern Rocky Mountain Grotto",
+    "town": "Bozeman",
+    "state": "MT",
+    "contactUrl": "https://nrmg.org/"
+  },
+  {
+    "name": "JUST Cavers",
+    "town": "Brandon",
+    "state": "MS",
+    "contactUrl": "https://caves.org/grotto/just-cavers/"
+  },
+  {
+    "name": "Stygian Grotto",
+    "town": "St. Peters",
+    "state": "MO",
+    "contactUrl": "https://www.stygiangrotto.org/"
+  },
+  {
+    "name": "Springfield Plateau Grotto",
+    "town": "Springfield",
+    "state": "MO",
+    "contactUrl": "https://www.spgcavers.org/"
+  },
+  {
+    "name": "SEMO Grotto",
+    "town": "Perryville",
+    "state": "MO",
+    "contactUrl": "https://m.facebook.com/groups/110894048989627/"
+  },
+  {
+    "name": "Roubidoux Grotto",
+    "town": "St. Robert",
+    "state": "MO",
+    "contactUrl": "https://www.facebook.com/RoubidouxGrotto"
+  },
+  {
+    "name": "Ozark Highlands Grotto",
+    "town": "Ozark",
+    "state": "MO",
+    "contactUrl": "https://caves.org/grotto/ozark-highlands-grotto/"
+  },
+  {
+    "name": "Missouri School of Mines Spelunkers Club",
+    "town": "Rolla",
+    "state": "MO",
+    "contactUrl": "https://web.mst.edu/~spelunk/"
+  },
+  {
+    "name": "Middle Mississippi Valley Grotto",
+    "town": "St. Louis",
+    "state": "MO",
+    "contactUrl": "http://members.socket.net/~joschaper/mmv.html"
+  },
+  {
+    "name": "Meramec Valley Grotto",
+    "town": "",
+    "state": "MO",
+    "contactUrl": "http://meramecvalleygrotto.org/joining/meetings"
+  },
+  {
+    "name": "Kansas City Area Grotto",
+    "town": "Olathe",
+    "state": "KS",
+    "contactUrl": "https://caves.org/grotto/kansas-city-area-grotto/"
+  },
+  {
+    "name": "Daedalus Cavers Grotto",
+    "town": "Pacific",
+    "state": "MO",
+    "contactUrl": "http://www.missourimountaineers.com/daedalus.htm"
+  },
+  {
+    "name": "Chouteau Grotto",
+    "town": "Columbia",
+    "state": "MO",
+    "contactUrl": "http://showmecaving.org"
+  },
+  {
+    "name": "Branson Area Tri-Lakes Grotto",
+    "town": "Walnut Shade",
+    "state": "MO",
+    "contactUrl": "https://www.facebook.com/batlgrotto"
+  },
+  {
+    "name": "Minnesota Speleological Survey",
+    "town": "Coon rapids",
+    "state": "MN",
+    "contactUrl": "https://www.facebook.com/groups/msscaves"
+  },
+  {
+    "name": "Minnesota Caving Club",
+    "town": "Burnsville",
+    "state": "MN",
+    "contactUrl": "https://www.mncavingclub.com/"
+  },
+  {
+    "name": "Michigan Interlakes Grotto",
+    "town": "Wyoming",
+    "state": "MI",
+    "contactUrl": "https://caves.org/grotto/michigan-interlakes-grotto/"
+  },
+  {
+    "name": "Detroit Urban Grotto",
+    "town": "Everett",
+    "state": "WA",
+    "contactUrl": "http://fisherridge.net/"
+  },
+  {
+    "name": "Western Maryland Grotto",
+    "town": "Keyser",
+    "state": "WV",
+    "contactUrl": "https://caves.org/grotto/western-maryland-grotto/"
+  },
+  {
+    "name": "Niagara Frontier Grotto",
+    "town": "Ontario",
+    "state": "NY",
+    "contactUrl": "https://www.facebook.com/WesternNewYorkCavers"
+  },
+  {
+    "name": "Met Grotto",
+    "town": "Jersey City",
+    "state": "NJ",
+    "contactUrl": "http://www.metgrotto.com/"
+  },
+  {
+    "name": "Helderberg-Hudson Grotto",
+    "town": "Schoharie",
+    "state": "NY",
+    "contactUrl": "https://caves.org/grotto/helderberg-hudson-grotto/"
+  },
+  {
+    "name": "Southern Nevada Grotto",
+    "town": "",
+    "state": "NV",
+    "contactUrl": "https://www.facebook.com/groups/270832089633112/"
+  },
+  {
+    "name": "Northern Nevada Grotto",
+    "town": "Spring Creek",
+    "state": "NV",
+    "contactUrl": "https://www.facebook.com/groups/274035066099152"
+  },
+  {
+    "name": "Sierra Blanca Grotto",
+    "town": "Ruidoso Downs",
+    "state": "NM",
+    "contactUrl": "https://caves.org/grotto/sierra-blanca-grotto/"
+  },
+  {
+    "name": "Sandia Grotto",
+    "town": "Albuquerque",
+    "state": "NM",
+    "contactUrl": "https://sandiagrotto.org/"
+  },
+  {
+    "name": "Pecos Valley Grotto",
+    "town": "Artesia",
+    "state": "NM",
+    "contactUrl": "https://pecosvalleygrotto.wixsite.com/mysite"
+  },
+  {
+    "name": "Pajarito Grotto",
+    "town": "Los Alamos",
+    "state": "NM",
+    "contactUrl": "http://www.pajaritogrotto.org/"
+  },
+  {
+    "name": "New Mexico Tech Student Grotto",
+    "town": "Socorro",
+    "state": "NM",
+    "contactUrl": "http://infohost.nmt.edu/~nmtcaver/index.htm"
+  },
+  {
+    "name": "Mesilla Valley Grotto",
+    "town": "Las Cruces",
+    "state": "NM",
+    "contactUrl": "https://caves.org/grotto/mesilla-valley-grotto/"
+  },
+  {
+    "name": "Northern New Jersey Grotto",
+    "town": "Kinnelon",
+    "state": "NJ",
+    "contactUrl": "http://www.nnjg.org/"
+  },
+  {
+    "name": "New Jersey Tri-State Speleological Society",
+    "town": "Wanaque",
+    "state": "NJ",
+    "contactUrl": "https://caves.org/grotto/new-jersey-tri-state-spel-society/"
+  },
+  {
+    "name": "Central New Jersey Grotto",
+    "town": "Hamilton Square",
+    "state": "NJ",
+    "contactUrl": "https://caves.org/grotto/central-new-jersey-grotto/"
+  },
+  {
+    "name": "Triangle Troglodytes",
+    "town": "Raleigh",
+    "state": "NC",
+    "contactUrl": "https://www.tritrogs.org/"
+  },
+  {
+    "name": "Charlotte Caving Club",
+    "town": "Fort Mill",
+    "state": "SC",
+    "contactUrl": "https://charlottecavingclub.weebly.com/#/"
+  },
+  {
+    "name": "Syracuse University Outing Club",
+    "town": "",
+    "state": "NY",
+    "contactUrl": "https://suoc.syr.edu/caving/"
+  },
+  {
+    "name": "Shawangunk-Catskill Area Grotto",
+    "town": "Kingston",
+    "state": "NY",
+    "contactUrl": "http://www.scagrotto.com/"
+  },
+  {
+    "name": "Rensselaer Outing Club",
+    "town": "Troy",
+    "state": "NY",
+    "contactUrl": "https://www.outing.org/"
+  },
+  {
+    "name": "Western Indiana Grotto",
+    "town": "Poland",
+    "state": "IN",
+    "contactUrl": "https://www.indiana-caves.org"
   }
 ]

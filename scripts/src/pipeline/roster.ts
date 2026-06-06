@@ -1,15 +1,18 @@
 // Fetch the authoritative ACTIVE-grotto roster from the current caves.org
-// WordPress REST API. This decides WHICH grottos exist; town + website come
-// from the legacy list via the join (see join.ts).
+// WordPress REST API. This decides WHICH grottos exist; town + website are then
+// scraped from each grotto's page (see grottoPage.ts).
 //
 // The API's "grottos" post type also contains non-grotto entities (cave
 // surveys, NSS regions, sections) — these carry no state tag and no town, so
 // they naturally fall out of the map (they never get coordinates). We keep them
-// in the roster rather than guessing a blocklist; the join + "unplaced" log
-// makes them visible.
+// in the roster rather than guessing a blocklist; the "unplaced" log makes them
+// visible.
 
 import { STATE_NAMES } from "./states.js";
-import { decodeName } from "./names.js";
+import { decodeEntities } from "./town.js";
+
+/** Decode entities, collapse whitespace, and trim a title/name. */
+const cleanName = (s: string): string => decodeEntities(s).replace(/\s+/g, " ").trim();
 
 const API_BASE = "https://caves.org/wp-json/wp/v2";
 const USER_AGENT = "GrottoFinder/1.0 (NSS grotto locator; periodic sync)";
@@ -53,7 +56,7 @@ async function fetchStateTermMap(): Promise<Map<number, string>> {
   const nameToCode = buildStateNameToCode();
   const out = new Map<number, string>();
   for (const t of terms) {
-    const code = nameToCode.get(decodeName(t.name).toLowerCase());
+    const code = nameToCode.get(cleanName(t.name).toLowerCase());
     if (code) out.set(t.id, code);
   }
   return out;
@@ -68,7 +71,7 @@ export async function fetchRoster(): Promise<RosterGrotto[]> {
     const batch = await getJson<ApiGrotto[]>(url);
     if (batch.length === 0) break;
     for (const g of batch) {
-      const name = decodeName(g.title?.rendered ?? "").trim();
+      const name = cleanName(g.title?.rendered ?? "");
       if (!name) continue;
       const states = (g.state ?? [])
         .map((id) => stateMap.get(id))

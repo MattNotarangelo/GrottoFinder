@@ -18,74 +18,58 @@ Two firm lines, enforced in code and tests:
    precision, and pinning a volunteer's house is unacceptable.
 
 The data model has no field for street address, member name, or phone number,
-and `tests/parse.test.ts` asserts that no extracted town contains a street
+and `tests/town.test.ts` asserts that no extracted town contains a street
 fragment.
 
 ---
 
 ## Data source: which one, and why
 
-There is no single clean NSS data feed, so we use a **hybrid of two sources**,
-each for what it does best. We chose this by inspecting the **actual markup,
-REST API, and network traffic** (not assumptions):
+Everything comes from the **current caves.org site**, in two steps. We chose
+this by inspecting the **actual markup, REST API, and network traffic** (not
+assumptions):
 
-| Source | What it gives | What it lacks |
-| --- | --- | --- |
-| **caves.org REST API** — `wp-json/wp/v2/grottos` (the current WordPress site) | The **authoritative, current roster** of active grottos (~236 records) with a clean `state` taxonomy. This is the JSON endpoint behind the live "find a grotto" search. | **No structured town or website** — each record is just a name + a free-text description. Also includes ~30 non-grotto entities (cave surveys, NSS regions, sections). |
-| **legacy.caves.org** — [`grottos.shtml`](https://legacy.caves.org/committee/i-o/grottos/grottos.shtml) (I/O committee list) | Structured **town + website** per grotto (`Town, ST ZIP` + a link), in a hand-maintained static table (~208 entries). | Lags the current site — includes some **defunct** grottos and misses newer ones. |
+1. **The roster** — `caves.org/wp-json/wp/v2/grottos` (the WordPress REST API
+   behind the live "find a grotto" search). This is the authoritative, current
+   list of active grottos (~236 records) with a clean `state` taxonomy. It
+   decides **which** grottos exist. (It also includes ~30 non-grotto entities —
+   cave surveys, NSS regions, sections — which carry no state and no town, so
+   they never get coordinates and naturally stay off the map.)
+2. **Each grotto's page** — `caves.org/grotto/<slug>/`. Every page has a
+   "Contact Information" block with a `Town, ST ZIP`, and links to the club's
+   own website. We scrape each page for the **town** and **website**.
 
-**How they combine** (see `scripts/src/pipeline/join.ts`):
+> Dead ends, for the record: the `caves.org/find-a-grotto/` *page* renders zero
+> listings in static HTML (they load client-side); the `legacy.caves.org` I/O
+> list is structured but lags the current site (it still listed defunct grottos
+> like *Persona Non Grotto*); and the API records themselves expose no
+> structured town. Reading the per-grotto pages gives one current source for
+> everything, with no name-matching between sources.
 
-- The **API roster decides which grottos are active.** A grotto the current site
-  has dropped (e.g. *Persona Non Grotto*) no longer appears.
-- Each roster grotto is matched **by name** to the legacy list to pull its
-  **town + website** (the map needs town-level location for "nearest to me").
-- A roster grotto with no legacy match (a brand-new grotto, or a non-local
-  entity like a cave survey) has no town and is left off the map until a town is
-  supplied via `data/overrides.json`. Non-local entities have no state either,
-  so they fall out naturally.
+### Parsing the grotto pages
 
-> Two earlier dead ends, for the record: the `caves.org/find-a-grotto/` *page*
-> renders zero listings in static HTML (they load client-side), and the 12
-> regional sites have inconsistent structure. The REST API is the stable feed
-> the brief hoped for — initially missed because it isn't referenced by that
-> page; the per-state pages (`caves.org/state/<name>/`) led to it.
+`scripts/src/pipeline/grottoPage.ts` fetches each grotto's page and extracts:
 
-### Name matching
+- **Town** (via `scripts/src/pipeline/town.ts`) — the `Town, ST ZIP` from the
+  contact block. It handles every real-world format variant (`City, ST ZIP`,
+  `City ST ZIP`, `City, ST, ZIP`, `Street, City ST ZIP`, lowercase states).
+- **Website** — the club's own site, filtering out NSS's site-wide social
+  accounts (twitter/NSScaves, facebook/NationalSpeleologicalSociety, …) and
+  WordPress boilerplate. Falls back to the grotto's caves.org page when the club
+  lists no external site.
 
-The two sources spell the same club differently — "Spel. Society" vs
-"Speleological Society", "Troglodyte Soc" vs "Troglodyte Society", "Gr." vs
-"Grotto". `scripts/src/pipeline/names.ts` normalizes names (expands
-abbreviations, drops parentheticals/stopwords, decodes entities) before
-matching. For the few residual cases, `data/overrides.json` has an `_aliases`
-map (API name → legacy name) so a renamed grotto keeps its town instead of being
-dropped as defunct. The pipeline logs every dropped (defunct) and unplaced
-grotto so the weekly PR review can catch a bad match.
+**PRIVACY (firm constraint):** those contact blocks are usually a **member's
+home address** (e.g. `Ethan Perrine, 14045 North Green Hills Loop, Austin, TX`).
+We extract **only the town** — the extractor pulls the city out of a
+street-bearing line and **never emits a street fragment** (`14045 North Green
+Hills Loop, Austin, TX` → `Austin`; `St. Louis` is preserved, not mistaken for a
+street). Street, name, and phone are discarded and never stored. `town.test.ts`
+asserts this.
 
-### Parsing the legacy list
-
-`scripts/src/pipeline/parse.ts` is a pure, unit-tested function. The source
-table is messy real-world HTML (doubled attribute quotes like `valign=""top""`,
-unclosed `<a name>` anchors), so the parser is deliberately forgiving:
-
-- Entries are `<td>` cells whose first child is `<strong>Club Name</strong>`
-  followed by `<br>`-separated address lines. Entry cells are distinguished from
-  state-header cells by the presence of an address block.
-- **State** comes from the `Town, ST ZIP` line (with a raw-offset `<a name="XX">`
-  section scan as fallback). The DOM anchor query is unreliable here because the
-  anchors are unclosed, so we don't depend on it.
-- **Town** extraction handles every format variant present in the source —
-  `City, ST ZIP`, `City ST ZIP`, `City, ST, ZIP`, `Street, City ST ZIP`,
-  lowercase states (`Pa`), and street-on-the-same-line cases. It pulls the city
-  out of a street-bearing line and **never emits a street fragment** (e.g.
-  `6740 Marguerite St, Juneau AK 99801` → `Juneau`; `St. Louis` is preserved,
-  not mistaken for a street).
-- Names are **not** keyed on the word "Grotto" — ~45 clubs are named "… Cavers",
-  "… Society", "… Troglodytes", etc.
-
-Of ~208 legacy entries, ~201 yield a clean US town; the rest are address-less or
-foreign and handled via overrides. After joining with the API roster, **~199
-active grottos** are placed on the map.
+Of ~236 roster entries, ~30 are non-local entities and a handful of real grottos
+list no address; the rest yield a clean US town, so **~200 active grottos** are
+placed on the map. Grottos with no parseable town get one via
+`data/overrides.json`.
 
 ### Geocoding: why Nominatim, not the US Census Geocoder
 
@@ -109,18 +93,18 @@ and exactly the right granularity. We are good citizens of the free service:
 
 ```
 data/
-  roster.json          # raw API roster: active grottos + states (regenerated)
-  scraped.json         # raw legacy parse: town + website (regenerated)
+  roster.json          # raw API roster: active grottos + states + link (regenerated)
+  scraped.json         # per-grotto town + website scraped from pages (regenerated)
   geocode-cache.json   # town,ST -> lat,lng cache (committed; grows over time)
-  overrides.json       # hand-maintained corrections + _aliases; ALWAYS win
+  overrides.json       # hand-maintained corrections; ALWAYS win
 public/
   grottos.geojson      # emitted dataset the frontend loads
 scripts/src/pipeline/  # the data pipeline (TypeScript)
-  roster.ts  scrape.ts  parse.ts  names.ts  join.ts
+  roster.ts  grottoPage.ts  town.ts
   geocode.ts  merge.ts  states.ts  build.ts  types.ts
 src/                   # frontend (Vite + Leaflet)
   main.ts  map.ts  geo.ts  styles.css
-tests/                 # vitest unit tests + saved source fixture
+tests/                 # vitest unit tests + saved page fixtures
 .github/workflows/     # ci.yml (PR checks) + sync-grottos.yml (weekly sync)
 ```
 
@@ -131,12 +115,12 @@ tests/                 # vitest unit tests + saved source fixture
 ```bash
 npm install
 
-# Full live run: fetch the API roster + legacy list, join, geocode new towns,
-# emit grottos.geojson.
+# Full live run: fetch the API roster, scrape each grotto page for town +
+# website, geocode new towns, emit grottos.geojson. (~236 page fetches.)
 npm run pipeline
 
-# Offline re-emit: use the committed data/roster.json + scraped.json + cache,
-# no network. Useful for testing the join/merge/emit logic and overrides.
+# Offline re-emit: use the committed data/scraped.json + cache, no network.
+# Useful for testing the merge/emit logic and overrides.
 npm run pipeline:offline
 ```
 
@@ -144,11 +128,11 @@ The pipeline writes to `data/roster.json`, `data/scraped.json`,
 `data/geocode-cache.json`, and `public/grottos.geojson`. Review the diff before
 committing.
 
-**Safety guard:** if **either** source (the API roster or the legacy list)
-yields fewer than **150** grottos, the pipeline **aborts non-zero without
-overwriting committed data**. A near-empty result means a source changed and a
-parser broke — a broken run must never wipe the dataset. In CI this fails the
-sync job loudly instead of opening a PR that deletes everything.
+**Safety guard:** if the roster yields fewer than **150** grottos, the pipeline
+**aborts non-zero without overwriting committed data**. A near-empty result
+means the source changed and a parser broke — a broken run must never wipe the
+dataset. In CI this fails the sync job loudly instead of opening a PR that
+deletes everything.
 
 ---
 
@@ -162,9 +146,8 @@ collapsed); keys starting with `_` are ignored (used for comments/examples).
 {
   "Huntsville Grotto": { "lat": 34.7304, "lng": -86.5861, "note": "pin exact town centroid" },
   "Some Defunct Grotto": { "exclude": true, "note": "no longer active" },
-  "Misspelled Twon Grotto": { "town": "Correct Town", "state": "TN" },
-  "Renamed Club": { "name": "New Name", "contact_url": "https://example.org" },
-  "_aliases": { "API Grotto Name": "Legacy List Name" }
+  "Misplaced Grotto": { "town": "Correct Town", "state": "TN" },
+  "Renamed Club": { "name": "New Name", "contact_url": "https://example.org" }
 }
 ```
 
@@ -172,11 +155,9 @@ Supported fields: `exclude`, `town`, `state`, `lat` + `lng`, `name`,
 `contact_url`, `note`. A grotto with no town and no coordinate override is
 logged as "unplaced" and omitted from the map (it can't be located) — add a
 `town` or `lat`/`lng` override to place it. The shipped overrides give towns to
-new grottos the API added (sourced from their caves.org descriptions) and fix
-one legacy town typo; defunct and foreign grottos now drop out automatically by
-not being in the API roster. **`_aliases`** maps an API roster name to its
-legacy-list name when they differ, so the grotto keeps its town instead of being
-treated as defunct.
+the handful of active grottos whose page has no address block (sourced from
+their caves.org descriptions). Defunct grottos drop out automatically by not
+being in the API roster — no exclusions needed.
 
 ### Regions
 
@@ -239,12 +220,17 @@ npm test          # vitest
 npm run typecheck # tsc --noEmit
 ```
 
-Coverage focuses on the risky logic: the HTML parser (against a saved source
-fixture in `tests/fixtures/`, including the privacy guarantee that no street
-fragment leaks into a town) and the geo math (`haversine`, `nearest`,
-GeoJSON parsing).
+Coverage focuses on the risky logic: town/website extraction from grotto pages
+(against saved page fixtures in `tests/fixtures/`, including the privacy
+guarantee that no street fragment leaks into a town) and the geo math
+(`haversine`, `nearest`, GeoJSON parsing).
 
 ## Attribution
 
-- Grotto data: [NSS I/O Committee grotto list](https://legacy.caves.org/committee/i-o/grottos/grottos.shtml).
-- Geocoding & map tiles: © [OpenStreetMap](https://openstreetmap.org/copyright) contributors (Nominatim + OSM tiles).
+- Grotto data: [caves.org](https://caves.org/find-a-grotto/) (National Speleological Society).
+- Geocoding: © [OpenStreetMap](https://openstreetmap.org/copyright) contributors (Nominatim).
+- Basemap tiles: © [OpenStreetMap](https://openstreetmap.org/copyright) contributors, © [CARTO](https://carto.com/attributions).
+
+## License
+
+[GNU General Public License v3.0 or later](./LICENSE).

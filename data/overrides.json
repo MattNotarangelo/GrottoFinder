@@ -3,37 +3,24 @@
   "_example_coordinate_fix": {
     "note": "EXAMPLE ONLY (key starts with _ so it is ignored). To fix a mislocated grotto, copy this under its exact name: \"Some Grotto\": { \"lat\": 35.123, \"lng\": -86.456, \"note\": \"why\" }"
   },
-  "_aliases": {
-    "_comment": "Map an API roster name -> the legacy-list name when they differ, so the grotto keeps its town/website instead of being dropped as defunct. Reviewed against the legacy list.",
-    "Greater Randolph Organization for Speleological Science (GROSS)": "Greater Randolph (GROSS)",
-    "Southern Colorado Mountain Grotto": "Southern Colorado Mountain",
-    "Northern Colorado Mountain Grotto": "Northern Colorado Grotto",
-    "Syracuse University Outing Club": "Syracuse University Outing",
-    "Wittenberg University Speleological Society": "Wittenberg U. Spel Soc (Stu)"
-  },
-  "Pittsburgh Grotto": {
-    "town": "McKeesport",
-    "state": "PA",
-    "note": "Legacy list misspells the town as 'McKeespot', which fails to geocode. Corrected to McKeesport, PA."
-  },
   "Gila Area Grotto": {
     "town": "Silver City",
     "state": "NM",
-    "note": "New grotto (in API, not legacy). Town from its caves.org description: 'meeting in Silver City'."
+    "note": "Page has no address block. Town from its caves.org description: 'meeting in Silver City'."
   },
   "Colorado School of Mines Grotto": {
     "town": "Golden",
     "state": "CO",
-    "note": "New grotto (in API, not legacy). Colorado School of Mines is in Golden, CO."
+    "note": "Page has no address block. Colorado School of Mines is in Golden, CO."
   },
   "Grotto of the Ancients": {
     "town": "Cortez",
     "state": "CO",
-    "note": "New grotto (in API, not legacy). Town from its caves.org description: 'serving the 4 corners region including Cortez and Durango'."
+    "note": "Page has no usable address. Town from its caves.org description: 'serving the 4 corners region including Cortez and Durango'."
   },
   "Druid City Grotto": {
     "town": "Tuscaloosa",
     "state": "AL",
-    "note": "New grotto (in API, not legacy). 'The Druid City' is the established nickname for Tuscaloosa, AL."
+    "note": "Page has no address block. 'The Druid City' is the established nickname for Tuscaloosa, AL."
   }
 }

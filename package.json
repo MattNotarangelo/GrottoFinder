@@ -4,6 +4,7 @@
   "description": "Static web map of NSS grottos (local caving clubs), town-level only.",
   "type": "module",
   "private": true,
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "pipeline": "tsx scripts/src/pipeline/build.ts",
     "pipeline:offline": "tsx scripts/src/pipeline/build.ts --no-network",
