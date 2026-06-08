@@ -16,7 +16,7 @@
         "town": "Juneau",
         "state": "AK",
         "contact_url": "https://caves.org/grotto/glacier-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -34,7 +34,7 @@
         "town": "Birmingham",
         "state": "AL",
         "contact_url": "https://www.bhamgrotto.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -52,7 +52,7 @@
         "town": "Morris",
         "state": "AL",
         "contact_url": "https://www.facebook.com/groups/351377211568393/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -70,7 +70,7 @@
         "town": "Cullman",
         "state": "AL",
         "contact_url": "http://cullmangrotto.org/%20%20",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -88,7 +88,7 @@
         "town": "Tuscaloosa",
         "state": "AL",
         "contact_url": "https://caves.org/grotto/druid-city-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -106,7 +106,7 @@
         "town": "Leesburg",
         "state": "AL",
         "contact_url": "https://gadsden.caves.org/index.html",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -124,7 +124,7 @@
         "town": "Huntsville",
         "state": "AL",
         "contact_url": "https://www.huntsvillegrotto.net/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -142,43 +142,7 @@
         "town": "Scottsboro",
         "state": "AL",
         "contact_url": "https://caves.org/grotto/jackson-county-grotto/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.3090775,
-          32.3777111
-        ]
-      },
-      "properties": {
-        "name": "Montgomery Grotto",
-        "region": "Southeast / TAG",
-        "town": "Montgomery",
-        "state": "AL",
-        "contact_url": "https://linktr.ee/montgomerygrotto",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.232863,
-          34.0012604
-        ]
-      },
-      "properties": {
-        "name": "RAT Grotto",
-        "region": "Southeast / TAG",
-        "town": "Gallant",
-        "state": "AL",
-        "contact_url": "https://caves.org/grotto/rat-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -196,7 +160,7 @@
         "town": "Sherwood",
         "state": "AR",
         "contact_url": "https://bmg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -214,7 +178,7 @@
         "town": "Harrison",
         "state": "AR",
         "contact_url": "https://caves.org/grotto/central-region-arkansas-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -232,7 +196,7 @@
         "town": "Batesville",
         "state": "AR",
         "contact_url": "https://davidthomas0.wixsite.com/cobra",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -250,7 +214,7 @@
         "town": "Maumelle",
         "state": "AR",
         "contact_url": "https://caves.org/grotto/little-rock-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -268,7 +232,7 @@
         "town": "Maumelle",
         "state": "AR",
         "contact_url": "https://caves.org/grotto/middle-ozark-lower-earth-soc-moles/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -286,7 +250,7 @@
         "town": "Glendale",
         "state": "AZ",
         "contact_url": "https://centralazgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -304,7 +268,7 @@
         "town": "Elfrida",
         "state": "AZ",
         "contact_url": "https://caves.org/grotto/cochise-county-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -322,7 +286,7 @@
         "town": "Tucson",
         "state": "AZ",
         "contact_url": "https://www.escabrosa.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -340,7 +304,7 @@
         "town": "Bisbee",
         "state": "AZ",
         "contact_url": "https://caves.org/grotto/mule-mountain-caving-club/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -358,7 +322,7 @@
         "town": "Prescott Valley",
         "state": "AZ",
         "contact_url": "https://caves.org/grotto/northern-arizona-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -376,7 +340,7 @@
         "town": "Tucson",
         "state": "AZ",
         "contact_url": "https://sazgrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -394,7 +358,7 @@
         "town": "Long Beach",
         "state": "CA",
         "contact_url": "https://caves.org/grotto/desert-dog-troglodytes/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -412,7 +376,7 @@
         "town": "Union City",
         "state": "CA",
         "contact_url": "https://diablogrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -430,7 +394,7 @@
         "town": "Sacramento",
         "state": "CA",
         "contact_url": "https://www.motherlodegrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -448,7 +412,7 @@
         "town": "Cloverdale",
         "state": "CA",
         "contact_url": "http://redwoodgrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -466,7 +430,7 @@
         "town": "Oceanside",
         "state": "CA",
         "contact_url": "https://www.facebook.com/groups/sandiegogrotto",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -484,7 +448,7 @@
         "town": "Menlo Park",
         "state": "CA",
         "contact_url": "https://www.sfbaycaving.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -502,7 +466,7 @@
         "town": "Fresno",
         "state": "CA",
         "contact_url": "https://www.sjvg.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -520,7 +484,7 @@
         "town": "Montgomery Creek",
         "state": "CA",
         "contact_url": "https://caves.org/grotto/shascade-caving-society/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -538,25 +502,7 @@
         "town": "Shasta",
         "state": "CA",
         "contact_url": "https://sag.caves.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.5978087,
-          34.2011078
-        ]
-      },
-      "properties": {
-        "name": "Southern California Grotto",
-        "region": "Pacific",
-        "town": "Canoga Park",
-        "state": "CA",
-        "contact_url": "https://socalgrotto.com",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -574,7 +520,7 @@
         "town": "Manteca",
         "state": "CA",
         "contact_url": "https://caves.org/grotto/stanislaus-speleo-assn/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -592,7 +538,7 @@
         "town": "Lemon Grove",
         "state": "CA",
         "contact_url": "https://caves.org/grotto/stonewall-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -610,7 +556,7 @@
         "town": "Saratoga",
         "state": "CA",
         "contact_url": "https://nsswest.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -628,7 +574,7 @@
         "town": "Conifer",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/central-oklahoma-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -646,7 +592,7 @@
         "town": "Denver",
         "state": "CO",
         "contact_url": "https://www.coloradogrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -664,7 +610,7 @@
         "town": "Golden",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/colorado-school-of-mines-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -682,25 +628,7 @@
         "town": "Rifle",
         "state": "CO",
         "contact_url": "https://coloradowesternslopegrotto.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.270545,
-          40.0149856
-        ]
-      },
-      "properties": {
-        "name": "Front Range Grotto",
-        "region": "West",
-        "town": "Boulder",
-        "state": "CO",
-        "contact_url": "https://www.frontrangegrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -718,7 +646,7 @@
         "town": "Cortez",
         "state": "CO",
         "contact_url": "https://www.facebook.com/groups/550355597821413",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -736,7 +664,7 @@
         "town": "Durango",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/gypsy-underground-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -754,7 +682,7 @@
         "town": "Loveland",
         "state": "CO",
         "contact_url": "https://caves.org/grotto/northern-colorado-mountain/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -772,43 +700,7 @@
         "town": "Colorado Springs",
         "state": "CO",
         "contact_url": "https://www.facebook.com/profile.php/?id=100066235821326",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.3246941,
-          39.5466381
-        ]
-      },
-      "properties": {
-        "name": "Timberline Grotto",
-        "region": "West",
-        "town": "Glenwood Springs",
-        "state": "CO",
-        "contact_url": "https://timberline.caves.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.9430128,
-          41.6711752
-        ]
-      },
-      "properties": {
-        "name": "Central Connecticut Grotto",
-        "region": "Northeast",
-        "town": "Bristol",
-        "state": "CT",
-        "contact_url": "http://ctcavers.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -826,7 +718,7 @@
         "town": "Wilmington",
         "state": "DE",
         "contact_url": "https://caves.org/grotto/commander-cody-caving-club/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -844,25 +736,7 @@
         "town": "Palm Bay",
         "state": "FL",
         "contact_url": "https://caves.org/grotto/central-florida-grotto/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2809332,
-          30.4380832
-        ]
-      },
-      "properties": {
-        "name": "Flint River Grotto",
-        "region": "Southeast / TAG",
-        "town": "Tallahassee",
-        "state": "FL",
-        "contact_url": "http://www.flintrivergrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -880,7 +754,7 @@
         "town": "Williston",
         "state": "FL",
         "contact_url": "http://www.floridacaving.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -898,25 +772,7 @@
         "town": "Orange Park",
         "state": "FL",
         "contact_url": "https://rivercitygrotto.com/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4583107,
-          27.9449854
-        ]
-      },
-      "properties": {
-        "name": "Tampa Bay Area Grotto",
-        "region": "Southeast / TAG",
-        "town": "Tampa",
-        "state": "FL",
-        "contact_url": "https://www.tampabaygrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -934,7 +790,7 @@
         "town": "Colbert",
         "state": "GA",
         "contact_url": "https://caves.org/grotto/athens-speleological-society/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -952,7 +808,7 @@
         "town": "Augusta",
         "state": "GA",
         "contact_url": "https://www.facebook.com/profile.php?id=100064523331146",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -970,7 +826,7 @@
         "town": "Kennesaw",
         "state": "GA",
         "contact_url": "https://caves.org/grotto/clayton-county-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -988,7 +844,7 @@
         "town": "Rome",
         "state": "GA",
         "contact_url": "https://www.facebook.com/groups/clocktowergrotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1006,7 +862,7 @@
         "town": "Cartersville",
         "state": "GA",
         "contact_url": "https://www.dogwoodcitygrotto.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1024,7 +880,7 @@
         "town": "LaFayette",
         "state": "GA",
         "contact_url": "https://middlegeorgiagrotto.wordpress.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1042,7 +898,7 @@
         "town": "Rock Spring",
         "state": "GA",
         "contact_url": "https://caves.org/grotto/pigeon-mountain-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1060,7 +916,7 @@
         "town": "Atlanta",
         "state": "GA",
         "contact_url": "https://caves.org/grotto/team-poseidon/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1078,7 +934,7 @@
         "town": "Ocean View",
         "state": "HI",
         "contact_url": "https://www.hawaiigrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1096,7 +952,7 @@
         "town": "Decorah",
         "state": "IA",
         "contact_url": "https://caves.org/grotto/iowa-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1114,7 +970,7 @@
         "town": "Boise",
         "state": "ID",
         "contact_url": "http://gemstategrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1132,7 +988,7 @@
         "town": "Twin Falls",
         "state": "ID",
         "contact_url": "https://www.facebook.com/IdahoCavers",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1150,7 +1006,7 @@
         "town": "Carbondale",
         "state": "IL",
         "contact_url": "https://www.facebook.com/groups/130238219111/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1168,7 +1024,7 @@
         "town": "Carlinville",
         "state": "IL",
         "contact_url": "https://www.facebook.com/groups/247901266926149",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1186,7 +1042,7 @@
         "town": "Lombard",
         "state": "IL",
         "contact_url": "https://sucg.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1204,7 +1060,7 @@
         "town": "Brookfield",
         "state": "IL",
         "contact_url": "https://www.windycitygrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1222,7 +1078,7 @@
         "town": "Bloomington",
         "state": "IN",
         "contact_url": "https://BloomingtonIndianaGrotto.com",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1240,7 +1096,7 @@
         "town": "Indianapolis",
         "state": "IN",
         "contact_url": "http://www.cigcaves.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1258,25 +1114,7 @@
         "town": "Elwood",
         "state": "IN",
         "contact_url": "https://caves.org/grotto/eastern-indiana-grotto/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.1066598,
-          41.0321808
-        ]
-      },
-      "properties": {
-        "name": "Evansville Metropolitan Grotto (EMG)",
-        "region": "Midwest",
-        "town": "Jasper",
-        "state": "IN",
-        "contact_url": "https://www.emgcavers.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1294,7 +1132,7 @@
         "town": "Corydon",
         "state": "IN",
         "contact_url": "https://caves.org/grotto/harrison-crawford-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1312,7 +1150,7 @@
         "town": "Auburn",
         "state": "IN",
         "contact_url": "https://nig.caves.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1330,7 +1168,7 @@
         "town": "Elkhart",
         "state": "IN",
         "contact_url": "https://sjvgnss.blogspot.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1348,7 +1186,7 @@
         "town": "Poland",
         "state": "IN",
         "contact_url": "https://www.indiana-caves.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1366,7 +1204,7 @@
         "town": "Olathe",
         "state": "KS",
         "contact_url": "https://kcgrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1384,7 +1222,7 @@
         "town": "Scranton",
         "state": "KS",
         "contact_url": "https://caves.org/grotto/kansas-speleological-society/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1402,7 +1240,7 @@
         "town": "Lexington",
         "state": "KY",
         "contact_url": "http://bluegrassgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1420,7 +1258,7 @@
         "town": "Grayson",
         "state": "KY",
         "contact_url": "https://www.facebook.com/groups/145518310095/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1438,43 +1276,7 @@
         "town": "Bowling Green",
         "state": "KY",
         "contact_url": "https://www.facebook.com/groups/greenrivergrotto",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.3842213,
-          38.4124695
-        ]
-      },
-      "properties": {
-        "name": "Louisville Grotto",
-        "region": "Southeast / TAG",
-        "town": "Lagrange",
-        "state": "KY",
-        "contact_url": "https://www.louisvillegrotto.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.8888138,
-          36.8664765
-        ]
-      },
-      "properties": {
-        "name": "Pine Mountain Grotto",
-        "region": "Southeast / TAG",
-        "town": "Barbourville",
-        "state": "KY",
-        "contact_url": "https://caves.org/grotto/pine-mountain-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1492,7 +1294,7 @@
         "town": "Orlando",
         "state": "KY",
         "contact_url": "https://rockcastle.weebly.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1510,7 +1312,7 @@
         "town": "Metairie",
         "state": "LA",
         "contact_url": "https://www.facebook.com/groups/233927854208963/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1528,7 +1330,7 @@
         "town": "Cambridge",
         "state": "MA",
         "contact_url": "https://www.bostongrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1546,7 +1348,7 @@
         "town": "Bel Air",
         "state": "MD",
         "contact_url": "https://baltimoregrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1564,7 +1366,7 @@
         "town": "Laurel",
         "state": "MD",
         "contact_url": "https://dcg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1582,7 +1384,7 @@
         "town": "Westminster",
         "state": "MD",
         "contact_url": "https://caves.org/grotto/frederick-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1600,7 +1402,7 @@
         "town": "Millers",
         "state": "MD",
         "contact_url": "https://sligo.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1618,7 +1420,7 @@
         "town": "Wyoming",
         "state": "MI",
         "contact_url": "https://caves.org/grotto/michigan-interlakes-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1636,7 +1438,7 @@
         "town": "Burnsville",
         "state": "MN",
         "contact_url": "https://www.mncavingclub.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1654,7 +1456,7 @@
         "town": "Coon rapids",
         "state": "MN",
         "contact_url": "https://www.facebook.com/groups/msscaves",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1672,7 +1474,7 @@
         "town": "Walnut Shade",
         "state": "MO",
         "contact_url": "https://www.facebook.com/batlgrotto",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1690,7 +1492,7 @@
         "town": "Columbia",
         "state": "MO",
         "contact_url": "http://showmecaving.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1708,25 +1510,7 @@
         "town": "Pacific",
         "state": "MO",
         "contact_url": "http://www.missourimountaineers.com/daedalus.htm",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.190009,
-          38.6254063
-        ]
-      },
-      "properties": {
-        "name": "Meramec Valley Grotto",
-        "region": "Midwest",
-        "town": "St Louis",
-        "state": "MO",
-        "contact_url": "https://caves.org/grotto/meramec-valley-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1744,7 +1528,7 @@
         "town": "St. Louis",
         "state": "MO",
         "contact_url": "https://caves.org/grotto/middle-mississippi-valley-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1762,7 +1546,7 @@
         "town": "Rolla",
         "state": "MO",
         "contact_url": "https://web.mst.edu/~spelunk/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1780,7 +1564,7 @@
         "town": "Ozark",
         "state": "MO",
         "contact_url": "https://caves.org/grotto/ozark-highlands-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1798,7 +1582,7 @@
         "town": "St. Robert",
         "state": "MO",
         "contact_url": "https://www.facebook.com/RoubidouxGrotto",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1816,7 +1600,7 @@
         "town": "Perryville",
         "state": "MO",
         "contact_url": "https://m.facebook.com/groups/110894048989627/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1834,7 +1618,7 @@
         "town": "Springfield",
         "state": "MO",
         "contact_url": "https://www.spgcavers.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1852,7 +1636,7 @@
         "town": "St. Peters",
         "state": "MO",
         "contact_url": "https://www.stygiangrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1870,7 +1654,7 @@
         "town": "Brandon",
         "state": "MS",
         "contact_url": "https://caves.org/grotto/just-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1888,25 +1672,7 @@
         "town": "Bozeman",
         "state": "MT",
         "contact_url": "https://nrmg.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5508407,
-          35.595363
-        ]
-      },
-      "properties": {
-        "name": "Flittermouse Grotto",
-        "region": "Southeast / TAG",
-        "town": "Asheville",
-        "state": "NC",
-        "contact_url": "https://www.facebook.com/flittermousegrotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1924,7 +1690,7 @@
         "town": "Raleigh",
         "state": "NC",
         "contact_url": "https://www.tritrogs.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1942,7 +1708,7 @@
         "town": "Hamilton Square",
         "state": "NJ",
         "contact_url": "https://cnjg.caves.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1960,7 +1726,7 @@
         "town": "Jersey City",
         "state": "NJ",
         "contact_url": "https://caves.org/grotto/met-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1978,7 +1744,7 @@
         "town": "Wanaque",
         "state": "NJ",
         "contact_url": "https://caves.org/grotto/new-jersey-tri-state-spel-society/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -1996,7 +1762,7 @@
         "town": "Kinnelon",
         "state": "NJ",
         "contact_url": "https://caves.org/grotto/northern-new-jersey-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2014,7 +1780,7 @@
         "town": "Silver City",
         "state": "NM",
         "contact_url": "https://caves.org/grotto/gila-area-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2032,7 +1798,7 @@
         "town": "Las Cruces",
         "state": "NM",
         "contact_url": "https://caves.org/grotto/mesilla-valley-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2050,7 +1816,7 @@
         "town": "Socorro",
         "state": "NM",
         "contact_url": "https://caves.org/grotto/new-mexico-tech-student-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2068,7 +1834,7 @@
         "town": "Los Alamos",
         "state": "NM",
         "contact_url": "http://www.pajaritogrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2086,7 +1852,7 @@
         "town": "Artesia",
         "state": "NM",
         "contact_url": "https://pecosvalleygrotto.wixsite.com/mysite",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2104,7 +1870,7 @@
         "town": "Albuquerque",
         "state": "NM",
         "contact_url": "https://sandiagrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2122,7 +1888,7 @@
         "town": "Ruidoso Downs",
         "state": "NM",
         "contact_url": "https://caves.org/grotto/sierra-blanca-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2140,7 +1906,7 @@
         "town": "Carlsbad",
         "state": "NM",
         "contact_url": "https://caves.org/grotto/white-sands-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2158,25 +1924,7 @@
         "town": "Spring Creek",
         "state": "NV",
         "contact_url": "https://www.facebook.com/groups/274035066099152",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.1484131,
-          36.1674263
-        ]
-      },
-      "properties": {
-        "name": "Southern Nevada Grotto",
-        "region": "West",
-        "town": "Las Vegas",
-        "state": "NV",
-        "contact_url": "https://www.facebook.com/groups/270832089633112/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2194,7 +1942,7 @@
         "town": "Schoharie",
         "state": "NY",
         "contact_url": "http://hhg.caves.org/about.php",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2212,7 +1960,7 @@
         "town": "Ontario",
         "state": "NY",
         "contact_url": "https://www.facebook.com/WesternNewYorkCavers",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2230,7 +1978,7 @@
         "town": "Troy",
         "state": "NY",
         "contact_url": "https://www.outing.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2248,7 +1996,7 @@
         "town": "Kingston",
         "state": "NY",
         "contact_url": "http://www.scagrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2266,25 +2014,7 @@
         "town": "Syracuse",
         "state": "NY",
         "contact_url": "https://suoc.syr.edu/caving/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0007065,
-          39.9622601
-        ]
-      },
-      "properties": {
-        "name": "Central Ohio Grotto",
-        "region": "Midwest",
-        "town": "Columbus",
-        "state": "OH",
-        "contact_url": "https://www.centralohiogrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2302,7 +2032,7 @@
         "town": "Brecksville",
         "state": "OH",
         "contact_url": "http://www.clevelandgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2320,7 +2050,7 @@
         "town": "Troy",
         "state": "OH",
         "contact_url": "http://www.dugcaves.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2338,7 +2068,7 @@
         "town": "Cincinnati",
         "state": "OH",
         "contact_url": "http://www.gcgcavers.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2356,7 +2086,7 @@
         "town": "Mount Orab",
         "state": "OH",
         "contact_url": "https://caves.org/grotto/miami-valley-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2374,7 +2104,7 @@
         "town": "Olmsted Township",
         "state": "OH",
         "contact_url": "https://caves.org/grotto/ohio-cavers-and-climbers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2392,7 +2122,7 @@
         "town": "Sugar Grove",
         "state": "OH",
         "contact_url": "https://caves.org/grotto/standing-stone-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2410,25 +2140,7 @@
         "town": "Springfield",
         "state": "OH",
         "contact_url": "https://www.wusscavers.com/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.6783651,
-          34.7743383
-        ]
-      },
-      "properties": {
-        "name": "Arbuckle Mountains Grotto",
-        "region": "South Central",
-        "town": "Ada",
-        "state": "OK",
-        "contact_url": "https://www.facebook.com/groups/983839932821778",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2446,7 +2158,7 @@
         "town": "Porter",
         "state": "OK",
         "contact_url": "http://www.tulsagrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2464,7 +2176,7 @@
         "town": "Fairview",
         "state": "OR",
         "contact_url": "http://www.oregongrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2482,7 +2194,7 @@
         "town": "Bend",
         "state": "OR",
         "contact_url": "http://ohdgrotto.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2500,7 +2212,7 @@
         "town": "Portland",
         "state": "OR",
         "contact_url": "http://wvg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2518,7 +2230,7 @@
         "town": "Cogan Station",
         "state": "PA",
         "contact_url": "https://baldeaglegrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2536,7 +2248,7 @@
         "town": "Warrington",
         "state": "PA",
         "contact_url": "https://caves.org/grotto/bucks-county-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2554,7 +2266,7 @@
         "town": "Waynesboro",
         "state": "PA",
         "contact_url": "https://caves.org/grotto/franklin-county-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2572,7 +2284,7 @@
         "town": "Neffs",
         "state": "PA",
         "contact_url": "http://gag.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2590,7 +2302,7 @@
         "town": "Huntingdon",
         "state": "PA",
         "contact_url": "https://hcch.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2608,7 +2320,7 @@
         "town": "Monroeville",
         "state": "PA",
         "contact_url": "https://caves.org/grotto/loyalhanna-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2626,25 +2338,7 @@
         "town": "State College",
         "state": "PA",
         "contact_url": "https://nittanygrotto.caves.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7870991,
-          41.20484
-        ]
-      },
-      "properties": {
-        "name": "Out of Bounds Grotto",
-        "region": "Northeast",
-        "town": "Muncy",
-        "state": "PA",
-        "contact_url": "https://outofboundsgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2662,7 +2356,7 @@
         "town": "Media",
         "state": "PA",
         "contact_url": "http://www.phillygrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2680,7 +2374,7 @@
         "town": "McKeesport",
         "state": "PA",
         "contact_url": "https://pghgrotto.com/Home",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2698,7 +2392,7 @@
         "town": "Belleville",
         "state": "PA",
         "contact_url": "https://caves.org/grotto/seven-valleys-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2716,7 +2410,7 @@
         "town": "Carlisle",
         "state": "PA",
         "contact_url": "https://yorkgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2734,7 +2428,7 @@
         "town": "Fort Mill",
         "state": "SC",
         "contact_url": "https://charlottecavingclub.weebly.com/#/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2752,7 +2446,7 @@
         "town": "Greer",
         "state": "SC",
         "contact_url": "https://caves.org/grotto/south-carolina-interstate-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2770,7 +2464,7 @@
         "town": "Rapid City",
         "state": "SD",
         "contact_url": "http://www.pahasapagrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2788,7 +2482,7 @@
         "town": "Chattanooga",
         "state": "TN",
         "contact_url": "https://chattanoogagrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2806,7 +2500,7 @@
         "town": "Oak Ridge",
         "state": "TN",
         "contact_url": "https://etg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2824,7 +2518,7 @@
         "town": "Bristol",
         "state": "TN",
         "contact_url": "https://caves.org/grotto/mountain-empire-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2842,7 +2536,7 @@
         "town": "Nashville",
         "state": "TN",
         "contact_url": "https://www.nashvillegrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2860,7 +2554,7 @@
         "town": "Sewanee",
         "state": "TN",
         "contact_url": "http://smg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2878,7 +2572,7 @@
         "town": "Greeneville",
         "state": "TN",
         "contact_url": "http://www.sixridgesgrotto.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2896,7 +2590,7 @@
         "town": "Knoxville",
         "state": "TN",
         "contact_url": "https://smgrotto.wixsite.com/smg-webpage",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2914,7 +2608,7 @@
         "town": "Chapel Hill",
         "state": "TN",
         "contact_url": "https://caves.org/grotto/southport-chronic-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2932,7 +2626,7 @@
         "town": "Spencer",
         "state": "TN",
         "contact_url": "https://caves.org/grotto/spencer-mountain-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2950,7 +2644,7 @@
         "town": "Cookeville",
         "state": "TN",
         "contact_url": "https://www.facebook.com/ucgrotto",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2968,7 +2662,7 @@
         "town": "College Station",
         "state": "TX",
         "contact_url": "https://cavetamu.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -2986,25 +2680,7 @@
         "town": "San Antonio",
         "state": "TX",
         "contact_url": "https://bexargrotto.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.9442177,
-          32.8295183
-        ]
-      },
-      "properties": {
-        "name": "Dallas-Fort Worth Grotto",
-        "region": "South Central",
-        "town": "Irving",
-        "state": "TX",
-        "contact_url": "http://dfwgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3022,7 +2698,7 @@
         "town": "Jersey Village",
         "state": "TX",
         "contact_url": "https://www.greaterhoustongrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3040,7 +2716,7 @@
         "town": "El Paso",
         "state": "TX",
         "contact_url": "https://cavegrotto.wordpress.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3058,7 +2734,7 @@
         "town": "Lubbock",
         "state": "TX",
         "contact_url": "http://lubbockareagrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3076,7 +2752,7 @@
         "town": "Big Spring",
         "state": "TX",
         "contact_url": "https://caves.org/grotto/permian-basin-speleological-society/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3094,25 +2770,7 @@
         "town": "Austin",
         "state": "TX",
         "contact_url": "https://caves.org/grotto/ut-grotto/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.9395211,
-          40.6061337
-        ]
-      },
-      "properties": {
-        "name": "Salt Lake Grotto",
-        "region": "West",
-        "town": "West Jordan",
-        "state": "UT",
-        "contact_url": "https://caves.org/grotto/salt-lake-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3130,7 +2788,7 @@
         "town": "Draper",
         "state": "UT",
         "contact_url": "https://www.timpgrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3148,7 +2806,7 @@
         "town": "West Jordan",
         "state": "UT",
         "contact_url": "https://caves.org/grotto/wasatch-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3166,7 +2824,7 @@
         "town": "Fredericksburg",
         "state": "VA",
         "contact_url": "https://bats.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3184,25 +2842,7 @@
         "town": "Roanoke",
         "state": "VA",
         "contact_url": "https://blueridgegrotto.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.690893,
-          38.065017
-        ]
-      },
-      "properties": {
-        "name": "Charlottesville Grotto",
-        "region": "Mid-Atlantic",
-        "town": "Crozet",
-        "state": "VA",
-        "contact_url": "http://www.cvillegrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3220,7 +2860,7 @@
         "town": "Fredericksburg",
         "state": "VA",
         "contact_url": "https://caves.org/grotto/fredericksburg-underground-network/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3238,25 +2878,7 @@
         "town": "Fort Valley",
         "state": "VA",
         "contact_url": "https://frontroyalgrotto.caves.org/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.285579,
-          37.1118094
-        ]
-      },
-      "properties": {
-        "name": "James River Grotto",
-        "region": "Mid-Atlantic",
-        "town": "Altavista",
-        "state": "VA",
-        "contact_url": "http://jamesrivergrottova.weebly.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3274,7 +2896,7 @@
         "town": "Harrisonburg",
         "state": "VA",
         "contact_url": "https://musg.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3292,7 +2914,7 @@
         "town": "Radford",
         "state": "VA",
         "contact_url": "http://www.nrvg.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3310,7 +2932,7 @@
         "town": "Mechanicsville",
         "state": "VA",
         "contact_url": "https://www.caverva.org",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3328,7 +2950,7 @@
         "town": "Chesapeake",
         "state": "VA",
         "contact_url": "https://caves.org/grotto/tidewater-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3346,7 +2968,7 @@
         "town": "Monterey",
         "state": "VA",
         "contact_url": "https://caves.org/grotto/virginia-highlands-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3364,7 +2986,7 @@
         "town": "Blacksburg",
         "state": "VA",
         "contact_url": "https://vpi.caves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3382,7 +3004,7 @@
         "town": "Wytheville",
         "state": "VA",
         "contact_url": "https://walkergrotto.wordpress.com/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3400,25 +3022,7 @@
         "town": "Albans",
         "state": "VT",
         "contact_url": "https://caves.org/grotto/vermont-cavers-association/",
-        "last_seen": "2026-06-06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.330062,
-          47.6038321
-        ]
-      },
-      "properties": {
-        "name": "Cascade Grotto",
-        "region": "Pacific",
-        "town": "Seattle",
-        "state": "WA",
-        "contact_url": "https://cascadegrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3436,7 +3040,7 @@
         "town": "Greenbay",
         "state": "WI",
         "contact_url": "https://www.wisconsincaves.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3454,7 +3058,7 @@
         "town": "Hurricane",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/charleston-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3472,7 +3076,7 @@
         "town": "Upper Tract",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/germany-valley-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3490,7 +3094,7 @@
         "town": "Sinks Grove",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/greater-randolph-organization-for-speleological-science-gross/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3508,7 +3112,7 @@
         "town": "Frankford",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/greenbrier-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3526,7 +3130,7 @@
         "town": "Grafton",
         "state": "WV",
         "contact_url": "http://www.facebook.com/groups/554062268011709",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3544,7 +3148,7 @@
         "town": "Sinks Grove",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/monroe-county-cavers/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3562,7 +3166,7 @@
         "town": "Bowden",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/mountain-state-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3580,7 +3184,7 @@
         "town": "Williamstown",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/parkersburg-area-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3598,7 +3202,7 @@
         "town": "Gerrardstown",
         "state": "WV",
         "contact_url": "https://tristategrotto.org/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3616,7 +3220,7 @@
         "town": "Morgantown",
         "state": "WV",
         "contact_url": "https://www.instagram.com/wvustudentgrotto/?hl=en",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3634,7 +3238,7 @@
         "town": "Keyser",
         "state": "WV",
         "contact_url": "https://caves.org/grotto/western-maryland-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3652,7 +3256,7 @@
         "town": "Laramie",
         "state": "WY",
         "contact_url": "https://caves.org/grotto/armpit-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3670,7 +3274,7 @@
         "town": "Casper",
         "state": "WY",
         "contact_url": "https://caves.org/grotto/hole-in-the-wall-grotto/",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     },
     {
@@ -3688,7 +3292,7 @@
         "town": "Pinedale",
         "state": "WY",
         "contact_url": "https://buy.stripe.com/dRmcN75zK6c7gyYcNJdMI01",
-        "last_seen": "2026-06-06"
+        "last_seen": "2026-06-08"
       }
     }
   ]
