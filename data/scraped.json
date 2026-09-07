@@ -1,5 +1,11 @@
 [
   {
+    "name": "Roadrunner Grotto",
+    "town": "",
+    "state": "TX",
+    "contactUrl": "https://caves.org/grotto/roadrunner-grotto/"
+  },
+  {
     "name": "Gila Area Grotto",
     "town": "",
     "state": "NM",
@@ -273,7 +279,7 @@
     "name": "Anthros Costa Rica Grotto",
     "town": "",
     "state": "",
-    "contactUrl": "https://caves.org/grotto/anthros-costa-rica-grotto/"
+    "contactUrl": "http://anthros.org/es/"
   },
   {
     "name": "Hole-in-the-Wall Grotto",
@@ -319,8 +325,8 @@
   },
   {
     "name": "Tri-State Grotto",
-    "town": "Gerrardstown",
-    "state": "WV",
+    "town": "Westminster",
+    "state": "MD",
     "contactUrl": "https://tristategrotto.org/"
   },
   {
@@ -363,7 +369,7 @@
     "name": "Vermont Cavers Association",
     "town": "Albans",
     "state": "VT",
-    "contactUrl": "https://caves.org/grotto/vermont-cavers-association/"
+    "contactUrl": "http://cavermont.org/"
   },
   {
     "name": "Walker Mountain Grotto",
@@ -397,7 +403,7 @@
   },
   {
     "name": "Cascade Grotto",
-    "town": "Seattle",
+    "town": "",
     "state": "WA",
     "contactUrl": "https://cascadegrotto.org/"
   },
@@ -421,7 +427,7 @@
   },
   {
     "name": "James River Grotto",
-    "town": "Altavista",
+    "town": "",
     "state": "VA",
     "contactUrl": "http://jamesrivergrottova.weebly.com/"
   },
@@ -433,7 +439,7 @@
   },
   {
     "name": "Charlottesville Grotto",
-    "town": "Crozet",
+    "town": "",
     "state": "VA",
     "contactUrl": "http://www.cvillegrotto.org/"
   },
@@ -451,7 +457,7 @@
   },
   {
     "name": "Salt Lake Grotto",
-    "town": "West Jordan",
+    "town": "",
     "state": "UT",
     "contactUrl": "https://caves.org/grotto/salt-lake-grotto/"
   },
@@ -463,8 +469,8 @@
   },
   {
     "name": "Out of Bounds Grotto",
-    "town": "Muncy",
-    "state": "PA",
+    "town": "",
+    "state": "",
     "contactUrl": "https://outofboundsgrotto.org/"
   },
   {
@@ -505,7 +511,7 @@
   },
   {
     "name": "Dallas-Fort Worth Grotto",
-    "town": "Irving",
+    "town": "",
     "state": "TX",
     "contactUrl": "http://dfwgrotto.org/"
   },
@@ -697,13 +703,13 @@
   },
   {
     "name": "RAT Grotto",
-    "town": "Gallant",
+    "town": "",
     "state": "AL",
     "contactUrl": "https://caves.org/grotto/rat-grotto/"
   },
   {
     "name": "Montgomery Grotto",
-    "town": "Montgomery",
+    "town": "",
     "state": "AL",
     "contactUrl": "https://linktr.ee/montgomerygrotto"
   },
@@ -715,7 +721,7 @@
   },
   {
     "name": "Tampa Bay Area Grotto",
-    "town": "Tampa",
+    "town": "",
     "state": "FL",
     "contactUrl": "https://www.tampabaygrotto.com/"
   },
@@ -733,7 +739,7 @@
   },
   {
     "name": "Flint River Grotto",
-    "town": "Tallahassee",
+    "town": "",
     "state": "FL",
     "contactUrl": "http://www.flintrivergrotto.org/"
   },
@@ -757,13 +763,13 @@
   },
   {
     "name": "Central Connecticut Grotto",
-    "town": "Bristol",
+    "town": "",
     "state": "CT",
     "contactUrl": "http://ctcavers.org/"
   },
   {
     "name": "Timberline Grotto",
-    "town": "Glenwood Springs",
+    "town": "",
     "state": "CO",
     "contactUrl": "https://timberline.caves.org/"
   },
@@ -774,14 +780,8 @@
     "contactUrl": "https://www.facebook.com/profile.php/?id=100066235821326"
   },
   {
-    "name": "Northern Colorado Mountain Grotto",
-    "town": "",
-    "state": "CO",
-    "contactUrl": "https://caves.org/grotto/northern-colorado-mountain/"
-  },
-  {
     "name": "Front Range Grotto",
-    "town": "Boulder",
+    "town": "",
     "state": "CO",
     "contactUrl": "https://www.frontrangegrotto.org/"
   },
@@ -805,7 +805,7 @@
   },
   {
     "name": "Southern California Grotto",
-    "town": "Canoga Park",
+    "town": "",
     "state": "CA",
     "contactUrl": "https://socalgrotto.com"
   },
@@ -937,7 +937,7 @@
   },
   {
     "name": "Central Ohio Grotto",
-    "town": "Columbus",
+    "town": "",
     "state": "OH",
     "contactUrl": "https://www.centralohiogrotto.com/"
   },
@@ -957,7 +957,7 @@
     "name": "Franklin County Grotto",
     "town": "Waynesboro",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/franklin-county-grotto/"
+    "contactUrl": "https://www.franklincountygrotto.com"
   },
   {
     "name": "Bucks County Grotto",
@@ -997,7 +997,7 @@
   },
   {
     "name": "Arbuckle Mountains Grotto",
-    "town": "Ada",
+    "town": "",
     "state": "OK",
     "contactUrl": "https://www.facebook.com/groups/983839932821778"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Pittsburgh Grotto",
-    "town": "McKeespot",
+    "town": "",
     "state": "PA",
     "contactUrl": "http://www.pittsburghcaving.club"
   },
@@ -1053,7 +1053,7 @@
     "name": "Loyalhanna Grotto",
     "town": "Monroeville",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/loyalhanna-grotto/"
+    "contactUrl": "https://www.loyalhannagrotto.org/"
   },
   {
     "name": "Huntingdon County Cave Hunters",
@@ -1075,7 +1075,7 @@
   },
   {
     "name": "Evansville Metropolitan Grotto (EMG)",
-    "town": "Jasper",
+    "town": "",
     "state": "IN",
     "contactUrl": "https://www.emgcavers.org/"
   },
@@ -1147,13 +1147,13 @@
   },
   {
     "name": "Pine Mountain Grotto",
-    "town": "Barbourville",
+    "town": "",
     "state": "KY",
     "contactUrl": "https://caves.org/grotto/pine-mountain-grotto/"
   },
   {
     "name": "Louisville Grotto",
-    "town": "Lagrange",
+    "town": "",
     "state": "KY",
     "contactUrl": "https://www.louisvillegrotto.org/"
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Flittermouse Grotto",
-    "town": "Asheville",
+    "town": "",
     "state": "NC",
     "contactUrl": "https://www.facebook.com/flittermousegrotto/"
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Meramec Valley Grotto",
-    "town": "St Louis",
+    "town": "",
     "state": "MO",
     "contactUrl": "https://caves.org/grotto/meramec-valley-grotto/"
   },
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "Southern Nevada Grotto",
-    "town": "Las Vegas",
+    "town": "",
     "state": "NV",
     "contactUrl": "https://www.facebook.com/groups/270832089633112/"
   },
