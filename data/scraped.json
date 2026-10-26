@@ -1,5 +1,11 @@
 [
   {
+    "name": "Roadrunner Grotto",
+    "town": "",
+    "state": "TX",
+    "contactUrl": "https://caves.org/grotto/roadrunner-grotto/"
+  },
+  {
     "name": "Gila Area Grotto",
     "town": "",
     "state": "NM",
@@ -319,8 +325,8 @@
   },
   {
     "name": "Tri-State Grotto",
-    "town": "Gerrardstown",
-    "state": "WV",
+    "town": "Westminster",
+    "state": "MD",
     "contactUrl": "https://tristategrotto.org/"
   },
   {
@@ -345,7 +351,7 @@
     "name": "Monongahela Grotto",
     "town": "Grafton",
     "state": "WV",
-    "contactUrl": "http://www.facebook.com/groups/554062268011709"
+    "contactUrl": "https://www.facebook.com/groups/554062268011709"
   },
   {
     "name": "Greenbrier Grotto",
@@ -363,7 +369,7 @@
     "name": "Vermont Cavers Association",
     "town": "Albans",
     "state": "VT",
-    "contactUrl": "https://caves.org/grotto/vermont-cavers-association/"
+    "contactUrl": "http://cavermont.org/"
   },
   {
     "name": "Walker Mountain Grotto",
@@ -774,12 +780,6 @@
     "contactUrl": "https://www.facebook.com/profile.php/?id=100066235821326"
   },
   {
-    "name": "Northern Colorado Mountain Grotto",
-    "town": "",
-    "state": "CO",
-    "contactUrl": "https://caves.org/grotto/northern-colorado-mountain/"
-  },
-  {
     "name": "Front Range Grotto",
     "town": "Boulder",
     "state": "CO",
@@ -957,7 +957,7 @@
     "name": "Franklin County Grotto",
     "town": "Waynesboro",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/franklin-county-grotto/"
+    "contactUrl": "https://www.franklincountygrotto.com"
   },
   {
     "name": "Bucks County Grotto",
@@ -1053,7 +1053,7 @@
     "name": "Loyalhanna Grotto",
     "town": "Monroeville",
     "state": "PA",
-    "contactUrl": "https://caves.org/grotto/loyalhanna-grotto/"
+    "contactUrl": "https://www.loyalhannagrotto.org/"
   },
   {
     "name": "Huntingdon County Cave Hunters",
@@ -1119,7 +1119,7 @@
     "name": "Frederick Grotto",
     "town": "Westminster",
     "state": "MD",
-    "contactUrl": "https://caves.org/grotto/frederick-grotto/"
+    "contactUrl": "http://frederickgrotto.caves.org/"
   },
   {
     "name": "Baltimore Grotto",
@@ -1269,7 +1269,7 @@
     "name": "Minnesota Speleological Survey",
     "town": "Coon rapids",
     "state": "MN",
-    "contactUrl": "https://www.facebook.com/groups/msscaves"
+    "contactUrl": "https://www.minnesotacaves.com/about"
   },
   {
     "name": "Minnesota Caving Club",
